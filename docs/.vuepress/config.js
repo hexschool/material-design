@@ -19,6 +19,18 @@ module.exports = {
     // 側邊導覽
     sidebar: [
       {
+        title: '排版', // 標題名稱
+        collapsable: true, // 是否可下拉關閉
+        // 巢狀路由 路徑 / 標題
+        children: [
+          ['/layout/understanding-layout', '了解佈局'],
+          ['/layout/pixel-density', '像素密度'],
+          ['/layout/responsive-layout-grid', '響應式佈局網格'],
+          ['/layout/spacing-methods', '間距方法'],
+          ['/layout/component-behavior', '元件行為'],
+        ]
+      },
+      {
         title: '色彩', // 標題名稱
         path: '/color/', // 該頁面首頁
         collapsable: true, // 是否可下拉關閉
@@ -37,16 +49,4 @@ module.exports = {
       },
     ]
   },
-  locales: {
-    '/': {
-      lang: 'en-US', // 将会被设置为 <html> 的 lang 属性
-      title: 'Material Design',
-      description: 'Vue-powered Static Site Generator'
-    },
-    '/zh/': {
-      lang: 'zh-TW',
-      title: 'Material Design',
-      description: 'Vue 驱动的静态网站生成器'
-    }
-  }
 }

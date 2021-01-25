@@ -1,6 +1,5 @@
 ---
 title: 動畫圖標
-description: 
 ---
 
 # 動畫圖標
