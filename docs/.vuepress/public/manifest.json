@@ -1,0 +1,16 @@
+{
+  "name": "material-design",
+  "short_name": "material-design",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#2196f3",
+  "description": "material-design",
+  "theme_color": "blue",
+  "icons": [
+    {
+      "src": "./photo.jpg",
+      "sizes": "144x144",
+      "type": "image/png"
+    }
+  ]
+}
