@@ -16,12 +16,10 @@ Material Design 的佈局透過使用統一的元素和間距來助長一致性�
 可預測的
 使用直觀且可預測的佈局以及一致的UI區域和空間組織。
 
-
 ![一致的](https://i.imgur.com/jQ09heL.png)
 
 一致的
 佈局在使用網格，關鍵線和填充時應保持一致。
-
 
 ![反應靈敏](https://i.imgur.com/DpWnoWd.png)
 
