@@ -3,10 +3,6 @@ title: 將形狀應用至 UI
 description: Material Shape System 能讓您系統化地將特殊形狀應用在不同的元件中。
 ---
 
-<style>
-ul{list-style:none}.em6{min-width:6em}.c-group{display:-webkit-box;display:-ms-flexbox;display:flex;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:justify;-ms-flex-pack:justify;justify-content:space-between}.c-group--2col .c-group__item{width:calc(50% - 20px)}.c-group--3col .c-group__item{width:calc(33.33% - 20px)}.c-group__item{width:100%}.c-group__divide{width:100%;height:15px;margin-top:16px}.c-group__divide--gn{background:#4caf50}.c-group__divide--rd{background:#d32f2f}.c-group__divide--og{background:#f9a825}.c-group__title{padding:10px 0 2px}.c-group__title--gn{color:#4caf50}.c-group__title--rd{color:#d32f2f}.c-group__title--og{color:#f9a825
-</style>
-
 # 將形狀應用至 UI
 
 Material Shape System 能讓您系統化地將特殊形狀應用在不同的元件中。
