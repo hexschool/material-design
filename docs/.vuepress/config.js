@@ -85,6 +85,66 @@ module.exports = {
           ['/sound/sound-resources', '聲音資源'],
         ]
       },
+      {
+        title: '圖示',
+        path: '/icongraphy/',
+        collapsable: true,
+        children: [
+          ['/icongraphy/product-icons', '產品圖標'],
+          ['/icongraphy/system-icons', '系統圖標'],
+          ['/icongraphy/animated-icons', '動畫圖標'],
+        ]
+      },
+      {
+        title: '形狀',
+        path: '/shape/',
+        collapsable: true,
+        children: [
+          ['/shape/about-shape', '關於形狀'],
+          ['/shape/shape-and-hierarchy', '形狀與層次'],
+          ['/shape/shape-as-expression', '用形狀表達'],
+          ['/shape/applying-shape-to-ui', '將形狀運用至 UI'],
+        ]
+      },
+      {
+        title: '信息',
+        path: '/communication/',
+        collapsable: true,
+        children: [
+          ['/communication/confirmation', '確認與確認信'],
+          ['/communication/data-formats', '資料格式'],
+          ['/communication/empty-states', '空狀態'],
+          ['/communication/help-and-feedback', '幫助與回饋'],
+          ['/communication/imagery', '圖像'],
+          ['/communication/offline-states', '離線狀態'],
+          ['/communication/writing', '寫作'],
+        ]
+      },
+      {
+        title: '準則概述',
+        path: '/guidelines/',
+        collapsable: true,
+        children: [
+          ['/guidelines/guidelines', '準則概述'],
+        ]
+      },
+      {
+        title: '材質主題化',
+        path: '/material-theming/',
+        collapsable: true,
+        children: [
+          ['/material-theming/overview', '總覽'],
+          ['/material-theming/implementing-your-theme', '執行你的主題'],
+        ]
+      },
+      {
+        title: '可用性',
+        path: '/usability/',
+        collapsable: true,
+        children: [
+          ['/usability/accessibility', '輔助功能'],
+        ]
+      },
     ]
   },
 }
