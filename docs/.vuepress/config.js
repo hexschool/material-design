@@ -47,7 +47,7 @@ module.exports = {
         children: [
           ['/navigation/understanding-navigation', '理解導航'],
           ['/navigation/navigation-transitions', '導航過渡'],
-          ['/navigation/search', '搜尋'],
+          // ['/navigation/search', '搜尋'],
         ]
       },
       {
