@@ -1,4 +1,9 @@
-
+---
+title: 表面
+description: Material Design 擁有三維空間的概念，這顯現在其表面、深度以及陰影上。
+---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 表面
 
@@ -215,7 +220,7 @@ Material 的表面可以依照某些形式活動：
 
 ![image alt](https://lh3.googleusercontent.com/x48Q_vcBwwAWURUhGHbVhjhcjCvOvs1s1hnwP8QuCHrXyNUK9AL3AT0Tp3jaNof_3QneUgC4wgt48V-9ChSZXEaK_iedS74XTIG-LSE=w1064-v0)
 
->  Material 表面尺寸可以被內容固定。在操作中保持其表面大小。
+> Material 表面尺寸可以被內容固定。在操作中保持其表面大小。
 
 <video src="https://kstatic.googleusercontent.com/files/fce7fdecde4bd20ac7ccd64e54213f0ec948a2f155714c89924045998d821e2a89ad45cc0589a4ff94cc47bad8f8f5e1517f8410a4e50830477f3353deab4a50" width="100%" controls=""></video>
 
@@ -303,7 +308,6 @@ Material 的表面可以依照某些形式活動：
 
 <video src="https://kstatic.googleusercontent.com/files/decb556682377f0891b663ea9e4c824c232da03c0b19d01ee18715b65becef7385f2537283cf104a9936f96da411509fcc8775dd1ffd7654f824ce27fc63e7d4" width="100%" controls=""></video>
 
-
 > 別這樣做
 > 1. 不要使用透明表面，因為它們沒有不透明性，因此很難識別內容。頂部的應用程序欄是透明的，因此無法確定文字是否出現在應用程序欄上或後面。
 > 2. 等軸測圖。
@@ -313,7 +317,6 @@ Material 的表面可以依照某些形式活動：
 ### 紗幕
 
 紗幕可以應用於 Material 表面的臨時處理，目的是使表面上的內容不那麼突出。它們有助於將使用者的注意力吸引到屏幕的其他部分，遠離加上紗幕的表面。
-
 
 紗幕有多種應用方式，包括：
 
@@ -333,4 +336,4 @@ Material 的表面可以依照某些形式活動：
 ---
 
 > 譯者：Joanne Chen
-> 校稿：Joanne Chen 
+> 校稿：Joanne Chen

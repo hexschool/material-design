@@ -111,7 +111,7 @@ module.exports = {
         path: '/communication/',
         collapsable: true,
         children: [
-          ['/communication/confirmation', '確認與確認信'],
+          ['/communication/confirmation-and-acknowledgement', '確認與確認信'],
           ['/communication/data-formats', '資料格式'],
           ['/communication/empty-states', '空狀態'],
           ['/communication/help-and-feedback', '幫助與回饋'],

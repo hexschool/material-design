@@ -3,6 +3,8 @@ title: 將形狀應用至 UI
 description: Material Shape System 能讓您系統化地將特殊形狀應用在不同的元件中。
 ---
 
+<!-- markdownlint-disable MD033 -->
+
 # 將形狀應用至 UI
 
 Material Shape System 能讓您系統化地將特殊形狀應用在不同的元件中。

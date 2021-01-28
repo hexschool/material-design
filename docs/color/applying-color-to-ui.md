@@ -3,11 +3,7 @@ title: 將顏色應用到 UI
 description: 色彩以一致且有意義的方式運用在使用者介面的元素和元件上。
 ---
 
-# 將顏色應用到 UI
-
-色彩以一致且有意義的方式運用在使用者介面的元素和元件上。
-
----
+<!-- markdownlint-disable MD033 -->
 
 ## 用法
 
@@ -97,8 +93,8 @@ APP 上頂部底部欄位色彩的配置，可以幫助使用者辨識並了解�
 ![表單和表層](https://lh3.googleusercontent.com/wWpFlJU3zD9mTsuX-01lHmzWCVNI70vlbeeJkothZMoEhCsJh-DDGh4-nddPIFfbEtma6VvZC0MgyP5DiEWZvnW2M0y2OSR4PhOv=w1064-v0)
 
 > 此產品已將底部列表與導航抽屜的默認色彩白色改為主色。
-> 1. 在底部的一部分使用主色（purple 500）代替基準的白色。
-> 2. 導航抽屜使用主色（purple 500）代替基準的白色。
+> 1.在底部的一部分使用主色（purple 500）代替基準的白色。
+> 2.導航抽屜使用主色（purple 500）代替基準的白色。
 
 ### 模態列表
 
@@ -151,9 +147,8 @@ APP 上頂部底部欄位色彩的配置，可以幫助使用者辨識並了解�
 ![色彩分類](https://lh3.googleusercontent.com/2-cBD9qPVbiQm2dHTC0RvGpZ7bEn0UEmiet4bMF_9vmW6gyfJ1K_9ldDfZbk8aEv3OBUk0SfKR3OLgybvgJT2IbE9jP_ACujheTdG70=w1064-v0)
 
 > 這個應用程式的色彩主題包含主色（purple 500）與主色的深色變化色彩（purple 600）與他的次要色（teal 200）。
-> 1. 這個產品使用主色（purple 500）作為底部應用程式欄位，並使用次要色(teal 200）作為浮動操作按鈕與選擇控制器的重點色彩。
-> 2. 這個產品使用輔助色彩（teal 200）作為選擇表單項目的重點色彩。
-
+> 1.這個產品使用主色（purple 500）作為底部應用程式欄位，並使用次要色(teal 200）作為浮動操作按鈕與選擇控制器的重點色彩。
+> 2.這個產品使用輔助色彩（teal 200）作為選擇表單項目的重點色彩。
 
 ### 按鈕、組件和選擇控制器
 
