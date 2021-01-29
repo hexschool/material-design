@@ -1,9 +1,16 @@
+---
+title: 輔助功能
+description: 設計中的輔助功能中允許各式各樣的使用者導航、理解與使用您的 UI。
+---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
+
 # 輔助功能
 
 設計中的輔助功能中允許各式各樣的使用者導航、理解與使用您的 UI。
 
 ---
-
 
 ## 認識輔助功能
 
@@ -92,7 +99,7 @@
 
 ![image alt](https://lh3.googleusercontent.com/_qfp3TXnbn8PnTWYpEqLHNeegOx99NsslB_7D2Fr0oH489cYi3KbbmPzNmjtZiZsOAT8zcsq7GvXrhvqOE6Vgk_mpNWsfmSXGn7kig=w1064-v0)
 
-> DO 
+> DO
 > 通過將重要操作放在螢幕頂部，他們在層次結構中將變得更加重要。
 
 ![image alt](https://lh3.googleusercontent.com/aO_AV2ToqHngrB1fqayHt7MZZMVbNqH-0jXC71y0fE9OYa05sI7FSoz8u3hKcefw7zv7qweHT1KTXJsjmOIXgWq29bT_zBPPcsfg=w1064-v0)
@@ -191,9 +198,9 @@
 
 [W3C](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) 建議為正文內容和圖片文字使用以下對比度：
 
-| 文字類型 | 色彩對比度| 
-| -------- | -------- | 
-| **大尺寸文字（14 pt 粗體／18 pt 常規字體及以上）和圖形** | 與背景對比度 3:1 | 
+| 文字類型 | 色彩對比度|
+| -------- | -------- |
+| **大尺寸文字（14 pt 粗體／18 pt 常規字體及以上）和圖形** | 與背景對比度 3:1 |
 | 小尺寸文字 | 與背景對比度 4.5:1 |
 
 ![image alt](https://lh3.googleusercontent.com/-qSny7vR0px4njFWG80wdN_Bdk-hOcbvhPaB2wvTM2jjfaIufUCOVv7Absl5j2K0VJbk67j40q9zE3OcKXsl-uny0RLfCWh9V3C8=w1064-v0)
@@ -277,37 +284,8 @@ Material Design 觸碰目標指南，可以幫助無法查看螢幕或使用小�
 > Android 目標此寸為 48X48dp。
 > 頭像：40dp
 > Icon ：24dp
-> 
-
-
-
+>
 
 ![image alt](https://lh3.googleusercontent.com/HRaHWJMyJLrWh9zf43dM_lDL59jcQ_ClsfrRlLJsnFRMjwoMP5uVKZe23UT_DrokN-enC0Qwexp475mXa_DMXpZa8_cLNxa7lXPaFw=w1064-v0)
 
 > 觸碰目標
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

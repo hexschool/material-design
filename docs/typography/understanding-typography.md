@@ -1,3 +1,11 @@
+---
+title: 了解排版
+description: 字體排版（typograpyh）能傳遞出資訊層次結構與品牌形象。
+---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
+
 # 了解排版
 
 字體排版（typograpyh）能傳遞出資訊層次結構與品牌形象。
@@ -10,9 +18,7 @@
 
 ![一些跟字母形體相關的名詞](https://i.imgur.com/y0MQfV5.png)
 
-
 > 一些跟字母形式（letterform）相關的名詞：字腔(aperture)、上伸筆畫(ascender)、基線(baseline)、大寫字高(cap height)、下伸筆畫(descender)、字元行距(leading)、字元間距(letter-spacing)、無襯線字體(sans serif)、有襯線字體(serif)、字體幹線(stem)、筆劃(stroke)、x字高(x-height)
-
 
 ### 基線
 
@@ -21,17 +27,14 @@
 ![基線](https://i.imgur.com/xNMmOp6.png)
 > 基線
 
-
- 
 #### 4dp 格線
 
 文字對齊在 4dp 寬的基線格線上。
 
 ![4dp 格線](https://i.imgur.com/zB4z1T7.png)
-> 無論 pt/sp 大小多大，文字的基線都必須落在 4dp 寬的格線上。行高(line-height)必須是能被 4 整除的數值，這樣才能維持格線系統的規律。
-> 
-> 譯者附註：dp，與密度無關像素(Density-Independent Pixel)，一種 Android 上的抽象空間大小單位。pt，像素(Pixel)，螢幕上所顯示的最小空間大小單位。sp，Scalable pixels(可縮放像素)，Android 上的抽象文字大小單位，一般情況下 sp = dp。
 
+> 無論 pt/sp 大小多大，文字的基線都必須落在 4dp 寬的格線上。行高(line-height)必須是能被 4 整除的數值，這樣才能維持格線系統的規律。
+> 譯者附註：dp，與密度無關像素(Density-Independent Pixel)，一種 Android 上的抽象空間大小單位。pt，像素(Pixel)，螢幕上所顯示的最小空間大小單位。sp，Scalable pixels(可縮放像素)，Android 上的抽象文字大小單位，一般情況下 sp = dp。
 
 #### 基線值的測量
 
@@ -45,7 +48,6 @@
 
 > 測量有與其他元件鄰近的文字基線值
 
-
 ### 大寫字高
 
 **大寫字高**（cap height）是指從基線開始測量起的該字體的大寫字母（像是 M 或是 I）。對於一些圓頭或尖頭的大寫字母（像是 S 或 A），為了讓視覺大小一致，會在大寫字高的上方做一些視覺上的微調。每一種字體都有自己獨特的大寫字高。
@@ -53,7 +55,6 @@
 ![大寫字高](https://i.imgur.com/ifTJkOC.png)
 
 > 大寫字高
-
 
 ### X字高
 
@@ -64,7 +65,6 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 ![字體的小寫 x 字母高度決定了該字體的x字高](https://i.imgur.com/OQ2epkV.png)
 
 > 字體的小寫 x 字母高度決定了該字體的x字高
-
 
 ### 上伸筆畫與下伸筆畫
 
@@ -81,23 +81,23 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 ![常見的字重](https://i.imgur.com/ZX4C3xw.png)
 
 > 常見的字重
+>
 > 1. 細體（light）
 > 2. 標準（regular）
 > 3. 適中（medium）
 > 4. 粗體（bold）
-
 
 ---
 
 ## 字體的分類
 
 字體分類連結
+
 - [Serif - Google Fonts](https://fonts.google.com/?category=Serif)
 - [Sans Serif - Google Fonts](https://fonts.google.com/?category=Sans+Serif)
 - [Monospace - Google Fonts](https://fonts.google.com/?category=Monospace)
 - [Handwriting - Google Fonts](https://fonts.google.com/?category=Handwriting)
 - [Display - Google Fonts](https://fonts.google.com/?category=Display)
-
 
 ### 襯線體
 
@@ -110,20 +110,22 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 - 在小寫上伸筆畫處有傾斜的襯線
 
 **過渡體**（transitional serif，也可稱巴洛克體）有這些特性：
+
 - 粗細筆畫之間的對比程度高
 - x字高的高度中間偏高
 - 筆畫是直向軸線漸粗（Vertical stress）
 - 有括號造型的襯線
 
 **新古典襯線體**（didone or neoclassical serif）有這些特性：
+
 - 粗細筆畫間的對比程度高
 - 筆畫是正向軸線漸粗
 - 有「球形」結尾的筆畫
 
 **粗襯線體**（slab serifs）有這些特性：
+
 - 襯線和主要筆畫的力度都很重，兩者之間差異不明顯
 - 襯線可能括號勾起很微小，或根本沒有
-
 
 ![襯線體的分類與代表](https://i.imgur.com/vkqghY4.png)
 
@@ -131,8 +133,6 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 > 2. Libre Baskerville，過渡體的襯線體代表
 > 3. Libre Bodoni, 新古典體的襯線體代表
 > 4. Bitter, 粗襯線體代表
-
-
 
 ### 無襯線體
 
@@ -143,6 +143,7 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 - **幾何感**（geometric）：粗細筆畫間的對比程度低，有傾斜軸線漸粗狀況，且長得比較圓
 
 ![無襯線體的分類](https://i.imgur.com/wHShd7t.png)
+
 > 1. Work Sans, 怪誕感的無襯線體代表
 > 2. Alegreya Sans, 人文感的無襯線體代表
 > 3. Quicksand, 幾何感的無襯線體代表
@@ -152,10 +153,10 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 等寬字體的字元（characters）在呈現時有著相同的寬度。
 
 ![三種等寬字體的示意圖](https://i.imgur.com/br5Mim3.png)
+
 > 1. Roboto Mono, 等寬字體代表
 > 2. Space Mono, 等寬字體代表
 > 3. VT323, 等寬字體代表
-
 
 ### 手寫字體
 
@@ -166,6 +167,7 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 - **手寫感**（Handwriting）：手寫風格的書寫（沒那麼正式）
 
 ![三種手寫字體代表字型示意圖](https://i.imgur.com/er3zOqX.png)
+
 > 1. UnifrakturMaguntia, 黑字感的手寫字體代表
 > 2. Dancing Script, 書法感的手寫字體代表
 > 3. Indie Flower, 手寫感的手寫字體代表
@@ -187,6 +189,7 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 易認性（legibility）是由字體（typeface）中的字符（characters）決定，而**可讀性**（readability）則是以閱讀字詞或文字段落的輕鬆程度決定。可讀性會受到字體樣式的影響。
 
 延伸閱讀：文字易認性
+
 - [Text legibility - Material Design](https://material.io/design/color/text-legibility.html#legibility-standards)
 
 ### 字元間距
@@ -205,7 +208,6 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 ![較寬的字距示意圖](https://i.imgur.com/3pWOfKv.png)
 > 較寬的字距
 
-
 #### 表格數字
 
 在數值變化頻繁的表格或其他地方中，經常會使用表格數字（tabular figures，也常被稱為等寬數字），而不是比例數字。
@@ -213,7 +215,6 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 ![比例數字與等寬數字示意圖](https://i.imgur.com/nXhF7Rc.png)
 
 > 表格數字讓數值在視覺上有對齊效果，在掃視時更方便。
-
 
 ### 行寬
 
@@ -226,16 +227,16 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 ![英文短句理想的行寬是每行 20 到 40 個字元](https://i.imgur.com/kAaawYf.png)
 > 英文短句理想的行寬是每行 20 到 40 個字元
 
-
 ### 行高
 
 行高（line height，也被稱為行距）控制著一行字到另一行字基線間的間距。文字的行高跟文字大小成正比。
 
 ![行高與字體大小比例示意圖](https://i.imgur.com/dVZGDeE.png)
+
 > 1. 字體大小 14，行高 20dp
 > 2. 字體大小 20，行高 28dp
 
-### 段落間距 
+### 段落間距
 
 請讓段落間距（Paragraph spacing）的字體大小保持在 .75x 到 1.25x 倍之間。
 
@@ -276,6 +277,7 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 > 文字置中對齊應用於引述文字
 
 延伸閱讀
+
 - [雙向性 - 鏡像元素（Bidirectionality mirroring elements）](https://material.io/design/usability/bidirectionality.html#mirroring-layout)
 
 ---
@@ -285,6 +287,7 @@ X字高（x-height）指的是在字體中，小寫字母 x 的高度。X字高�
 系統字體（System fonts）是指已被預先安裝在電腦或裝置上的字體。它們通常支援許多語言，而且開發人員使用這些字體時不用支付額外的授權費用。在 APP 中使用預設的系統文字，能讓 APP 的外觀與感受與平台的一致性更高。然而，因為字體在裝置上的其他 APP 也經常會出現，也因此不會有突顯效果。
 
 延伸閱讀
+
 - [Roboto - Google Fonts](https://fonts.google.com/specimen/Roboto)
 
 ### 使用系統字體 Using system fonts
@@ -300,3 +303,5 @@ Roboto 是 Android 系統的預設系統字體。對於不是 Android 或 Web �
 ![San Francisco 是 iOS 平台上的系統字體](https://i.imgur.com/KqF4X4F.png)
 > iOS
 > San Francisco 系統字體
+
+---

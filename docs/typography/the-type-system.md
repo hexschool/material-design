@@ -1,3 +1,11 @@
+---
+title: 文字系統
+description: 盡可能清楚且有效率的使用排版呈現你的設計和內容。
+---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
+
 # 文字系統
 
 盡可能清楚且有效率的使用排版呈現你的設計和內容。
@@ -14,7 +22,6 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 在文字量表中選擇一個類別以查看字體的詳細訊息，透過右側控制列調整你的字型選擇。
 
-
 <iframe _ngcontent-mfr-c18="" src="https://material.io/inline-tools/typography/" title="" style="height: 616px;width:100%;"></iframe>
 
 ---
@@ -25,7 +32,7 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 ![文字量表範例](https://i.imgur.com/2Sz2zlS.png)
 
-> Material Design 文字量表。 (字體間距值和 Sketch 相容。)
+<p class="annotation"> Material Design 文字量表。 (字體間距值和 Sketch 相容。)</p>
 
 下載此使用 Sketch 文字樣式的 Roboto 文字量表。
 
@@ -129,10 +136,14 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 文字量表在元件和整體佈局中顯示為文字。 文字屬性可以將自定義值用於字體、字型、大小寫、大小和字母間距。
 
-![](https://i.imgur.com/f4Xi5y0.png)
+![應用文字量表](https://i.imgur.com/f4Xi5y0.png)
 
-1. 文字量表值
-2. 實際值
+<div class="annotation">
+  <ul class="number-list">
+     <li>文字量表值</li>
+     <li>實際值</li>
+  </ul>
+</div>
 
 ---
 
@@ -142,17 +153,17 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 對於標題，您可以選擇一種表現字體，例如顯示字體，手寫字體或腳本樣式。這些具細節及複雜性的非常規字體設計有助於吸引眼球。
 
-![](https://i.imgur.com/3xewaTs.png)
+![標題 2 使用的顯示樣式。](https://i.imgur.com/3xewaTs.png)
 
 標題 2 使用的顯示樣式。
 
-![](https://i.imgur.com/6RSq76Y.png)
+![標題 3 使用了手寫樣式。](https://i.imgur.com/6RSq76Y.png)
 
 標題 3 使用了手寫樣式。
 
 襯線或無襯線字體非常適合標題使用，特別是在小尺寸的情況下。
 
-![](https://i.imgur.com/rYF2HH1.png)
+![標題 6 使用了無襯線樣式。](https://i.imgur.com/rYF2HH1.png)
 
 標題 6 使用了無襯線樣式。
 
@@ -164,18 +175,16 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 副標題小於標題。它們通常保留給長度較短的次要文字。副標題使用襯線或無襯線字體都很合適。
 
-![](https://i.imgur.com/XxGNWHU.png)
+![副標題 1 使用了無襯線字體。](https://i.imgur.com/XxGNWHU.png)
 
 > 副標題 1 使用了無襯線字體。
 
-
 對於副標題，在使用表現型字體時，請謹慎使用，包括顯示字體、手寫字體和腳本樣式。
 
-![](https://i.imgur.com/6k1lMYC.png)
+![在副標題中使用表現型字體時請多加注意](https://i.imgur.com/6k1lMYC.png)
 
 > <span style="color:orange">警告</span>
 在副標題中使用表現型字體時請多加注意。
-
 
 [Sans Serif fonts](https://fonts.google.com/?category=Sans+Serif)
 
@@ -185,19 +194,17 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 正文文字的範圍是 1-2，通常用於長格式書寫，因為它適用於小尺寸的文本。對於較長的文本部分，建議使用襯線或無襯線字體。
 
-![](https://i.imgur.com/9E1kyqs.png)
+![正文 1 使用襯線字體](https://i.imgur.com/9E1kyqs.png)
 
 > 正文 1 使用襯線字體。
 
-
-![](https://i.imgur.com/8cY7EOm.png)
-
+![正文 2 使用了無襯線字體](https://i.imgur.com/8cY7EOm.png)
 
 > 正文 2 使用了無襯線字體。
 
 請勿在正文中使用表現型字體，包括顯示字體、手寫字體和腳本樣式。
 
-![](https://i.imgur.com/688pZDl.png)
+![請勿在正文中使用富於表現力的字體](https://i.imgur.com/688pZDl.png)
 
 <span style="color:red">絕不</span>
 請勿在正文中使用富於表現力的字體。
@@ -210,17 +217,17 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 標題和上劃線文本（上方有一行的文字）是最小的字體大小。它們很少用於圖片的註釋或引入於標題。
 
-![](https://i.imgur.com/efk5itr.png)
+![用於字幕的襯線字體](https://i.imgur.com/efk5itr.png)
 
 > 用於字幕的襯線字體。
 
-![](https://i.imgur.com/3Hgnghe.png)
+![一種無襯線字體，用於上劃線](https://i.imgur.com/3Hgnghe.png)
 
 > 一種無襯線字體，用於上劃線。
 
-
 請勿使用表現型字體，包括顯示、手寫和腳本樣式作為標題或上劃線。
-![](https://i.imgur.com/cMad63O.png)
+
+![請勿在上方使用表現型字體](https://i.imgur.com/cMad63O.png)
 
 > <span style="color:red">絕不</span>
 請勿在上方使用表現型字體。
@@ -235,18 +242,19 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 按鈕文字通常是全大寫無襯線字體。
 
-![](https://i.imgur.com/O2nBKbY.png)
+![全大寫無襯線字體用於按鈕](https://i.imgur.com/O2nBKbY.png)
+
 > 全大寫無襯線字體用於按鈕。
 
 按鈕文字可以是句子、無襯線字體或襯線字體。
 
-![](https://i.imgur.com/Hx6lyoM.png)
+![不要將表現字體用作按鈕文字](https://i.imgur.com/Hx6lyoM.png)
 
 > <span style="color:orange">警告</span>
 當按鈕文字看起來與非交互式文字（例如，按鈕上的此上下部無襯線字體）不同時，請格外小心。
 不要將表現字體用作按鈕文字，包括顯示、手寫和腳本樣式。
 
-![](https://i.imgur.com/7RorBqc.png)
+![不要對按鈕文字使用顯示樣式](https://i.imgur.com/7RorBqc.png)
 
 > <span style="color:red">絕不</span>
 不要對按鈕文字使用顯示樣式。

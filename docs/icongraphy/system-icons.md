@@ -85,6 +85,7 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
 
 ![image alt](https://lh3.googleusercontent.com/64GWPJbpSJKB2hejLK02GLHjflv2B8cCr7SJUQI7cHXO0Qakc28U-ZRw7IRL3WadD8Stugb1HB4GgpqEkRydsEaR9AC4SqrTeRlCDlo=w1064-v0)
 圖標外形由粗體與幾何圖形組成。其有對稱且一致的外觀，即使在小尺寸的情況下，也能確保可讀性和清晰度
+
 <div class="c-group">
     <div class="c-group__item">
         <img src="https://lh3.googleusercontent.com/EbXw8rOdYxOGdXEFjgNP8lh-YAuUxwhOAe2jhrz3sgqvPeMac6a6tHvT35V6YMbyNvkZL4R_a2hcYBrtfUhLvhf-N2X3OB9cvH4uMw=w1064-v0" alt="">

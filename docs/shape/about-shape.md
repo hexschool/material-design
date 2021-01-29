@@ -2,24 +2,26 @@
 title: 關於形狀
 description: Material 表面可呈現於不同形狀上。形狀能引起人們的注意、定義元件、傳達狀態與表達品牌。
 ---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 關於形狀
 
 Material 表面可呈現於不同形狀上。形狀能引起人們的注意、定義元件、傳達狀態與表達品牌。
-
-<br>
 
 ## 形狀式材質
 
 ### 關於形狀
 
 Material 表面預設為具有 4dp 圓角的矩形。其外型可以透過以下來客製化：
-- 角的角度與曲線 
+
+- 角的角度與曲線
 - 邊的角度與曲線
 
 形狀尺寸的變化可為更微妙或更有意義。
 
-![關於形狀](https://lh3.googleusercontent.com/1j7-f8r9xWavWajmCX_WwRfG_zUAAzjRv6hEP8DZQFbwsFVuk3YgzJYG6n3yYa6d1eckD7l2hB3p2jq4rnrh7A2_WfnI875sS8Yjbw=w1064-v0) 
+![關於形狀](https://lh3.googleusercontent.com/1j7-f8r9xWavWajmCX_WwRfG_zUAAzjRv6hEP8DZQFbwsFVuk3YgzJYG6n3yYa6d1eckD7l2hB3p2jq4rnrh7A2_WfnI875sS8Yjbw=w1064-v0)
 預設的 Material 形狀可被客製化。
 
 [屬性](https://hackmd.io/X35j4E3jQBibEFz2mEEpqw?view#%E5%B1%AC%E6%80%A7)
@@ -35,7 +37,6 @@ Material 表面預設為具有 4dp 圓角的矩形。其外型可以透過以下
 ![強調](https://lh3.googleusercontent.com/ujBYvkW-lp562Asx3R0l0Bm4ZLACqIys0JxAYyrr_EUk_lPnAHT7zXbVOeGU9uYM4fFR8pzdM39UDQiAj_h66CL3O9b95P6YB4zG=w1064-v0)
 螢幕中的圓形浮動按鈕與底部弧形的應用程式列之組合，相較其他矩形更為顯眼。
 
-
 ### 識別
 
 形狀有助於使用者辨識元件與識別不同的 Material 表面。
@@ -43,15 +44,12 @@ Material 表面預設為具有 4dp 圓角的矩形。其外型可以透過以下
 ![識別](https://lh3.googleusercontent.com/5yAZN8-dSSYBgfzOmjzSf2BrwTi-F8tcatRqMD-Mtq6kxqSJDED_G35dMrdLJFrXtUdNwXDM1nQ2O4A2wFiDgTjbk23OtAidga1OOA=w1064-v0)
 這些~~條目~~片狀標籤可透過一致的形狀來辨識。
 
-
 ### 狀態
 
-~~你可以在一個群組中的元素或表面使用不同的形狀來傳遞元素的狀態變化。當使用形狀來指示狀態的變化時，在每種狀況下要與該狀態一致地使用。~~
 在同個群組中的元素或表面，可使用不同形狀傳達其狀態變化；且在各種情況下需保持使用狀態的一致性。
 
 ![狀態](https://lh3.googleusercontent.com/V7o891pEgpaV13SgOUExcFqd4cKVM5hS1oiBsSCEcrpFMRDaNj3e4Er-DAcuwtqUVyMvX6PSIGapoZJzaac39Uh7W8sB52eLzThe=w1064-v0)
 卡片被選取時會改變其上的形狀
-
 
 ### 品牌化
 
@@ -67,7 +65,6 @@ Material 表面預設為具有 4dp 圓角的矩形。其外型可以透過以下
 ### 展示形狀
 
 形狀在表面邊緣與其背景具有足夠的對比時會清晰可見。Material Design 在預設情況下，會藉由陰影彰顯表面邊緣，使形狀引人注目。其他展現表面邊緣與形狀的方式：透過與陰影的結合或其自身，如填充色或透明度。
-
 
 <div style="width:100%;display:flex;">
 
@@ -106,7 +103,6 @@ Material 表面預設為具有 4dp 圓角的矩形。其外型可以透過以下
 
 目錄左上有著類似箭頭的角指導覽列，其加強了這些元件的連結度。
 
-
 ![傳遞的意義,不建議](https://lh3.googleusercontent.com/aEELQZHqOaruwCffu23AJ06KSrBVAhtkk57gRKjt13vgMBUPCq2KnmO5FilKvyOndpZ6thKsVNb2QuA-7KfbMuFKdSL0WwdTVgTD=w1064-v0)
 
 <figcaption style="border-top:15px solid #d32f2f;"></figcaption>
@@ -121,8 +117,9 @@ Material 表面預設為具有 4dp 圓角的矩形。其外型可以透過以下
 ### 形狀式元件
 
 形狀有助使用者辨識元件與其用處。元件可改動其形狀之幅度取決於：
-- ~~如果一個元件依賴著形狀來作為元件的辨識度~~ 依賴形狀作為辨識度的元件
-- ~~如果有人體工學的要求，像是一個最小能觸碰到的目標的大小~~ 有人體工學需求的元件，像是最小觸及標的之尺寸
+
+- 依賴形狀作為辨識度的元件
+- 有人體工學需求的元件，像是最小觸及標的之尺寸
 
 ![形狀式元件,不建議1](https://lh3.googleusercontent.com/lbhyJ6Z9deQmAMV-9AzzdP9sJkN_bUNZR53T0h-lfycp_7jpCITVdMxKCUGVlPRK0ZuKiDjPXavGxaKr5IBat40Hn9kIQfm2K6wM=w1064-v0)
 
@@ -131,14 +128,12 @@ Material 表面預設為具有 4dp 圓角的矩形。其外型可以透過以下
 
 不要使用讓元件無法辨別的形狀
 
-
 ![形狀式元件,不建議2](https://lh3.googleusercontent.com/35_1hRxKpD01gKZTj_S6n5dLToFuFkbHksrKzZrkBe8M1tuhrU0Uk1mpAbhhKk0x_jcuhjbmR1xPxS0sDtzvSbbZfoBeQ_N5Mh40JQ=w1064-v0)
 
 <figcaption style="border-top:15px solid #d32f2f;"></figcaption>
 <p style="color: #d32f2f">不建議</p>
 
 不要使用會影響元件接收使用者輸入的形狀。這個按鈕的觸及標的過小
-
 
 ![形狀式元件,不建議3](https://lh3.googleusercontent.com/fmzBu08eGMthTn6nkaLol2vuVMc1Nfp49yqduCSozgXnVjoR8TGw4_TK5t1Ycyki6DlOf7l3CVh3KeE37zXvEh5dMuOHyFevgMhW=w1064-v0)
 
@@ -192,6 +187,7 @@ Material 形狀客製化工具（Material shape customization tool）可用於�
     </tbody>
 </table>
 
+---
+
 > 譯者：(Jason) Chia-Sheng Wang
 > 校稿：CH.Yu
-

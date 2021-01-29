@@ -2,21 +2,23 @@
 title: 導覽過渡
 description: 導航過渡會在使用者於網頁畫面切換時發生，例如從主畫面切換到含有更詳細資訊的畫面。
 ---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 導覽過渡
 
 導航過渡會在使用者於網頁畫面切換時發生，例如從主畫面切換到含有更詳細資訊的畫面。
 
-![](https://lh3.googleusercontent.com/gUXCOi4CBY0qu1-4MpJ5nDroCEu7fY_4L1xHSZXoFXqpB29uiEHSvEBAAt3eaR3fUb8RR4BFfNw6l5V6d2FzrLkaIpTBB8-VpyBOX6c=w1064-v0)
+![導覽過渡](https://lh3.googleusercontent.com/gUXCOi4CBY0qu1-4MpJ5nDroCEu7fY_4L1xHSZXoFXqpB29uiEHSvEBAAt3eaR3fUb8RR4BFfNw6l5V6d2FzrLkaIpTBB8-VpyBOX6c=w1064-v0)
 
 ---
 
 ## 關於導航過渡
- 
+
 ### 導航與運動
 
 導航過渡使用動作來引導使用者在您應用程式中的兩個不同畫面間移動。這些動作暗示您的應用程式裡元素的階層結構，用移動暗示網頁元素彼此之間有什麼樣的關聯性，藉此協助使用者知道自己處在何種動線。
- 
+
 例如，當一個元素擴展至整個畫面，擴展動作就傳達出這個新圖層是一個**子元素**，而此元素擴展出來的源頭則是**父元素**。
 
 ### 層次結構
@@ -24,11 +26,11 @@ description: 導航過渡會在使用者於網頁畫面切換時發生，例如�
 分層過渡將使用者於應用程序的層次結構中，向上或向下移動一級，而對等過渡則將使用者於同層級的畫面之間移動。
 
 ---
- 
+
 ## 分層過渡
 
 分層過渡反映了使用者於應用程式中向上或向下移動一個級別。鄰近階層的圖層有著同樣的父級與子級的關係，其中父級位於比子級較高的階層中。
- 
+
 ### 父子元素過渡
 
 當螢幕被觸及，一個父元素底下的子元素被提起，並透過容器的變形動畫，在原地擴展。這動作把使用者的注意力拉到子元素上（本次互動的目標），同時也強化了使用者對於父層與子層的關係。
@@ -74,6 +76,8 @@ description: 導航過渡會在使用者於網頁畫面切換時發生，例如�
 <video src="https://kstatic.googleusercontent.com/files/19960869acb4a0b755ccffdd00e379e5d32586cb9dbef79942398902734f60437d654ec81fe55c58a688b8bc2e6fabae37584b4f877b5760b144d11ddd88db57" width="100%" controls=""></video>
 
 > 鑑於目的地之間的關係並不密切，因此此照片的頂層目的地會有適當的過渡。
+
+---
 
 > 譯者：Miya Jian
 > 校稿：Joanne Chen

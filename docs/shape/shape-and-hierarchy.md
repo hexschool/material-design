@@ -2,11 +2,13 @@
 title: 形狀與層次
 description: 形狀可以把注意力引導至重要元素，且顯示與表面之間的相互關係。
 ---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 形狀與層次
 
 形狀可以把注意力引導至重要元素，且顯示與表面之間的相互關係。
-
 
 ## 發展中層次（Developing hierarchy）
 
@@ -22,7 +24,6 @@ description: 形狀可以把注意力引導至重要元素，且顯示與表面�
 
 透過與其他形狀之對比使其突出。這個浮動按鈕的圓形外型使其從其他矩形元件中脫穎而出。
 
-
 ![獨特形狀](https://lh3.googleusercontent.com/Xsm0pn7e5V2jAGHu-UHD9Hsus0_s2WhyFfUBVN8PR21zxHxzytDpd7yiQn9gIWncZxwNsNeZzselguFedB7QZEuxafpP8K76LY_YzQ=w1064-v0)
 
 <figcaption style="border-top:15px solid #d32f2f;"></figcaption>
@@ -30,7 +31,6 @@ description: 形狀可以把注意力引導至重要元素，且顯示與表面�
 <p style="color:#d32f2f;padding-top:10px;">別這樣做</p>
 
 某個形狀在相似外型的形狀中很難引起注目。這個浮動按鈕在擁有相同形狀的元素中很難被找到。
-
 
 ## 表面關係（Surface relationships）
 
@@ -67,7 +67,6 @@ description: 形狀可以把注意力引導至重要元素，且顯示與表面�
 
 <video src="https://kstatic.googleusercontent.com/files/1ec4d177e6589aac65e08ef718ec2c597c82a52a8b43268a227ce4f4d21fd1537b3992b84e49a2370cb71eb2b22992919f44e3da68e2250c926913706cd8f8a3" width="100%" controls=""></video>
 
-
 <figcaption style="border-top:15px solid #4caf50;"></figcaption>
 
 <p style="color:#4caf50;padding-top:10px;">該這樣做</p>
@@ -86,7 +85,6 @@ description: 形狀可以把注意力引導至重要元素，且顯示與表面�
 
 這個系列中擁有相似形狀與角的卡片顯示它們是同等。
 
-
 ![關聯表面](https://lh3.googleusercontent.com/UjyXaCi26soUFu4veQM5mKybYxeUhW302RaQfvLC7zpd5C0SaQVvXjePwQ-wru4PZy3xoSV-JfiV8TQAyidTS51_KmSwzaStFAiH=w1064-v0)
 
 <figcaption style="border-top:15px solid #4caf50;"></figcaption>
@@ -97,13 +95,15 @@ description: 形狀可以把注意力引導至重要元素，且顯示與表面�
 
 ---
 
-![](https://lh3.googleusercontent.com/JjuPluxNFVJVXS7pZwrMFhaz-0OoK1S0LjLSfcQAgENQgVPpvJyu2b8G6i54vXteMlQOHMtpIcfgsFc_sLcGQ1l0cuIq1WwWb9obuQ=w1064-v0)
+![若元素之間毫無關聯，則不要使其形狀有相關性](https://lh3.googleusercontent.com/JjuPluxNFVJVXS7pZwrMFhaz-0OoK1S0LjLSfcQAgENQgVPpvJyu2b8G6i54vXteMlQOHMtpIcfgsFc_sLcGQ1l0cuIq1WwWb9obuQ=w1064-v0)
 
 <figcaption style="border-top:15px solid #d32f2f;"></figcaption>
 
 <p style="color:#d32f2f;padding-top:10px;">別這樣做</p>
 
 若元素之間毫無關聯，則不要使其形狀有相關性。這個對話框的外型暗示與其後面和右側的卡片有關。
+
+---
 
 > 譯者：Yujin Chne
 > 校稿：CH.Yu

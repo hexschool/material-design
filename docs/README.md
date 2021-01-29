@@ -1,7 +1,7 @@
 ---
 home: true
 heroImage: https://storage.googleapis.com/material-io-static/production/1611256734877/static/angular/material_logo.adf47b52dabca1648032.svg
-heroText: Material Design(en)
+heroText: Material Design(zh)
 tagline: 六角學院 譯
 actionText: 快速開始
 actionLink: /guide/
