@@ -2,6 +2,8 @@
 title: 色彩系統
 description: 透過 Material Design 的色彩系統，來創造能代表您的品牌或自身風格的色彩主題。
 ---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 色彩系統
 
@@ -89,6 +91,7 @@ Material Design 有提供內建的色彩主題，可按照初始設定直接使�
 若您沒有使用次要色，也可以單純使用主色來強調您的元素。
 
 通常次要色最適合用在：
+
 - 浮動操作按鈕
 - 選項控制，例如拖曳和切換
 - 強調選取文字
@@ -120,9 +123,9 @@ Material Design 有提供內建的色彩主題，可按照初始設定直接使�
 ![介面背景錯誤顏色範例](https://lh3.googleusercontent.com/ypXztjG-XSS1-7Y814X2GEiwJ52zDm9RNJDwtQIR0mzngx31vUZVkzU2RBSwSUD-6qu5e8HeoRSt_KpdEeIZ3EuQM1rnK0k2jUGm=w1064-v0)
 
 > 此使用者介面，使用了預設的介面色、背景色及錯誤色設定：
-> 1.  基本介面色：#FFFFFF
-> 2.  基本背景色：#FFFFFF
-> 3.  基本錯誤色：#B00020
+> 1. 基本介面色：#FFFFFF
+> 2. 基本背景色：#FFFFFF
+> 3. 基本錯誤色：#B00020
 
 ---
 

@@ -2,6 +2,9 @@
 title: 元件行為
 description: 以下指南描述了元件在網格系統與斷點之間的行為模式。
 ---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 元件行為
 
@@ -71,7 +74,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 * 推擠（Pushed）
 * 覆蓋（Overlaid）
 
-
 ### 固定（Fixed）
 
 具有固定寬度的元素於螢幕尺寸改變時，其寬長會維持不變。
@@ -80,7 +82,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 
 > 此按鈕元件的右外間距維持不變。
 
-
 ### 流體（Fluid）
 
 元件若具有流體寬度，其寬長會依據螢幕尺寸變化而擴展與收縮。
@@ -88,7 +89,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 ![流體寬度](https://lh3.googleusercontent.com/t_hYf7SmAuPwVEmcenSQgt4_D9SoG1ycV9N-JdFRggp4E3nvHMKZKO44RImAquZzoTId86BVct5InCcXoRfvWwjdsCWvdkfmhxMTszU=w1064-v0)
 
 > 此按鈕流暢地在右方兩欄中縮放。
-
 
 ![image alt](https://lh3.googleusercontent.com/SEVNMWMmOnofgj-9Hbk5aEuDNdBxLfPJhCJkMq0B8baa_ds7gLDeV1WfEKpKiqs7Aw9oHPQc1SD3bdlA5YFuNi38XqMggCldpumo=w1064-v0)
 
@@ -100,14 +100,12 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 > 提醒
 > 流體元件橫跨寬螢幕的數個欄位時，某些元件（像是按鈕）或許會在較大的螢幕寬度中被過份強調。
 
-
 ### 推擠（Push）
 
 當佈局或螢幕尺寸改變時，可以從其原始位置將元件推入。元件在寬度維持不變之下，可自原位置向左或向右水平推移。此情況發生時，若將元件推離螢幕，可能會被螢幕邊緣遮擋。
 ![image alt](https://lh3.googleusercontent.com/1lXcmgHiut18xPVMZu8re_E6zufmH6mxUhbWAloMjhshhTSz9yfk5FXEVUEXzlba0FHOUa5kmdQJO-rG921dOvQhjAcvx1ST09cKfA=w1064-v0)
 
 > 內容區域被側邊選單推出螢幕可視範圍。
-
 
 ### 覆蓋（Overlaid）
 
@@ -116,7 +114,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 ![image alt](https://lh3.googleusercontent.com/nX8PwnokczAN_CxYFZllxtSzPJNzrJHaej58BFpkm7NrUZAtU85wTDoCHuPeCue3ttl2v-D21lneHbnqbwm5PfwZ6EwKQ-WbGugobg=w1064-v0)
 
 > 使用者介面內容區域被側邊選單覆蓋。
-
 
 ---
 
@@ -148,7 +145,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 
 > 當有額外的空間時，在默認情況下，點擊小尺寸螢幕後才會顯示隱藏的部分使用者介面。
 
-
 ### 轉換（Transform）
 
 元件可於指定斷點處從一種型式轉換為另一種型式。
@@ -165,7 +161,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 
 > 菜單項目在較大的螢幕尺寸中可轉換為工具列中的圖標。
 
-
 ### 劃分（Divide）
 
 若有更多螢幕空間，具有數層的使用者介面可一次顯示全部層面。使用者元素會依據新的可用空間進行劃分。
@@ -177,7 +172,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 ![image alt](https://lh3.googleusercontent.com/arj45MoELjYMAIi7XMBD69u06hj_osmk_Excobn86zGoOXSOsrtzL7z3SXUvIT1gsVJaqrN_J5xpirMR9WO5HnS61se3aDO98HjKhQ=w1064-v0)
 
 > 索引列與其對應內容在較大的螢幕尺寸中被劃入同個視域。
-
 
 ### 回流（Reflow）
 
@@ -195,7 +189,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 
 > 元素可依據新的螢幕比例或裝置方向，在元件內回流。
 
-
 ### 擴展（Expand）
 
 使用者介面在更多空間下可進行擴展。
@@ -207,7 +200,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 ![image alt](https://lh3.googleusercontent.com/o6gGy_ZOpsuUfTznw8ooHvzt91POO70dCZa8H-6jq10yQfbp2qPCCqhN-IzN-Uepp890pWaXrCf8B5RdvyY2d5NJBuFIy_HtAPSzHQQ=w1064-v0)
 
 > 對話框可依據內容或特定的增量按比例擴展。
-
 
 ### 定位（Position）
 
@@ -221,12 +213,10 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 
 > 相較於其他大螢幕尺寸的使用者介面元素，浮動按鈕（FAB）可移動至更清楚可見的位置。
 
-
 ---
 
 > 譯者：
 > 校稿：Joanne
-
 
 翻譯名詞紀錄
 <ul>
@@ -307,4 +297,3 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
         <div></div>
     </li>
 </ul>
-**

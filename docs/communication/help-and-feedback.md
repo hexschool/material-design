@@ -2,17 +2,21 @@
 title: 幫助與回饋
 description: 幫助內容提供了使用者問題和問題的答案。
 ---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 幫助與回饋
 
 幫助內容提供了使用者問題和問題的答案。
 
 內容
+
 > 使用與位置
 > 圖標
 > 寫作
 
 ## 使用與位置
+
 ### 使用幫助內容
 
 幫助內容為您的 APP 的常見問題提供答案。使用者可以提出評論、報告錯誤，並提供幫助內容尚未回答的問題。
@@ -23,21 +27,15 @@ description: 幫助內容提供了使用者問題和問題的答案。
 
 幫助內容應該讓使用者容易找到。它可以放在導航列裡。通常出現在側邊選單或 overflow menu 中，項目名稱通常為「幫助」或「提供回饋」。
 
-
-
 ![減少幫助說明的層級](https://lh3.googleusercontent.com/2e-RBkaMxkXV6AhjJjlyt53gsE8CT6UqOs-ELjfR5rYElC0ECsQ4iI5IlMRHu6ko9tPBwoSKoBFFFkbWyAku97roWRl143aAttSb=w1064-v0)
 
 #### 放置
-在側邊選單和 app bar 或只有在 app bar 中更容易找到「幫助」內容。 如果只有在側邊選單或 overflow menu 中，則不太容易找到。
 
+在側邊選單和 app bar 或只有在 app bar 中更容易找到「幫助」內容。 如果只有在側邊選單或 overflow menu 中，則不太容易找到。
 
 - 如果您的 APP 很複雜且具有側邊選單，則在側邊選單和 app bar 中都放置導向「幫助」的超連結。
 - 如果您的 APP 很複雜且沒有側邊選單，請在 app bar 中放置導向至「幫助」的超連結。
 - 如果您的 APP 並不複雜，只要將「幫助」放在側邊選單或 overflow menu 即可。
-
-
-
-
 
 ---
 
@@ -56,6 +54,7 @@ description: 幫助內容提供了使用者問題和問題的答案。
 <div style="width:100%">
 
 ![含有幫助和提供回饋的側邊選單](https://lh3.googleusercontent.com/Bj4p8tAJj9W-jkuNcCTkESA3_r2-9-tH-ACBp0HVYw8shtvjAAQzvNVbaBdaVQTwmgIxpfvAPZWWLI5oYlHR1wcHvAtZbuTcrEPmgg=w1064-v0)
+
 > 含有「幫助」和「提供回饋」的側邊選單
 
 </div>
@@ -118,6 +117,7 @@ description: 幫助內容提供了使用者問題和問題的答案。
 ---
 
 ## 圖標
+
 ### 幫助
 
 <div style="width:100%;display:flex">
@@ -209,6 +209,7 @@ description: 幫助內容提供了使用者問題和問題的答案。
 ---
 
 ## Writing 寫作
+
 易於閱讀
 
 透過粗體標題、列表、表格和段落之間的空格，來格式化文字，使內容清晰易讀。
@@ -219,13 +220,15 @@ description: 幫助內容提供了使用者問題和問題的答案。
 標題有助於組織文章內容。它們協助讀者掃描頁面，快速找到需要的資訊。
 
 #### 提供關鍵訊息
+
 解釋要盡量簡短，避免提供與一般使用無關的細節。
 
-
 #### 使用簡單的敘述
+
 盡可能避免在幫助內容中使用術語。
 
 #### 顯示圖像
+
 當提供步驟說明時，請顯示相關圖像或圖標以說明使用者需要做什麼。
 
 > 譯者：W.H. Lin(Asher)

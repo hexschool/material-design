@@ -2,8 +2,12 @@
 title: 將顏色應用到 UI
 description: 色彩以一致且有意義的方式運用在使用者介面的元素和元件上。
 ---
-
+<!-- markdownlint-disable MD025 -->
 <!-- markdownlint-disable MD033 -->
+
+# 將顏色應用到 UI
+
+色彩以一致且有意義的方式運用在使用者介面的元素和元件上。
 
 ## 用法
 

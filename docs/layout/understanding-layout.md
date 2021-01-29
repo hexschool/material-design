@@ -2,6 +2,8 @@
 title: 了解佈局
 description: Material Design 的佈局透過使用統一的元素和間距來助長一致性的跨平台、環境和螢幕尺寸。
 ---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 了解佈局
 

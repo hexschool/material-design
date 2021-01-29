@@ -1,3 +1,10 @@
+---
+title: 基礎概述
+description: Material Design 經由使用者介面端、平面以及元件定義了何為品質。使用可從廣泛和詳細角度解決設計問題的基礎來設計和製定應用程序的構建策略。
+---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
+
 # 基礎概述
 
 Material Design 經由使用者介面端、平面以及元件定義了何為品質。使用可從廣泛和詳細角度解決設計問題的基礎來設計和製定應用程序的構建策略。

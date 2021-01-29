@@ -2,6 +2,8 @@
 title: 文字易讀性
 description: 顏色在文字易讀性扮演著重要的角色。
 ---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 文字易讀性
 
@@ -14,9 +16,9 @@ description: 顏色在文字易讀性扮演著重要的角色。
 ### WCAG標準
 
 所有的文字需要清晰易讀，並且符合無障礙網頁內容指引的標準。
-要達到 [The Web Content Accessibility Guidelines (WCAG 2.0)]() AA等級的話，以一般大小文字來說，文字跟背景的顏色對比須為 4.5:1，而較大文字的顏色對比則為 3:1。
+要達到 [The Web Content Accessibility Guidelines (WCAG 2.0)](https://www.w3.org/TR/UNDERSTANDING-WCAG20/visual-audio-contrast-contrast.html) AA等級的話，以一般大小文字來說，文字跟背景的顏色對比須為 4.5:1，而較大文字的顏色對比則為 3:1。
 
-想知道更多關於顏色、對比，以及無障礙設計，請閱讀 Material Design 當中的[輔助功能章節]()。
+想知道更多關於顏色、對比，以及無障礙設計，請閱讀 Material Design 當中的[輔助功能章節](http://localhost:8080/usability/accessibility.html)。
 
 ---
 
@@ -33,7 +35,6 @@ description: 顏色在文字易讀性扮演著重要的角色。
 ### 使用文字不透明度
 
 與其在彩色背景上使用灰色文字以及圖示，不如透過不透明度較低的白色或黑色文字以達到更好的對比度。
-
 
 例如，在綠色背景下使用不透明度 75% 的黑色文字，並隱含些許綠色色彩。
 

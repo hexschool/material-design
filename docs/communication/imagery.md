@@ -2,6 +2,9 @@
 title: 圖像
 description: 圖像透過視覺傳達和區分產品。
 ---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 圖像
 
@@ -69,7 +72,6 @@ description: 圖像透過視覺傳達和區分產品。
 
 </div>
 
-
 <div style="width:100%">
 
 ![照片](https://lh3.googleusercontent.com/vryWz1rPU3krXMb6VPxNd8xwZk4BzpZHhDbLUUs2Py_51cMZWl2Wt4umBT9lRXHhUXtMn4ku3kma7aCOGc1ins7J30O4H0mUFCnZB5Q=w1064-v0)
@@ -119,7 +121,7 @@ description: 圖像透過視覺傳達和區分產品。
 ### 適當大小
 
 為了最佳地呈現不同尺寸和類型的圖片，請針對不同的顯示器和平台適當調整圖片大小，解析度是影響圖片載入速度最重要的因素。為了保持網路頻寬，請盡可能降低圖片解析度。
- 
+
 針對特定比例和設備測試適當的解析度大小，以確保圖片不會出現像素化現象。
 
 <div style="width:100%;display:flex;">
@@ -148,7 +150,7 @@ description: 圖像透過視覺傳達和區分產品。
 
 ### 無障礙
 
-<div style="width:100%;display:flex"> 
+<div style="width:100%;display:flex">
 
 <div style="width:100%; margin-right:20px">
 
@@ -173,10 +175,9 @@ description: 圖像透過視覺傳達和區分產品。
 
 利用視覺效果在您的 APP 中創造身臨其境的感覺。
 
-![](https://lh3.googleusercontent.com/_CS57qUZ-62nnfPZETPu42ndq1BPeKN9l1Tx931RfmQ8zIXhsK6f-bIwoF-43WVmM4aDIRsE6hQFDNs3c-FBGhUdLEpEZ6xsPrZBfA=w1064-v0)
+![縮小到 62.5%](https://lh3.googleusercontent.com/_CS57qUZ-62nnfPZETPu42ndq1BPeKN9l1Tx931RfmQ8zIXhsK6f-bIwoF-43WVmM4aDIRsE6hQFDNs3c-FBGhUdLEpEZ6xsPrZBfA=w1064-v0)
 
 > 縮小到 62.5%
-
 
 #### 教導使用者
 
@@ -191,7 +192,7 @@ description: 圖像透過視覺傳達和區分產品。
 ![意象類別](https://lh3.googleusercontent.com/Gnmf0-RicV7cYyw_LYXb-eIPXSoVSC7s83QWIowoIM5YmJ3Qb8vQ-5x52upur_A1sCBCScrCjWt3ShFPNqz8N3WQvsstYla0tuXm=w1064-v0)
 
 > 圖像可幫助使用者選擇感興趣的類別或主題，以更個人化的提供他們在 APP 中體驗的內容。
- 
+
 #### 讓使用者比較相似的項目
 
 具有共同風格的攝影可以幫助使用者快速瀏覽並做出決定。
@@ -347,6 +348,8 @@ description: 圖像透過視覺傳達和區分產品。
 ![圖標](https://lh3.googleusercontent.com/8P-Z02QefQvcU1lVRdDSlJqmkZNz-6mU99JCPFE1LvK0qrX4e-K7EqIXW56xyBiDJJPa-UgGWbslKyryOYqkeeoKZbSCw5gUW7Ig=w1064-v0)
 
 > 綠色的圓形打勾圖標讓使用者知道動作已經成功完成。
+
+---
 
 > 譯者：W.H. Lin (Asher)
 > 校稿：Joanne Chen

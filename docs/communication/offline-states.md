@@ -1,17 +1,25 @@
+---
+title: 離線狀態
+description: 離線狀態允許用戶無需透過網際網路即可與應用程式互動。
+---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
+
 # 離線狀態
 
 離線狀態允許用戶無需透過網際網路即可與應用程式互動。
-
 
 ## 原則
 
 <div style="width:100%;display:flex">
 
 <div style="width:100%;margin-right:20px">
- 
+
  ![適應連線](https://i.imgur.com/2ui13Yp.png)
 
 ### 適應連線
+
 當用戶連線緩慢，斷斷續續或完全沒有連接時，調整功能或應用程式的行為。
 </div>
 
@@ -20,6 +28,7 @@
 ![說明功能](https://i.imgur.com/OkOoX5O.png)
 
 ### 說明功能
+
 使用UI設計來說明離線功能如何工作並傳達其預期目的。
 </div>
 
@@ -27,14 +36,11 @@
 
  ![顯示可用內容](https://i.imgur.com/qrH4RYd.png)
 
- ### 顯示可用內容
+### 顯示可用內容
+
  連線受限時下載可用內容，而不是不下載任何內容。
 </div>
 </div>
-
-
-
-
 
 ## 離線功能
 
@@ -66,10 +72,8 @@
 
 </div>
 
-
-
-
 ## 離線無功能時
+
 如果功能無法離線使用，請使用“雲關閉”圖像進行指示。僅在產品離線時顯示此圖像。可能的話，將文字標籤“ 離線”與圖像一起使用。
 
 <div style="width:100%;display:flex">
@@ -92,7 +96,6 @@
 
 </div>
 
-
 ## 離線設定
 
 為用戶提供一個管理離線設定的位置。如果您在應用程式中使用圖像，請使用離線圖像標記該目的地。
@@ -107,9 +110,8 @@
 
 </div>
 
-
-
 ## 離線互動
+
 ### 下載檔案
 
 離線功能用戶可以連結以前下載的檔案，例如影片和網站。要離線連結它們，用戶必須在具有網際網路連接的情況下將檔案下載到其設備上。
@@ -127,13 +129,14 @@
 ![將下載圖像與單字“下載”搭配在一起。](https://i.imgur.com/35JvDww.png)
 
 #### 建議
+
 將下載圖像與單字“下載”搭配在一起。
 
 </div>
 
 <div style="width:100%;margin-right:20px">
 
-![](https://i.imgur.com/w1d2J9S.png)
+![不要使用切換控制元件來下載單一檔案](https://i.imgur.com/w1d2J9S.png)
 
 #### 不建議
 
@@ -147,10 +150,9 @@
 
 下載檔案後，通過顯示離線圖像來表明它可以離線使用。
 
-![](https://i.imgur.com/yFIkH1l.png)
+![通過顯示離線圖像來表明它可以離線使用](https://i.imgur.com/yFIkH1l.png)
 
 [下載](https://material.io/icons/#ic_file_download)和[離線](https://material.io/icons/#ic_offline_pin)圖像在[Material icon library](https://material.io/icons/)圖庫中可使用。
-
 
 ## 動畫
 
@@ -161,7 +163,7 @@
 [展示影片連結](https://kstatic.googleusercontent.com/files/a1c79ae980355ade75695cf9e6b2cae7bea9597aa9be18dd5964a2bb967c79adffa7e5bbbc85f442085afaa2b6385599595c242fc43280cf4cfa04ccdd18be73)
 進度條在兩個圖像之間轉換。
   
-  ## 刪除下載的內容
+## 刪除下載的內容
   
 為了節省記憶體空間，用戶可以刪除其設備上的檔案。 您的應用程序應允許用戶刪除所有下載的檔案。
 
@@ -173,7 +175,6 @@
 ](https://i.imgur.com/eD2z4ti.png)
 
 對已下載的檔案顯示帶有刪除圖像的刪除動作。
-
 
 </div>
 

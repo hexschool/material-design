@@ -2,6 +2,12 @@
 title: 顏色使用
 description: 顏色有助於表達層次結構、建立品牌形象、賦予含義並表示元素狀態。
 ---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
+
+# 顏色使用
+
+顏色有助於表達層次結構、建立品牌形象、賦予含義並表示元素狀態。
 
 ## 層次結構
 
@@ -13,7 +19,7 @@ description: 顏色有助於表達層次結構、建立品牌形象、賦予含�
 
 為了引起對重要事件的注意，在元素之間使用更強的顏色對比。
 
-![表面對照](https://lh3.googleusercontent.com/kdqzaxxWrSXPan61vS4t0_-DC5lOBMGQGTNiiehhjOCCQL2vL88pYp8-7nKtNhX5Hrns0wG4pwqWyiTR0lCHkhkcWn5JjvWFFlBgEfM=w1064-v0) 
+![表面對照](https://lh3.googleusercontent.com/kdqzaxxWrSXPan61vS4t0_-DC5lOBMGQGTNiiehhjOCCQL2vL88pYp8-7nKtNhX5Hrns0wG4pwqWyiTR0lCHkhkcWn5JjvWFFlBgEfM=w1064-v0)
 
 > 紫色背景與白色表面形成強烈反差，強調了列表選項-此旅行 APP 的重點。
 
@@ -21,7 +27,7 @@ description: 顏色有助於表達層次結構、建立品牌形象、賦予含�
 
 視覺重點同時更改元素的顏色和形狀。表示強調已選擇某項內容或需要立即注意。
 
-![顏色和形狀](https://lh3.googleusercontent.com/UXJ26SDxAS-EApLgT8lFdwoOtOgU2hUY8HrrhaYdyNPuChYdmCDaTsRn1Vt9rPtB8Ga5zGGJQudnYwGdoLhf371GB7o-MGNoJcCpHQ=w1064-v0) 
+![顏色和形狀](https://lh3.googleusercontent.com/UXJ26SDxAS-EApLgT8lFdwoOtOgU2hUY8HrrhaYdyNPuChYdmCDaTsRn1Vt9rPtB8Ga5zGGJQudnYwGdoLhf371GB7o-MGNoJcCpHQ=w1064-v0)
 
 > 圖中左邊的粉紅色區塊具有打勾形狀，表示它們已被使用者選擇。
 
@@ -34,11 +40,11 @@ description: 顏色有助於表達層次結構、建立品牌形象、賦予含�
 
 圖中產品的內容是彩色的，因此黑色的浮動按鈕與明亮的顏色形成了鮮明的對比，進而使其更加明顯。
 
-![極限色](https://lh3.googleusercontent.com/oBD53nMfgAQmkdFTKOxxknj0do-UEP6JTcOs1SPx_l9QrdMEsppnd8ZXTeO5fxHPL8N6rTVpAkmkZWQcTH87Tk1_ZlzC8IHvMSHnYQ=w1064-v0) 
+![極限色](https://lh3.googleusercontent.com/oBD53nMfgAQmkdFTKOxxknj0do-UEP6JTcOs1SPx_l9QrdMEsppnd8ZXTeO5fxHPL8N6rTVpAkmkZWQcTH87Tk1_ZlzC8IHvMSHnYQ=w1064-v0)
 
 灰色調色板最適合使攝影和文字脫穎而出。
 
-![極限色](https://lh3.googleusercontent.com/uRw-wVMEN0wuYgfiZIv7Uz-a-w2ixVRXMo1XyBMNCeqtCL5eBoN25QCrdDDE5J6UtCJwULjWhjdWbt9oPdwjam7DY_bpSDzWywBx=w1064-v0) 
+![極限色](https://lh3.googleusercontent.com/uRw-wVMEN0wuYgfiZIv7Uz-a-w2ixVRXMo1XyBMNCeqtCL5eBoN25QCrdDDE5J6UtCJwULjWhjdWbt9oPdwjam7DY_bpSDzWywBx=w1064-v0)
 
 [Fortnightly](https://material.io/design/material-studies/fortnightly.html)
 
@@ -58,7 +64,7 @@ description: 顏色有助於表達層次結構、建立品牌形象、賦予含�
 
 > 這款教育 APP 以鮮明的方式使用大膽、飽和的品牌色彩（黃色，藍色，洋紅色），以符合品牌精神。
 
-![大膽使用顏色](https://lh3.googleusercontent.com/kwBWAFNh7_ofRIlWzrFO4IMEeDBoa_Sr8AYN0q7BtUuCjz1Mzi_TQOR6pGZZsEjeul2zFt_KLn-gCffk1qEv4b-y6rb-gBGbnVpuhA=w1064-v0) 
+![大膽使用顏色](https://lh3.googleusercontent.com/kwBWAFNh7_ofRIlWzrFO4IMEeDBoa_Sr8AYN0q7BtUuCjz1Mzi_TQOR6pGZZsEjeul2zFt_KLn-gCffk1qEv4b-y6rb-gBGbnVpuhA=w1064-v0)
 
 > 這款烹飪 APP 在色彩和排版運用大膽創新方法，既充滿活力又令人興奮，同時又清晰易用。
 
@@ -147,7 +153,7 @@ description: 顏色有助於表達層次結構、建立品牌形象、賦予含�
 
 ![一致性和前後關係](https://lh3.googleusercontent.com/7KIuguZStQsFu4U6s_Ib3A-6l-7vjWV4FFI6MpmCw7zn0jztEs2IvC32iMIK9Wcl2jqJ68u7Zw5GfNahxtU0LrBsf3gpof_qnhIC=w1064-v0)
 
-> Don't 
+> Don't
 由於紅色是品牌色彩，所以不要用來標示錯誤狀態。
 
 ![一致性和前後關係](https://lh3.googleusercontent.com/GpcZA_yoRWcWMot-1_HgAr6vxpJcoBOKebQomkZW80ZFgmWKHP4L8U-gQrms7PaAUg3gx9EK6HUDTBustXMS-IYbHb1bK1jMKOWjY-w=w1064-v0)

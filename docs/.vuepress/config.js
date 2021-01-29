@@ -1,6 +1,6 @@
 module.exports = {
   title: '六角學院', // 整個網站的標題
-  description: 'Just playing around', // 網站的標題
+  description: 'Material Design', // 網站的標題
   head: [ // icon 包含 PWA
     ['link', { rel: 'manifest', href: '/photo.jpg' }],
     ['link', { rel: 'apple-touch-icon', href: '/photo.jpg' }],

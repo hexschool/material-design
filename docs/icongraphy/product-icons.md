@@ -2,14 +2,15 @@
 title: 產品圖標
 description: 產品圖標是品牌產品、服務和工具的視覺表達。
 ---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 產品圖標
 
 產品圖標是品牌產品、服務和工具的視覺表達。
 
-### 內容
-
-## 設計原則 
+## 設計原則
 
 ### 品牌表達
 
@@ -23,7 +24,6 @@ description: 產品圖標是品牌產品、服務和工具的視覺表達。
 ### 設計方法
 
 Material 觸覺和物理質量反應於 Material icons 設計。每個圖標由簡單的圖形元素描繪，像紙張般被切割、折疊與照明。Material 質量堅固、褶皺整齊、邊緣清晰。表面藉由隱約的亮點和一致的陰影與光相互作用。
-
 
 <div style="width:100%;display:flex;">
 
@@ -60,7 +60,6 @@ Material 觸覺和物理質量反應於 Material icons 設計。每個圖標由�
 </div>
 
 ---
-
 
 ## 網格與關鍵線的形狀
 
@@ -135,8 +134,6 @@ Material 觸覺和物理質量反應於 Material icons 設計。每個圖標由�
 </div>
 </div>
 
-
-
 <div style="width:100%;display:flex;padding-bottom:40px;">
 
 <div style="width:100%;margin-right:20px;">
@@ -182,8 +179,6 @@ Material 觸覺和物理質量反應於 Material icons 設計。每個圖標由�
 </div>
 </div>
 
-
-
 <div style="width:100%;display:flex;padding-bottom:40px;">
 
 <div style="width:100%;margin-right:20px;">
@@ -210,8 +205,8 @@ Material 觸覺和物理質量反應於 Material icons 設計。每個圖標由�
 為了表達共有的視覺語言，構成產品圖標的圖形元素應於所有品牌圖標中保持一致。徽標元素尤應具備有助建立品牌元素之間熟悉性的特徵。
 產品圖標之結構基礎為將每個元素置於前一個元素之上，讓每個徽標從下至上進行設計。
 
-
 ![1.完成2.Material背景3.Material前景4.色彩5.陰影](https://lh3.googleusercontent.com/8UVfjwjutaHbcOmft7fFfwSDR2k1_jYVv4_Nts-sHjEzxpIhzlBYWmT7YzCjQhey4M45bRKbbfqNA4jCGTgk9S5joBLP4aq8dK_JEyw=w1064-v0)
+
 1. 完成
 2. Material 背景
 3. Material 前景
@@ -277,7 +272,6 @@ Material 於背景投射陰影的圖層
 </div>
 </div>
 
-
 <div style="width:100%;display:flex;padding-bottom:20px;">
 
 <div style="width:100%;margin-right:20px;">
@@ -329,7 +323,6 @@ Material 於背景投射陰影的圖層
 #### 接觸陰影
 
 接觸陰影為上方虛擬光的照射結果。柔和的陰影輕輕地環繞 Material 元素的上方與左側，並略為強調其下方與右側。陰影包含在圖標的背景輪廓內。
-
 
 <div style="width:100%;display:flex;padding-bottom:20px;">
 
@@ -632,5 +625,5 @@ Material 元素重疊時會產生一個獨特的廓形。所有元素、邊緣�
 </div>
 </div>
 
-> 譯者：王靜儀 
+> 譯者：王靜儀
 > 校稿：CH.Yu

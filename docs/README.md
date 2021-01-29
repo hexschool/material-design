@@ -1,9 +1,9 @@
 ---
 home: true
-heroImage: /hero.png
+heroImage: https://storage.googleapis.com/material-io-static/production/1611256734877/static/angular/material_logo.adf47b52dabca1648032.svg
 heroText: Material Design(en)
-tagline: Hero subtitle
-actionText: Get Started →
+tagline: 六角學院 譯
+actionText: 快速開始
 actionLink: /guide/
 features:
 - title: Simplicity First

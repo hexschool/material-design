@@ -2,6 +2,9 @@
 title: 系統圖標
 description: 系統圖標用於標示常見之操作、文件、裝置與目錄。
 ---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 <style>
 .icon-temp{
@@ -127,9 +130,7 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
     在<a href="https://www.apache.org/licenses/LICENSE-2.0.html"> Apache 2.0</a> 下可用。下載此文件，即表示您同意<a href="https://policies.google.com/terms"> Google服務條款</a>。<a href="https://policies.google.com/privacy">Google隱私權政策</a>描述了此服務如何處理數據。
 </div>
 
-
 <br>
-
 
 ### 圖標尺寸
 
@@ -145,7 +146,6 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
         <div class="c-group__title">1000% 比例尺</div>
     </div>
 </div>
-
 
 ### 密集佈局
 
@@ -196,9 +196,7 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
     </div>
 </div>
 
-
 <br>
-
 
 ### 關鍵線圖形
 
@@ -289,7 +287,6 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
 
 <br>
 
-
 ### 清晰度（完美像素度）
 
 透過將圖標定位於整數值 X 座標與整數值 Y 座標之「像素上」，可避免其失真。
@@ -310,7 +307,6 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
 </div>
 
 <br>
-
 
 ### 跨平台應用
 
@@ -348,10 +344,7 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
     </div>
 </div>
 
-
 ---
-
-
 
 ## [系統圖標度規](https://material.io/design/iconography/system-icons.html#system-icon-metrics)
 
@@ -536,7 +529,6 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
     </div>
 </div>
 
-
 <br>
 
 ## 圖標主題
@@ -547,7 +539,6 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
 
 廓形圖標以自定義之筆劃與填充屬性形成明亮、乾淨風格，其在密集 UIs 中效果很好。
 透過調整輪廓的筆劃粗細，可補充或對比您的字體排版。
-
 
 #### 筆劃與填充
 
@@ -642,7 +633,6 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
 
 圓形圖標使用圓角半徑搭配品牌較重的字型排版、彎曲徽標或環形元素來表達其風格。
 
-
 #### 圓角半徑
 
 圖標的圓角半徑由外部彎曲的角組成。圖標能以較大或較小的圓角半徑為其特徵。
@@ -690,7 +680,6 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
 
 ![image alt](https://lh3.googleusercontent.com/71e_DO50byuyY4ymekBCTCnCN8QUU7wBMPkQTrRfQG41_IqVPldX_GQnWV4s1gY_n7SVOfVVhTBJ0jpw7hKqMbNng5cAyqViFOtE=w1064-v0)
 此應用程式使用圓角按鈕與線條畫的圖標。
-
 
 ![image alt](https://lh3.googleusercontent.com/rU-AQoOT6N0tcAlgMIOtNhh6BRC17fes_4ZTrw7V_1M_DmddRsnCj8lbqhcHgjkDJrYcI0xlho3BsUwDgjJXAFKKm2305OV1fq_lZg=w1064-v0)
 <ol>
@@ -762,5 +751,5 @@ description: 系統圖標用於標示常見之操作、文件、裝置與目錄�
     <li>應用程式中的雙色圖標</li>
 </ol>
 
-> 譯者：謝佩芸 
+> 譯者：謝佩芸
 > 校稿：CH.Yu

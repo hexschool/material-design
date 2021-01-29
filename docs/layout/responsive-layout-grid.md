@@ -2,6 +2,9 @@
 title: 響應式佈局網格
 description: Material Design 的響應式佈局網格能夠適應螢幕的尺寸與方向，確保每個佈局之間的一致性。
 ---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 響應式佈局網格
 
@@ -65,7 +68,6 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ---
 
-
 ## 客製化網格(Grid customization)
 
 可調整佈局網格以滿足產品及各種螢幕尺寸的需求。
@@ -77,7 +79,6 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 ![欄間距，8dp](https://lh3.googleusercontent.com/SI9km7Xdr6NTQ49Z1jndfwcfqM4L3gjGaj6QsZCSDWJURMbLQ8ISTH2f-jvQJmYQQ7q3R6QIIR43z6TYIESj7M2gf_yUs6g0gBD2=w1064-v0)
 
 > 此佈局網格使用 8dp 的欄間距。較緊密的空間可能表明圖像間彼此相關，因此被視為群組的一部分。
-
 
 ![欄間距，32dp](https://lh3.googleusercontent.com/_fcvmq-Xnz2Keq8zN-GZkGfAj5fqwLyakzbkix0cbRnQ56eOgbZyy782NLxx3sAKkZZ4FQXmd2WwTtZZZHD4K0TCEB6hVOvgfQ59z8E=w1064-v0)
 
@@ -103,7 +104,6 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 ![邊距，64dp](https://lh3.googleusercontent.com/9czTot8tP36Qb_08YpfM55P7LT3Mf82B-UMbxGckNYJJzRFPD9NJqon8FHr28svSRrfDgkWU0rkBrG7Lm5ba_X4rzOy4yKrF4Aql=w1064-v0)
 
 > 此佈局網格使用較大的邊距：64dp，因而限制了頁面內容的寬度。
-
 
 ![不可行，邊距](https://lh3.googleusercontent.com/X0hIPvMUPFdDTIinNo3dYHzSRqqj7pb2FxJCAO0tXAvI9IhRR9MY7xtUHCH1oPi2s_SUlsPkEBSwAGcpySkNExxiqKaoSxzMfJTuUe0=w1064-v0)
 
@@ -135,7 +135,6 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 > 1. 欄
 > 2. 欄間距
 > 3. 邊距
-
 
 為讓出介面頂部空間給應用欄（App bars）或其他使用者介面區域，水平網格的位置可順應不同高度調整。
 
@@ -281,7 +280,6 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 > 1. 行動版
 > 2. 桌機版
-
 
 ---
 

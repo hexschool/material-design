@@ -2,6 +2,9 @@
 title: 間距方法
 description: 間距方法使用基線網格、關鍵設計線（keylines）、內距和增量間距來調整比率、容器和接觸目標。
 ---
+<!-- markdownlint-disable MD024 -->
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 間距方法
 
@@ -19,7 +22,7 @@ description: 間距方法使用基線網格、關鍵設計線（keylines）、�
 
 ---
 
-### 4dp 
+### 4dp
 
 元件中的圖標，文字排版和某些元素可以對齊 4dp 網格。
 
@@ -49,20 +52,19 @@ description: 間距方法使用基線網格、關鍵設計線（keylines）、�
 
 間距方法比響應式佈局網格更精細。它是一組關於如何放置元素在佈局與元件上的規則。
 
-![內距](https://lh3.googleusercontent.com/7oz4_mqkzr-lmSZciE3t7-ypIohWtD9k5cgVBNgt_SlCSRgSZV3NP6y8-HFLzOapEwJNJ5tcenFYtne2DeSdLrwa9TRWl6Wbxnv4=w1064-v0 =300x)
+![內距](https://lh3.googleusercontent.com/7oz4_mqkzr-lmSZciE3t7-ypIohWtD9k5cgVBNgt_SlCSRgSZV3NP6y8-HFLzOapEwJNJ5tcenFYtne2DeSdLrwa9TRWl6Wbxnv4=w1064-v0)
 
-> 內距 
+> 內距
 > 內距是元件中元素之間的空間。
 
-![尺寸](https://lh3.googleusercontent.com/fpL1dTOlSo2gc1ajP2msg1goP9LYCVEQ5Ikv5xaUkSnKAm_9tDy6AqXdjHZUHEuLjn4nnSBllpoBhRtasY26q8lgAtgFOPYmEtPAwg=w1064-v0 =300x)
+![尺寸](https://lh3.googleusercontent.com/fpL1dTOlSo2gc1ajP2msg1goP9LYCVEQ5Ikv5xaUkSnKAm_9tDy6AqXdjHZUHEuLjn4nnSBllpoBhRtasY26q8lgAtgFOPYmEtPAwg=w1064-v0)
 
 > 尺寸
 > 尺寸指的是元件中元素的寬度和高度。
 
-![對齊](https://lh3.googleusercontent.com/PHRyk0W-Eb00cZ0AtrxXMvQczskDEIZzUDBHZHem3JU-ct6bGmt4rT5PWeP5JuNjl1KBDoZ4achUDCCDkoH7gQtCGb35X2jritte=w1064-v0 =300x) 
+![對齊](https://lh3.googleusercontent.com/PHRyk0W-Eb00cZ0AtrxXMvQczskDEIZzUDBHZHem3JU-ct6bGmt4rT5PWeP5JuNjl1KBDoZ4achUDCCDkoH7gQtCGb35X2jritte=w1064-v0)
 
 > 帶有加號圖示與內距的按鈕
-
 > 對齊
 > 對齊與元件中元素的放置位置有關。
 
@@ -124,6 +126,7 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 ![容器](https://lh3.googleusercontent.com/_jkgGGDxbyGkDUREedXaaW4gUTKAqNPvEW6whJGW3I1Rsk9qbexseRBAnktFl8qGgfG-W6sJGoOIX5ZWsocDZ-FXk8tN4rOv7spo=w1064-v0)
 
 > 200%
+>
 > 1. 圖片容器
 > 2. 圖示容器
 > 3. 平面容器
@@ -201,4 +204,3 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 ![觸控目標](https://lh3.googleusercontent.com/zZyeNTZN0HzV8sSnlM8LA6HFDT6qtYdhOCyBzMg2t01SQZB7Vhz4ElPgWxxvHer_5l82Rz7fcq90jlzXHiTPynq8o6QAvqDNVAGYMg=w1064-v0)
 
 > 觸控目標最少為 48 x 48 dp
-

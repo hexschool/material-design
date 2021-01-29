@@ -1,6 +1,8 @@
 ---
 title: 動畫圖標
 ---
+<!-- markdownlint-disable MD025 -->
+<!-- markdownlint-disable MD033 -->
 
 # 動畫圖標
 
@@ -11,7 +13,7 @@ title: 動畫圖標
 <video  src="https://kstatic.googleusercontent.com/files/a811ca2f25a1fe411fdc15ab1b18b01015452309e53ffc1ecf0af9d2b3269c04fe2ecee353e846e6377a3fb87d8f08efb38d26d4e60150e6b832c60b0f2ed083" width="100%" controls="" autoplay loop ></video>
 每個圖標的動畫效果與其執行的視覺設計和作用方式維持一致。
 
-<br>
+---
 
 ## 轉場效果
 
@@ -19,7 +21,7 @@ title: 動畫圖標
 
 <div style="display: flex; width: 100% ;justify-content:space-between;">
     <div style="width: 45%;">
-        <video src="https://kstatic.googleusercontent.com/files/1c1f444f31420f774966da6132d6af666473f9dd5989bbe1cd4777a5bc0f7a13fceb6cb0c08b48074d3ed35ccb9dead6f907fc8451b86a2a8c6ec05f9517c423" width="100%" controls="" loop></video> 
+        <video src="https://kstatic.googleusercontent.com/files/1c1f444f31420f774966da6132d6af666473f9dd5989bbe1cd4777a5bc0f7a13fceb6cb0c08b48074d3ed35ccb9dead6f907fc8451b86a2a8c6ec05f9517c423" width="100%" controls="" loop></video>
         轉場效果顯示了兩個圖標之間的連結。
     </div>
     <div style="width: 45%;">
@@ -28,10 +30,10 @@ title: 動畫圖標
     </div>
 </div>
 
-
 ### 強調
 
 為更佳地強調層次，動畫圖標的轉場效果可運用簡單或複雜的動態。
+
 * 不顯著的圖標使用簡單的共享動態。
 * 可使用複雜的動態強調應用程式重點區塊的圖標。
 
@@ -64,6 +66,7 @@ title: 動畫圖標
 ### 持續時間
 
 若圖標動畫越複雜，就需越長的持續時間，以避免產生急促感。為了維持應用程式的協調性，具相似複雜度的圖標應使用相同的持續時間。大多數圖標適合以下三種建議的持續時間：
+
 - 簡單的圖標動畫：100 ms
 - 一般的圖標動畫：200 ms
 - 複雜的圖標動畫：500 ms
@@ -80,7 +83,7 @@ title: 動畫圖標
 ### 交錯
 
 圖標集可使用交錯的時間點表現流暢地進場。其動畫從左至右以增加漸進感。
-<video  src="https://kstatic.googleusercontent.com/files/9e61ec3708c7307d0914a482ba65047c18d4adb9107d8334944d431dcabb79d6f1da5178a32c44b0ddae2d26b7f8d8f6ed0bf2e5bca60aeaab10ae2f240edef5" width="100%" controls="" loop></video> 
+<video  src="https://kstatic.googleusercontent.com/files/9e61ec3708c7307d0914a482ba65047c18d4adb9107d8334944d431dcabb79d6f1da5178a32c44b0ddae2d26b7f8d8f6ed0bf2e5bca60aeaab10ae2f240edef5" width="100%" controls="" loop></video>
 應用程式欄中的圖標從左到右以交錯效果進場。
 
 <br>
@@ -88,7 +91,7 @@ title: 動畫圖標
 ## [狀態](https://material.io/design/iconography/animated-icons.html#states)
 
 圖標動畫可用於加強狀態之變化。
-<video  src="https://kstatic.googleusercontent.com/files/5bdd63f51834c9f15192f3c4336de67ac092a5576b6ad0463ff359606fb7bfa74842619ae6fc6c05caf5b45778f638371228f6e69c70f20239f2713587b57582" width="100%" controls="" loop></video> 
+<video  src="https://kstatic.googleusercontent.com/files/5bdd63f51834c9f15192f3c4336de67ac092a5576b6ad0463ff359606fb7bfa74842619ae6fc6c05caf5b45778f638371228f6e69c70f20239f2713587b57582" width="100%" controls="" loop></video>
 圖標動畫顯示了其圖標被選取後的改變狀態。
 
 <br>
@@ -96,12 +99,12 @@ title: 動畫圖標
 ## 主題化
 
 動畫應要反應出品牌風格。
-<video  src="https://kstatic.googleusercontent.com/files/5ce4a056d7c18d4422e3d68f5389fa2117422eafdb475cd0ce999f17890525d2eee74391e49007f7f66edff30b9814e385638f056873ab0c77e144fa9ebae8dc" width="100%" controls="" loop></video> 
+<video  src="https://kstatic.googleusercontent.com/files/5ce4a056d7c18d4422e3d68f5389fa2117422eafdb475cd0ce999f17890525d2eee74391e49007f7f66edff30b9814e385638f056873ab0c77e144fa9ebae8dc" width="100%" controls="" loop></video>
 這些圖標動畫啟發於其品牌徽標與讀取狀態動畫。
+
 1. 圖標動畫
 1. 徽標動畫
 1. 讀取狀態動畫
 
-
-> 譯者：鵬聖 
+> 譯者：鵬聖
 > 校稿：CH.Yu
