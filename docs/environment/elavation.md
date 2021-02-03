@@ -12,56 +12,74 @@ description: 層高（Elevation）是兩個圖層在同一Z軸線上的相對距
 
 <video src="https://kstatic.googleusercontent.com/files/fff057c227cb393074c97bd3b92e3e63060a0f6c184e384da82b9855f766af6aca9ae9caef1b7fdfb5620e39c4138ecc7ed75e8fb82b16471bc52e26384719ef" width="100%" controls=""></video>
 
-> 元件層高數值：
-> 1. 隱藏式測選單（Nav drawer）：16dp
-> 2. 標題列（App bar）：4dp
-> 3. 資訊卡（Card）：1dp至8dp
-> 4. 懸浮操作按鈕（FAB, Floating Action Buttons）：6dp
-> 5. 按鈕（Button）：2dp至8dp
-> 6. 提示對話框（Dialog）：24dp
+**元件層高數值：**
+<ol class="annotation">
+    <li>隱藏式測選單（Nav drawer）：16dp</li>
+    <li>標題列（App bar）：4dp</li>
+    <li>資訊卡（Card）：1dp至8dp</li>
+    <li>懸浮操作按鈕（FAB, Floating Action Buttons）：6dp</li>
+    <li>按鈕（Button）：2dp至8dp</li>
+    <li>提示對話框（Dialog）：24dp</li>
+</ol>
+
+---
 
 ## Material Design 中的層高
 
 ### 測量層高（Measuring elevation）
 
-Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸線以獨立密度像素（dps, density-independent pixels）為單位，來測量從一個material 層面到另一個層面的距離，並使用陰影對其描繪（默認情況之下）。
+Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸線以獨立密度像素（dps, density-independent pixels）為單位，來測量從一個material 層面到另一個層面的距離，並使用[陰影](#描繪層高-depicting-elevation)對其描繪（默認情況之下）。
 
 ![image alt](https://lh3.googleusercontent.com/DPzeyvLZt7dg5ig1MKpjbiEAUHUjJDPdWzqoAHU2PXrgxJiasUcm2Db1glloNm5x5kXuEbO6ZYXycXUO5gu_wfy5TrWnDH1nPQ9sGg=w1064-v0)
 
-> 1. 從正面視角來看，一個圖層的層高為1dp，而另一個圖層層高為8dp。
-> 2. 從側面來看，兩個層面之間的層高差為7dp。
+<ol class="annotation">
+    <li>從正面視角來看，一個圖層的層高為1dp，而另一個圖層層高為8dp。</li>
+    <li>從側面來看，兩個層面之間的層高差為7dp。</li>
+</ol>
 
 ![image alt](https://lh3.googleusercontent.com/ZD8xNBuhsga15kbpHDUuUX5EGFV6KjbTgHedevXdVX50jJJu8gL5-Vb26Z5CE8ENwy_tURWO8Ru_vwbOGX78Wuw78FwK0_VX43r0dg=w1064-v0)
 
-> 當有其他平面在後方時，同一層高的平面外觀可能有所不同。
-> 1. 層面 A 和 B 的層高相同（8dp）。但因為層面 B 在另一個已具有層高的層面（C）之前，所以兩者投射出的陰影不同。
-> 2. 從側面看，層面 A、B 以及 C 三者之間的高度差。
+<p class="annotation">當有其他平面在後方時，同一層高的平面外觀可能有所不同。</p>
+
+<ol class="annotation">
+    <li>層面 A 和 B 的層高相同（8dp）。但因為層面 B 在另一個已具有層高的層面（C）之前，所以兩者投射出的陰影不同。</li>
+    <li>從側面看，層面 A、B 以及 C 三者之間的高度差。</li>
+</ol>
+
+---
 
 ### 層高系統（The elevation system）
 
-所有的 Mateiral Design 平面，以及元件，皆具有層高。
+所有的 Material Design 平面，以及元件，皆具有層高。
 
 以下為平面在不同高度的表現：
 
-* 容許平面在其他平面的前方或後方移動，例如：內容在標題列後方滾動。
-* 反映出空間關係，例如：浮動操作按鈕的陰影顯示它自身與卡片群組分離。
-* 使注意力專注在最高層的平面，例如：暫時出現在其他平面前的對話框。
+- 容許平面在其他平面的前方或後方移動，例如：內容在標題列後方滾動。
+- 反映出空間關係，例如：浮動操作按鈕的陰影顯示它自身與卡片群組分離。
+- 使注意力專注在最高層的平面，例如：暫時出現在其他平面前的對話框。
 
 層高能夠藉由陰影或是其他視覺提示來描繪，例如：將表面填滿或是使用不透明度。
 
 ![image alt](https://lh3.googleusercontent.com/lYzXVHTeDA6Qy4fQDnwxxki4vJzXM7IR7P0k8UlKvr9ayRR1VFCCb5XgIY3pSfVyRZfWUiQvPCZKqwppROK3qFpoNY8ArrYoDjhw3QQ=w1064-v0)
 
-> Material Design 使用陰影來呈現層高。
+<p class="annotation">Material Design 使用陰影來呈現層高。</p>
 
-![image alt](https://lh3.googleusercontent.com/cMbIyXl50sAA2vIH9NZo6AyQT739uQUkDM-QE7lEka6XlMLa-ZvggePmRIWfD6ao0ut57blVNf8K-xQZCJ1XYYQfe3HprtAwV5iK=w1064-v0)
+<div class="img-grid">
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/cMbIyXl50sAA2vIH9NZo6AyQT739uQUkDM-QE7lEka6XlMLa-ZvggePmRIWfD6ao0ut57blVNf8K-xQZCJ1XYYQfe3HprtAwV5iK=w1064-v0" alt="">
+        <div class="item-divide divide-og"></div>
+        <div class="item-title title-og">警告</div>
+        <p>可以使用不同的填充平面取代陰影來表現層高。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/IYh0wXRTbtSwgOtsCypr9KOn_tbKXJRNIcZbPc4lXJNhO401EZyEbNv3Lydopk9khwioZy9df_dFAAFdzmQQ5W8Fa8prTBw5m5FyHtM=w1064-v0" alt="">
+        <div class="item-divide divide-og"></div>
+        <div class="item-title title-og">注意</div>
+        <p>不透明度可以取代陰影來表示層高。</p>
+    </div>
+</div>
 
-> 注意
-> 可以使用不同的填充平面取代陰影來表現層高。
-
-![image alt](https://lh3.googleusercontent.com/IYh0wXRTbtSwgOtsCypr9KOn_tbKXJRNIcZbPc4lXJNhO401EZyEbNv3Lydopk9khwioZy9df_dFAAFdzmQQ5W8Fa8prTBw5m5FyHtM=w1064-v0)
-超ㄔ
-> 注意
-> 不透明度可以取代陰影來表示層高。
+---
 
 ### 靜止層高（Resting elevation）
 
@@ -73,13 +91,19 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 ![image alt](https://lh3.googleusercontent.com/IGup0QloUkkozMfTPbOYOCjUZrfaeNUMLKRBJ6fLBgSUj0_WnzNNy1GsyUijEJyEqDYGqbEW1G3UFO3XOLdZcfd278WCK01TWMOlWQ=w1064-v0)
 
-> 1. 靜止層高在標題列（A），資訊卡（B）以及浮動操作按鈕（C）在行動裝置上的正面視覺呈現。
-> 2. 側邊視角的相同元件。
+<ol class="annotation">
+    <li>靜止層高在標題列（A），資訊卡（B）以及浮動操作按鈕（C）在行動裝置上的正面視覺呈現。</li>
+    <li>側邊視角的相同元件。</li>
+</ol>
 
 ![image alt](https://lh3.googleusercontent.com/lg7Rz0Ji-yv2fpd1wo7SRkWvseJEmBndg0vicbmF6N6OW_D7YPGeQOIxzfIs8anpg5umfzCfLSPMikyEZUvjt5WOrFwD60AgyIxMAg=w1064-v0)
 
-> 1. 靜止層高在標題列（A），資訊卡（B）以及浮動按鈕（C）在桌上型裝置的正面視覺呈現。
-> 2. 側邊視角的相同元件。
+<ol class="annotation">
+    <li>靜止層高在標題列（A），資訊卡（B）以及浮動操作按鈕（C）在桌上型裝置的正面視覺呈現。</li>
+    <li>側邊視角的相同元件。</li>
+</ol>
+
+---
 
 ### 改變層高（Changing elevation）
 
@@ -91,9 +115,12 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/fae98b1ef729287b766e797726f08861f88d45adde26fb81a46b93426c24762f2d14d47808821671f9c8529a3e28fce41905d71556904dde28de47788d482061" width="100%" controls=""></video>
 
-> 一些元件會對使用者的輸入回應層高的增加。
-> 1. 在使用者輸入後，此按鈕的層高從2dp增加至8dp。
-> 2. 以側面角度呈現的相同元件。
+<ol class="annotation">一些元件會對使用者的輸入回應層高的增加。
+    <li>在使用者輸入後，此按鈕的層高從2dp增加至8dp。</li>
+    <li>以側面角度呈現的相同元件。</li>
+</ol>
+
+---
 
 ### 層高干擾（Elevation interference）
 
@@ -105,11 +132,13 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/50048160478198e77656c8bc4e9ce953e358ec82212a12dd814fc3550728ccaf62e85714a30b79c86a47a21f46a8e2214e24570a2fca7cba02aa5d546bbb6de4" width="100%" controls=""></video>
 
-> 暫時重新放置或移除可能與過渡元件產生衝突的元件。行動裝置上卡片串流的正視圖（1）與側視圖（2）展示了一個浮動按鈕（B）在卡片（A）被選取後是如何消失的。
+<p class="annotation">暫時重新放置或移除可能與過渡元件產生衝突的元件。行動裝置上卡片串流的正視圖（1）與側視圖（2）展示了一個浮動按鈕（B）在卡片（A）被選取後是如何消失的。</p>
 
 <video src="https://kstatic.googleusercontent.com/files/623d5c7b748006c65867c72b36d083a3a446a598e48993b97e72f4f9a7e939d2232502989bc80a714a215d6ed65808a18298b4d7e88e7665010f773772b100bd" width="100%" controls=""></video>
 
-> 設計你的應用程式以減少因為層高而造成的干擾。
+<p class="annotation">設計你的應用程式以減少因為層高而造成的干擾。</p>
+
+---
 
 ## 描繪層高（Depicting elevation）
 
@@ -125,18 +154,23 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 在默認的情況下，Material 表面透過陰影來顯示其邊緣。也可以使用其他方法來指示出邊緣，例如：
 
-* 讓表面有不同顏色。
-* 讓表面有不同的透明度。
+- 讓表面有不同顏色。
+- 讓表面有不同的透明度。
 
 邊緣必須在平面之間產生足夠的對比（透過達到或是超越可達到的對比程度）來讓他們看起來是與彼此分離的。
 
-![image alt](https://lh3.googleusercontent.com/aSop7Q33S4n7c-f2PViVYsuuV4PHnkE72mkOwBb2yUtGBGnSTkrNm98IZHdwI04yvQBoudVG5K6RffFHUleFMKjwi0igsGQXNbtf=w1064-v0)
+<div class="img-grid">
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/aSop7Q33S4n7c-f2PViVYsuuV4PHnkE72mkOwBb2yUtGBGnSTkrNm98IZHdwI04yvQBoudVG5K6RffFHUleFMKjwi0igsGQXNbtf=w1064-v0" alt="">
+        <p>若無顯示出其邊緣，無法清楚得知該圖像是包含一個或多個平面。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/vFtTVrJyANl3_QWPZFdCT3hLniOu7IjnONMOClJaolfj7eq0jurIEpsEyrv3D-HJd-7pFuIZLvaO-D28tZcG_7TLZo73v-BwnX1BGS4=w1064-v0" alt="">
+        <p>透過填滿平面來呈現足夠的對比，以清楚得知該圖相包含了兩個層面。</p>
+    </div>
+</div>
 
-> 若無顯示出其邊緣，無法清楚得知該圖像是包含一個或多個平面。
-
-![image alt](https://lh3.googleusercontent.com/vFtTVrJyANl3_QWPZFdCT3hLniOu7IjnONMOClJaolfj7eq0jurIEpsEyrv3D-HJd-7pFuIZLvaO-D28tZcG_7TLZo73v-BwnX1BGS4=w1064-v0)
-
-> 透過填滿平面來呈現足夠的對比，以清楚得知該圖相包含了兩個層面。
+---
 
 ### 平面重疊（Surface overlap）
 
@@ -146,36 +180,51 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 ![image alt](https://lh3.googleusercontent.com/zBBOuW8mTyyeMZJ6DxR1Jnf8M7cBrhvS90xO8J5z00JGeJjQMcbfmZvfotpR8Icla5HmFfIgo2sTwb2VSf1BCrd7KMeA56mR2aWVLw=w1064-v0)
 
-> 1. 陰影呈現了平面的邊緣、重疊狀態以及層高。
-> 2. 不同的平色彩可以呈現平面邊緣以及重疊狀態，但無法顯示層高。
-> 3. 不透明度呈現了平面邊緣以及重疊狀態，但無法顯示層高。
+<ol class="annotation">
+    <li>陰影呈現了平面的邊緣、重疊狀態以及層高。</li>
+    <li>不同的平色彩可以呈現平面邊緣以及重疊狀態，但無法顯示層高。</li>
+    <li>不透明度呈現了平面邊緣以及重疊狀態，但無法顯示層高。</li>
+</ol>
 
-![image alt](https://lh3.googleusercontent.com/QHhiKJMFhwqgzTbidYXNcdM3CedYX5Iff54_DB-7q8aU3xXIXxH4VSoatjvug3uWUaqVaqXMsrbOBh3-RDxyh1tTr8PRgD6lvpkL=w1064-v0)
+<div class="img-grid">
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/QHhiKJMFhwqgzTbidYXNcdM3CedYX5Iff54_DB-7q8aU3xXIXxH4VSoatjvug3uWUaqVaqXMsrbOBh3-RDxyh1tTr8PRgD6lvpkL=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>位於上方的標題列重疊於卡片群組上，表示該標題列位於卡片的前方。該重疊並沒有顯示兩個平面之間的層高。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/eyR7QnhQqWx9eJuHyAbk47w6z7kFnU69zBBVLMtdZdtxDyuFuJcKp7TcKiIb0StMMUqFskrXNYuXBioaQBg7I3_ZcA_VSW8R9XRFtg=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>若沒有平面邊緣以及重疊的視覺提示的話，就無法確定存在了多少平面，哪些平面是位於其他平面之上，也無法確定平面間的層高。</p>
+    </div>
+</div>
 
-> 該這樣做
-> 位於上方的標題列重疊於卡片群組上，表示該標題列位於卡片的前方。該重疊並沒有顯示兩個平面之間的層高。
-
-![image alt](https://lh3.googleusercontent.com/eyR7QnhQqWx9eJuHyAbk47w6z7kFnU69zBBVLMtdZdtxDyuFuJcKp7TcKiIb0StMMUqFskrXNYuXBioaQBg7I3_ZcA_VSW8R9XRFtg=w1064-v0)
-
-> 別這樣做
-> 若沒有平面邊緣以及重疊的視覺提示的話，就無法確定存在了多少平面，哪些平面是位於其他平面之上，也無法確定平面間的層高。
+---
 
 ### 距離（Distance）
 
-平面間的層高差距可以透過使用紗幕背景（scrimmed backgrounds）或陰影來呈現。
+平面間的層高差距可以透過使用紗幕背景或陰影來呈現。
 
 #### 紗幕背景（Scrimmed backgrounds）
 
 在 UI 中，當背景呈現紗幕狀態時，代表前方的內容是處於較高的層高。紗幕背景呈現了一個巨大但不特定數值的層高。
 
-![image alt](https://lh3.googleusercontent.com/VkYXUftoD9aIlWaEgMnYr02YNKqmRbbkKfqdE-Czq1ZW78JeX2BCgSYC_RSr-nFp4yzz4l0kJfUr_PhEK5JWoboc7LDPuVcJabOABQ=w1064-v0)
-
-> 該這樣做
-一個紗幕背景可以表示層面重疊，但無法呈現層高程度。
-
-![image alt](https://lh3.googleusercontent.com/MD3nYXJJPnXTzDYx5mQ6IlONv1nYtTYD2xHc74M_3K5KPTCIe-MSg--PrS2h8pej0p1JlV5mLLsR_JFdAbiyTNv1Mo0N3YE9JhULmA=w1064-v0)
-
-> 若缺少了陰影或是紗幕背景會讓對話框與背景難以區分。
+<div class="img-grid">
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/VkYXUftoD9aIlWaEgMnYr02YNKqmRbbkKfqdE-Czq1ZW78JeX2BCgSYC_RSr-nFp4yzz4l0kJfUr_PhEK5JWoboc7LDPuVcJabOABQ=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>一個紗幕背景可以表示層面重疊，但無法呈現層高程度。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/MD3nYXJJPnXTzDYx5mQ6IlONv1nYtTYD2xHc74M_3K5KPTCIe-MSg--PrS2h8pej0p1JlV5mLLsR_JFdAbiyTNv1Mo0N3YE9JhULmA=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>若缺少了陰影或是紗幕背景會讓對話框與背景難以區分。</p>
+    </div>
+</div>
 
 #### 陰影（Shadows）
 
@@ -185,37 +234,47 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 陰影大小以及擴散量能夠傳達些微差異：
 
-* 兩個平面之間的詳細距離程度。
-* 兩個沒有重疊的平面間的層高差距。
+- 兩個平面之間的詳細距離程度。
+- 兩個沒有重疊的平面間的層高差距。
 
 ![image alt](https://lh3.googleusercontent.com/LA3KMKKDDN_gzLu73HQhPw5nyA_vvP3kMOZp4gcznbCCHbcCXgB5hjmmUxfzpoJfxpAWyq2eQvIpHjSQ0IrDhdnFHpwIJGFC6vHc=w1064-v0)
 
-> 陰影呈現了平面邊緣以及相對於背景的層高。也讓非重疊的平面產生明顯的層高差距。
+<p class="anotation">陰影呈現了平面邊緣以及相對於背景的層高。也讓非重疊的平面產生明顯的層高差距。</p>
 
-![image alt](https://lh3.googleusercontent.com/_hAgGrwVfoS_ZUghZVfL1uLNcwrMYCbIHXhftCWMGq8AlwBF8or1aqbtpbrzsHnxM_HltiADX8cTy1fanCQNQ27JMDdifs5S-pd3wlo=w1064-v0)
+<div class="img-grid">
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/_hAgGrwVfoS_ZUghZVfL1uLNcwrMYCbIHXhftCWMGq8AlwBF8or1aqbtpbrzsHnxM_HltiADX8cTy1fanCQNQ27JMDdifs5S-pd3wlo=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>陰影使平面的高低差異明顯。應用程式欄擁有較小較銳利的陰影（1）表明它的層高低於擁有較大較柔和陰影的選單（2）。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/AjDjtoBwojoBsv5q5OBqzgSG9IGM3cR3r8a3L1CbKsVklQdcbI6Wo33d97SKdffrZJSLaySUGE_Awp7VE7n2TGGI0-GoVzmIkhKqnA=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>缺少陰影或是其他視覺提示來指示出邊緣以及層面重疊，這會無法在層面間產生足夠的對比。這會導致無法得知UI中的哪些部分是屬於同一群組的。</p>
+    </div>
+</div>
 
-> 該這樣做
-陰影使平面的高低差異明顯。應用程式欄擁有較小較銳利的陰影（1）表明它的層高低於擁有較大較柔和陰影的選單（2）。
+<div class="grid-all">
+         <img src="https://lh3.googleusercontent.com/8itgSUVo2hR27l12ScOnWZMxngftB8dMN7dx3pryB_QA2-S8tXx0nwbu5qlffuqDDijFAi79VenJiKl7leBCcujyqEOFqMGalD5MWA=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>別將陰影限定為樣式</p>
+    </div>
+</div>
 
-![image alt](https://lh3.googleusercontent.com/AjDjtoBwojoBsv5q5OBqzgSG9IGM3cR3r8a3L1CbKsVklQdcbI6Wo33d97SKdffrZJSLaySUGE_Awp7VE7n2TGGI0-GoVzmIkhKqnA=w1064-v0)
-
-> 別這樣做
-缺少陰影或是其他視覺提示來指示出邊緣以及層面重疊，這會無法在層面間產生足夠的對比。這會導致無法得知UI中的哪些部分是屬於同一群組的。
-
-![image alt](https://lh3.googleusercontent.com/8itgSUVo2hR27l12ScOnWZMxngftB8dMN7dx3pryB_QA2-S8tXx0nwbu5qlffuqDDijFAi79VenJiKl7leBCcujyqEOFqMGalD5MWA=w1064-v0)
-
-> 別這樣做
-別將陰影限定為樣式
+---
 
 ### 動畫以及層高（Motion and elevation）
 
 動畫可以透過以下方式來強調層高：
 
-1. 陰影變化
-2. 顯示重疊
-3. 推動
-4. 縮放比例
-5. 視差
+- 陰影變化
+- 顯示重疊
+- 推動
+- 縮放比例
+- 視差
 
 #### 陰影變化（Changes in shadows）
 
@@ -223,7 +282,7 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/ce038a31bac3bf5bde6ee1ebd55205cbc5fdcaee141deb73c8d7903c18005c53bc11e3f08b03e9172e3904ba14c6e56eead0ee9962ffcba026e02e293592f318" width="100%" controls=""></video>
 
-> 陰影的增加強調該卡片正在上升。
+<p class="annotation">陰影的增加強調該卡片正在上升。</p>
 
 #### 顯示重疊（Displaying overlap）
 
@@ -231,7 +290,7 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/fb558bab9141d4f1560858f6a53d1c83aeed826aa2c816d0348f43787f3cbb634430ff8cd6232e58167516260ea28be7a3e990ecee474828cd2a423934120dbc" width="100%" controls=""></video>
 
-> 當一個層面擴大時，可以藉由重疊於鄰近的層面來顯示其層高。
+<p class="annotation">當一個層面擴大時，可以藉由重疊於鄰近的層面來顯示其層高。</p>
 
 #### 推動（Pushing）
 
@@ -239,7 +298,7 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/6fb35a502dc12f7ae6954800191b67d2ed2033b688ff3137779262542b110d66af7137cb1842a5a50d1d8e375a4fb06d5178390dbe8e8b3dc1630dcae358b8aa" width="100%" controls=""></video>
 
-> 當一個列表選項被選擇時，它會擴大並將其他項目推動開來。
+<p class="annotation">當一個列表選項被選擇時，它會擴大並將其他項目推動開來。</p>
 
 #### 縮放比例（Scaliing）
 
@@ -247,7 +306,7 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/59c2eeb69fadfa496d85e0ecae0b1f7a7d1759673648e888efa52dfa2d18f2ab91c09861fda10de09baf6ac5a41d8d546b79f5b3158918870b60dfa30b2fd6f3" width="100%" controls=""></video>
 
-> 前景平面以及背景平面透過比例大小的縮放來強調層高變化。
+<p class="annotation">前景平面以及背景平面透過比例大小的縮放來強調層高變化。</p>
 
 #### 視差（Parallax）
 
@@ -255,7 +314,7 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/3089f23326472c311f9984f2f05e1bd920bd79b75220bf112307d64f6836f5c8e573cc8440bdce2a09b3da1059262dd7e578645bb642c457e0d071c899de7a52" width="100%" controls=""></video>
 
-> 前景層面移動較背景圖片快，這樣的效果製造出了景深。
+<p class="annotation">前景層面移動較背景圖片快，這樣的效果製造出了景深。</p>
 
 #### 結合動畫技巧（Combining motion techniques）
 
@@ -263,7 +322,9 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/f0431cbfb8720743c6011ecacc5b697fb9bb6da42147c5cee8c8f79fbd7f1ea167ccca44f2cd9a4ecaad1f4371821426226f97a770bb9c8bd07014653fa1718b" width="100%" controls=""></video>
 
-> 視差動畫以及縮放比例能夠強調出哪些平面的位置在前。
+<p class="annotation">視差動畫以及縮放比例能夠強調出哪些平面的位置在前。</p>
+
+---
 
 ## 層高等級（Elevation hierachy）
 
@@ -279,15 +340,17 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 ![image alt](https://lh3.googleusercontent.com/-djeHNq-CQUzYLZdwU_DmbXXiEqQxhwepxUnYwpkW_cs79fcA9bzk5MvrIkhQoNpRNwEkfLkmwkoy3995o7kzS_JOktNSUdJSSoc7GY=w1064-v0)
 
-> 桌機介面的正視圖（1）與側視圖（2）呈現了如何將具有主要焦點的重要內容（B）顯示在具有次要焦點的內容（如註腳（A））前方。
+<p class="annotation">桌機介面的正視圖（1）與側視圖（2）呈現了如何將具有主要焦點的重要內容（B）顯示在具有次要焦點的內容（如註腳（A））前方。</p>
 
 ![image alt](https://lh3.googleusercontent.com/NnKjUILrGgvpxtH-LcOGV7fX5rErmB05b-cPb-Wmw8KMnXZUpFeRG5m6qAK2NQ9MuSMMq0ZVcMgTCC0pxUK9Op2g-o1LBDTM_ybkeVE=w1064-v0)
 
-> 移動裝置介面的正視圖（1）與側視圖（2）呈現了將內容放置於較高的平面，如底部選單（A），可以在保持上下文的同時吸引目光。
+<p class="annotation">移動裝置介面的正視圖（1）與側視圖（2）呈現了將內容放置於較高的平面，如底部選單（A），可以在保持上下文的同時吸引目光。</p>
 
 <video src="https://kstatic.googleusercontent.com/files/86c3bc3552a415061b6d81db26f3ec14fd6fc3898da0fb1f8a809a38bb66a1a48bc5f6a75b229740db103d0a35c76c0f0954ee4d2d153452e2a0922e69b306ed" width="100%" controls=""></video>
 
-> 行動裝置介面的正視圖（1）與側視圖（2）呈現了置於較低層面的內容（A）通常是由位於其前方的平面所控制的，如側邊選單（B）。
+<p class="annotation">行動裝置介面的正視圖（1）與側視圖（2）呈現了置於較低層面的內容（A）通常是由位於其前方的平面所控制的，如側邊選單（B）。</p>
+
+---
 
 ### 共同層面上的內容（Content on coplanar surfaces）
 
@@ -295,8 +358,10 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 <video src="https://kstatic.googleusercontent.com/files/378f75e16e7f04ec1e937ddedc14abe446bf595eafff25e21cdb65d97c19ca54f2f5479d983927b9a3be68bbd0430c7bbdd72d15c05be0d42fb236b66f24e2df" width="100%" controls=""></video>
 
-> 1. 卡片（A, B）從前方來看都具有相同的層高，且兩者一起移動，這強調了兩者的內容屬於相同等級。
-> 2. 相同元件的側視圖。
+<ol class="annotation">
+    <li>卡片（A, B）從前方來看都具有相同的層高，且兩者一起移動，這強調了兩者的內容屬於相同等級。</li>
+    <li>相同元件的側視圖。</li>
+</ol>
 
 沒有呈現層高的平面可以顯示為共同平面。對於沒有呈現層高的平面，您若想要表現內容等級的差異，可以透過內容以及調整水平、垂直布局位置來表示他們之間的相對等級。
 
@@ -304,8 +369,12 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 ![image alt](https://lh3.googleusercontent.com/c0MnFFL7Xqg-jSaafPRsVpbx8g514ZuiTVp8TWfQ_8b-WU2uReql5d73Ct8RA_O9Qqr-AsPgysK6JDO_VG098-6GPABZN071Cscr=w1064-v0)
 
-> 1. 一個桌機互動頁面（UI），從正面來看，顯示了同一高度上的平面（A,B,C）是如何根據英文內容，來從左至右表達其層次結構。
-> 2. 相同元件的側視圖。
+<ol class="annotation">
+    <li>一個桌機互動頁面（UI），從正面來看，顯示了同一高度上的平面（A,B,C）是如何根據英文內容，來從左至右表達其層次結構。</li>
+    <li>相同元件的側視圖。</li>
+</ol>
+
+---
 
 ## 默認層高（Default elevations）
 
@@ -338,13 +407,16 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 |   文字按鈕  | 0     |
 |   標準側邊表格  | 0     |
 
+---
+
 ### 默認層高值圖表
 
 ![image alt](https://lh3.googleusercontent.com/pEk_CLv7V6MroLmKY5rA5nCknpKI0ltFZn5yypHiAt0zJzWd5frkMaj2VXWpQmcPtoA_8P-2n0wg9I4JgCWSOKN5nUSgN7IActWvZw=w1064-v0)
 
->剖面圖顯示了多種元件的靜止層高以及動態偏移層高。
+<p class="annotation">剖面圖顯示了多種元件的靜止層高以及動態偏移層高。</p>
 
 ---
 
 > 譯者：Jia-Yu, Lin (Sally)
+>
 > 校稿：CYC

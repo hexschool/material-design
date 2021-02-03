@@ -26,13 +26,18 @@ description: 螢幕像素密度與解析度的變化因平台而異。
 
 螢幕像素密度＝螢幕寬度（或者高度）所含的像素數量／螢幕的實際寬度（單位以英吋計算）
 
-![高密度顯示的結果](https://lh3.googleusercontent.com/NXbwdWYdlNMs5HA7tv-CCTtIiW2-96XHMpydZ4_M7SxFSMx2KYug3z-nBBQXGGhC0JVxhrL6CX0yP2fdzoXC4t783uzqFC_xQAM8JIM=w1064-v0)
+<div class="img-grid">
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/NXbwdWYdlNMs5HA7tv-CCTtIiW2-96XHMpydZ4_M7SxFSMx2KYug3z-nBBQXGGhC0JVxhrL6CX0yP2fdzoXC4t783uzqFC_xQAM8JIM=w1064-v0" alt="">
+        <p>高密度顯示的結果</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/RNAucz3HiKbTVhEz1fUBJzTorwRhe0-f4Y37WeLiojhoI2dhwDWo-afpOt6drgIjA99AgEtg1_NEgvc-hfnVUocGkwsKKYCwSV0h=w1064-v0" alt="">
+        <p>低密度顯示的結果</p>
+    </div>
+</div>
 
-> 高密度顯示的結果
-
-![低密度顯示的結果](https://lh3.googleusercontent.com/RNAucz3HiKbTVhEz1fUBJzTorwRhe0-f4Y37WeLiojhoI2dhwDWo-afpOt6drgIjA99AgEtg1_NEgvc-hfnVUocGkwsKKYCwSV0h=w1064-v0)
-
-> 低密度顯示的結果
+---
 
 ## 密度獨立性（Density independence）
 
@@ -46,8 +51,12 @@ Material UI 運用獨立密度像素讓元件即使顯示於不同密度的螢�
 
 ![低密度與高密度螢幕顯示密度獨立性的 UI 元件](https://lh3.googleusercontent.com/_SO3kwOpx8F0MzIkb0z0q7paNqPMK3v_wtL7Es1oBKdN__aejeV5gw261UX1XST6refOBlbOaNwXvPaO-PKGRUiZX_moClbcYA_Q=w1064-v0)
 
-> 1. 低密度螢幕顯示密度獨立性的UI元件
-> 2. 高密度螢幕顯示密度獨立性的UI元件
+<ol class="annotation">
+    <li>低密度螢幕顯示密度獨立性的UI元件</li>
+    <li>高密度螢幕顯示密度獨立性的UI元件</li>
+</ol>
+
+---
 
 ## Android 的像素密度
 
@@ -97,6 +106,8 @@ iOS 採用邏輯解析來當作側量密度的標準，其方法為測量一個�
 - [Apple iOS 文件-關於顯示](https://developer.apple.com/library/content/documentation/DeviceInformation/Reference/iOSDeviceCompatibility/Displays/Displays.html)
 - [iPhone 解析度使用指南-Paincode](https://www.paintcodeapp.com/news/ultimate-guide-to-iphone-resolutions)
 
+---
+
 ## web 的像素密度
 
 ### 邏輯解析度
@@ -107,5 +118,8 @@ iOS 採用邏輯解析來當作側量密度的標準，其方法為測量一個�
 
 設計 web 時，使用 px（像素）來取代 dp。
 
+---
+
 > 譯者：黃偉豪（小偉哥）
+>
 > 校稿：Joanne Chen

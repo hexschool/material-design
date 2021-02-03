@@ -2,12 +2,12 @@ module.exports = {
   title: '六角學院', // 整個網站的標題
   description: 'Material Design', // 網站的標題
   head: [ // icon 包含 PWA
-    ['meta', { content:'Material Design', itemprop='name', name='twitter:title', property='og:title'}],
-    ['meta', { content='Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.', itemprop='description', name='twitter:description', property='og:description'}],
-    ['meta', { content='/static/spec/images/share.png', itemprop='image', name='twitter:image', property='og:image' }],
-    ['meta', { content='https://material.io', itemprop='url', name='twitter:url', property='og:url'}],
-    ['meta', { content='Material Design', property='og:site_name'}],
-    ['meta', { content='article', property='og:type'}]
+    ['meta', { content:'Material Design', itemprop:'name', name:'twitter:title', property:'og:title'}],
+    ['meta', { content:'Build beautiful, usable products faster. Material Design is an adaptable system—backed by open-source code—that helps teams build high quality digital experiences.', itemprop:'description', name:'twitter:description', property:'og:description'}],
+    ['meta', { content:'/static/spec/images/share.png', itemprop:'image', name:'twitter:image', property:'og:image' }],
+    ['meta', { content:'https://material.io', itemprop:'url', name:'twitter:url', property:'og:url'}],
+    ['meta', { content:'Material Design', property:'og:site_name'}],
+    ['meta', { content:'article', property:'og:type'}]
   ],
   // serviceWorker: true, // 開啟 PWA
   themeConfig: {
@@ -51,7 +51,7 @@ module.exports = {
         children: [
           ['/navigation/understanding-navigation', '理解導航'],
           ['/navigation/navigation-transitions', '導航過渡'],
-          // ['/navigation/search', '搜尋'],
+          ['/navigation/search', '搜尋'],
         ]
       },
       {

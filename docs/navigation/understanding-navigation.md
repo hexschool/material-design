@@ -27,20 +27,21 @@ description: 使用者可以根據導覽瀏覽整個應用程式。
 
 ![橫向導航](https://lh3.googleusercontent.com/BDoBXCsA0Dyg4pmTXNTyynDAxoM2Mw3Z10e26I8EBZWGeHpnONr_T01Q1hSKinNQQB65UhC4O4BqNEW6WjUNTIsQXecs6DVNyjpp=w1064-v0)
 
-> 橫向導覽允許此音樂程式的資訊結構在頂層的螢幕中移動。
+<p class="annotation">橫向導覽允許此音樂程式的資訊結構在頂層的螢幕中移動。</p>
 
 ![正向導航](https://lh3.googleusercontent.com/f_iLouBO8Xw4yBd0Th1Xty2mNwnSpxVrKm1mBvEqtDafurYB8VB9sVomRtiuGAvzKdika-UztLYMBMja7LiOa7FIRymRfBvpfMs5tg=w1064-v0)
 
-> 此音樂程式的使用者可以用以下兩種方式之一運用正向導覽來選擇歌曲：
->
-> 1. 以分層導覽從音樂專輯到特定歌曲
-> 2. 搜尋歌曲並直接導覽至其位置，繞過歌曲上層（Library and Album）直接傳遞
+<ol class="annotation">此音樂程式的使用者可以用以下兩種方式之一運用正向導覽來選擇歌曲：
+    <li>以分層導覽從音樂專輯到特定歌曲</li>
+    <li>搜尋歌曲並直接導覽至其位置，繞過歌曲上層（Library and Album）直接傳遞</li>
+</ol>
 
 ![反向導航](https://lh3.googleusercontent.com/bde2_9i_Fg41f2RhU0eztzRxtpinFu-pElJ0cAxasNc3c47ktCArCaevbgV1vGECXUisS7njshIZ5Ytxyb1zs96C4F3Zm5J_IschFg=w1064-v0)
 
-在歌曲畫面上，用戶可以用以下兩種方式之一反向瀏覽：
-1.在層次結構中向上延伸到歌曲的父層，在此範例中，專輯內含了歌曲
-2.按時間順序，進入搜索結果畫面，但前提是用戶是從該畫面導航到該歌曲
+<ol class="annotation">在歌曲畫面上，用戶可以用以下兩種方式之一反向瀏覽：
+    <li>在層次結構中向上延伸到歌曲的父層，在此範例中，專輯內含了歌曲</li>
+    <li>按時間順序，進入搜索結果畫面，但前提是用戶是從該畫面導航到該歌曲</li>
+</ol>
 
 ---
 
@@ -60,20 +61,22 @@ description: 使用者可以根據導覽瀏覽整個應用程式。
 
 ![側邊導航列適用於五個或更多的頂層目的地](https://lh3.googleusercontent.com/tVfI-EewJiKQqYvmcV8xkY2AIh_GXLSDlh5nzGka0SooqiJey_MWjtdpETNpBj8GEIzbE4LlaDIRX90ibVJlchUKKQ8qanhrRgFE=w1064-v0)
 
-> 側邊導航列適用於五個或更多的頂層目的地，並且可以跨設備大小使用，以提供一致的導航體驗。
+<p class="annotation">側邊導航列適用於五個或更多的頂層目的地，並且可以跨設備大小使用，以提供一致的導航體驗。</p>
 
 ![底部導航欄在行動裝置上提供訪問 3-5 個頂層目的地](https://lh3.googleusercontent.com/1L6Ioi9o8wSkYmYq70qD-AEJeM_NkPAIz9J7szyRa52VWEDwsPb1N4MMxI11tgzHK9S8EJr2ZZNWdFJ5ImVF_IW4pe85hlBSw4cR=w1064-v0)
 
-> 底部導航欄在行動裝置上提供訪問 3-5 個頂層目的地。它們的位置、可見性和跨屏幕的持久性允許在目的地之間快速切換。
+<p class="annotation">底部導航欄在行動裝置上提供訪問 3-5 個頂層目的地。它們的位置、可見性和跨屏幕的持久性允許在目的地之間快速切換。</p>
 
 ![選項卡可用於應用程序中的的任何層級](https://lh3.googleusercontent.com/_GcfJ34eRw4Lgmjtb2tULRcHLrCQrOvpRReim6SkW4eDYYYp60v9Fd69GcGQPH7IrBG5aV-jTCjxFNY1NjvSjpffTgu1DMNg2bxpdQ=w1064-v0)
 
-> 選項卡可用於應用程序中的的任何層級，以跨屏幕大小顯示兩個或更多對等數據集。
+<p class="annotation">選項卡可用於應用程序中的的任何層級，以跨屏幕大小顯示兩個或更多對等數據集。<p>
 
-![Do](https://lh3.googleusercontent.com/pjLgb-QObFNpi23kWllQDBkyDRdW3gTX-usHzDVreFRa5wU62_eGx_-tjG6A7GwIUqxXf4nb7DDMqCC7wA6IXmABkhIGJNl4nejU3O8=w1064-v0)
-
-> Do
-與頂層導航元件（如側邊導航列（1））配對時，選項卡（2）可以在應用程序的層次結構中啟用其他橫向導航。
+<div class="grid-all">
+    <img src="https://lh3.googleusercontent.com/pjLgb-QObFNpi23kWllQDBkyDRdW3gTX-usHzDVreFRa5wU62_eGx_-tjG6A7GwIUqxXf4nb7DDMqCC7wA6IXmABkhIGJNl4nejU3O8=w1064-v0" alt="">
+    <div class="item-divide divide-gn"></div>
+    <div class="item-title title-gn">該這樣做</div>
+    <p class="annotation">與頂層導航元件（如側邊導航列（1））配對時，選項卡（2）可以在應用程序的層次結構中啟用其他橫向導航。</p>
+</div>
 
 [導覽集合](https://material.io/components/navigation-drawer)
 [底部導覽列](https://material.io/components/bottom-navigation)
@@ -104,21 +107,26 @@ description: 使用者可以根據導覽瀏覽整個應用程式。
 
 ![主畫面（父層）上的即時貼提供了每個便簽內容的預覽](https://lh3.googleusercontent.com/kIq3JbMx_KxkC1FI_nu2v1Po11_QTYC0i1BHW42gkBPGlUOd6C1_zcyLQnMtAZvXGhRJRiDTRtg9-gBVUSQw9h9IBZSBsDnYAfLjFQ=w1064-v0)
 
-主畫面（父層）上的即時貼提供了每個便簽內容的預覽，可以點按以導航至完整的便箋（子層）。
+<p class="annotation">主畫面（父層）上的即時貼提供了每個便簽內容的預覽，可以點按以導航至完整的便箋（子層）。</p>
 
-![按鈕可以提供明確的反應](https://lh3.googleusercontent.com/n712mYj8eSDn3LISIQge6gQPMYU4ote6j4safrRfOjcSmYAJTKl_CwSt5H3Ea46MKfhcpvXlW6pBclER6LzfpRBE6LmYJoulc8k-NA=w1064-v0)
+<div class="img-grid">
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/n712mYj8eSDn3LISIQge6gQPMYU4ote6j4safrRfOjcSmYAJTKl_CwSt5H3Ea46MKfhcpvXlW6pBclER6LzfpRBE6LmYJoulc8k-NA=w1064-v0" alt="">
+        <p>按鈕可以提供明確的反應，以使按鈕、標籤、位置和視覺重點突出。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/EZ76UfPEeQ6SZX8FMIqjsXbarAUwd9elgz6zR3NQKd21IDEQ_AveTbG_-2hI1qVIoj_Awup2AfmC50_v5UqTEsmAAl1yB62qNHc22Q=w1064-v0" alt="">
+        <p>搜尋讓使用者可以快速訪問應用程序資訊結構中任何地方。</p>
+    </div>
+</div>
 
-按鈕可以提供明確的反應，以使按鈕、標籤、位置和視覺重點突出。
+[搜尋](./search#搜尋)
 
-![搜尋讓使用者可以快速訪問應用程序資訊結構中任何地方](https://lh3.googleusercontent.com/EZ76UfPEeQ6SZX8FMIqjsXbarAUwd9elgz6zR3NQKd21IDEQ_AveTbG_-2hI1qVIoj_Awup2AfmC50_v5UqTEsmAAl1yB62qNHc22Q=w1064-v0)
-
-搜尋讓使用者可以快速訪問應用程序資訊結構中任何地方。
-
-[搜尋](https://material.io/design/navigation/search.html)
+---
 
 ## 反向導航
 
-反向導航是指畫面之間的向後移動。它可以按時間順序在使用者最近的畫面歷史記錄中移動，或在應用程序的層次結構中向上移動。
+反向導航是指畫面之間的向後移動。它可以**按時間順序**在使用者最近的畫面歷史記錄中移動，或在應用程序的層次結構中**向上移動**。
 
 ### 反序導航
 
@@ -128,10 +136,10 @@ description: 使用者可以根據導覽瀏覽整個應用程式。
 
 ![使用「後退」按鈕，用戶可以按倒序的時間順序瀏覽最近查看的屏幕](https://lh3.googleusercontent.com/d5_J7KkU6tKkGZQYR5R8c64D4YubDFatm-AIjDRcESp1L-jX2jBIxdgfKlH80q_R4VFi0It2o3H4WACow5ZuMWznIvA5m0Yl3K7CCg=w1064-v0)
 
-> 使用「後退」按鈕，用戶可以按倒序的時間順序瀏覽最近查看的屏幕。
->
-> 1. Android 導航欄中的「後退」按鈕（A）
-> 2. Web 瀏覽器中的「後退」按鈕（B）
+<ol class="annotation">使用「後退」按鈕，用戶可以按倒序的時間順序瀏覽最近查看的屏幕。
+    <li>Android 導航欄中的「後退」按鈕（A）</li>
+    <li>Web 瀏覽器中的「後退」按鈕（B）</li>
+</ol>
 
 ### 頂部導航
 
@@ -141,8 +149,10 @@ description: 使用者可以根據導覽瀏覽整個應用程式。
 
 ![向上導航](https://lh3.googleusercontent.com/pK8fp2NFvyA0sTLpI7U7rJaBcbV1QvfG38mL6ZOvh8WKSRRyqfOEoexSx9T_D871RFvaor5eMVS0gv-T_vypGcl25R6nEyDIclmJ=w1064-v0)
 
-> 通過向上操作（A），可以在 Android 和 Web 應用程序上進行向上導航
-> 在 iOS 上，可以通過 iOS 導航欄中的後退按鈕（B）進行向上導航
+<ol class="annotation">
+    <li>通過向上操作（A），可以在 Android 和 Web 應用程序上進行向上導航</li>
+    <li>在 iOS 上，可以通過 iOS 導航欄中的後退按鈕（B）進行向上導航</li>
+</ol>
 
 ### 注意事項
 
@@ -150,7 +160,10 @@ description: 使用者可以根據導覽瀏覽整個應用程式。
 
 - 使用戶返回其先前的畫面位置和狀態，例如其垂直滾動位置，以加快資訊呼叫和事件返回的速度。
 - 如果畫面的先前狀態不再可用（例如，已清除表單中的資訊以保護隱私），則提供清楚的資訊。
-- 清楚地指示子畫面與層次結構中位於其上方之畫面的關係。例如，如果用戶直接移動到您應用中的子畫面，則他們應該能夠識別可向上導航的父畫面。
+- 清楚地指示子畫面與層次結構中位於其上方之畫面的關係。例如，如果用戶直接移動到您應用中的**子畫面**，則他們應該能夠識別可向上導航的**父畫面**。
+
+---
 
 > 譯者：Blake Hung
+>
 > 校稿：Joanne Chen

@@ -18,7 +18,7 @@ description: 間距方法使用基線網格、關鍵設計線（keylines）、�
 
 ![8dp 網格](https://lh3.googleusercontent.com/uinGeklHxk33_lRawJUwCctxCz3QZXhpdYP27NaX8oFG_UmecEl56Ww9WK3qMmTc_dHAXcNFXyINLRHbJinylMuivSmjkTA6BNvyig=w1064-v0)
 
-> 功能列和浮動按鈕與 8dp 網格對齊。
+<p class="annotation">功能列和浮動按鈕與 8dp 網格對齊。</p>
 
 ---
 
@@ -28,7 +28,7 @@ description: 間距方法使用基線網格、關鍵設計線（keylines）、�
 
 ![4dp 網格](https://lh3.googleusercontent.com/Cqdbcwkst0ekoN9nILUviSkOPFgz0l3-QNgboUrPZeYG4kG6SQ8-7K2juhT-GaOhP7OF7vKe87Y5oXl6p2OoE_EYu5pLzc6J5rMhag=w1064-v0)
 
-> 底部導覽列的元素與 4dp 網格對齊。
+<p class="annotation">底部導覽列的元素與 4dp 網格對齊。</p>
 
 ---
 
@@ -38,13 +38,15 @@ description: 間距方法使用基線網格、關鍵設計線（keylines）、�
 
 ![4dp 基線網格](https://lh3.googleusercontent.com/K_UG3A7jm8zmsW9BDuifTUTZDUeJK9YV3vcF8nELPdaozCGvAlJjev3Agvf43_84Nh9X7TR5ACGbFirQWLoWStPNivlA5u_RvTYdNA=w1064-v0)
 
-> 4dp 基線網格
+<p class="annotation">4dp 基線網格</p>
 
 當字體在元件內置中時，其可以超出 4dp 網格之外，如按鈕或列表清單。當放置在網格外部但在元件內居中時，文字仍可以垂直居中對齊。
 
 ![垂直對齊](https://lh3.googleusercontent.com/Ryi55q2xjGwPEk9-VizBHTzmDtwfHnYRz3L5n9wfm8q7IgwqdWo7ilisFZpZcMYFCAJwef3XiHr8RC7rCgU07Tenyg_K8p36kFehkw=w1064-v0)
 
-> 文字顯示為垂直置中對齊於列表清單的中心，儘管該排版位於 4dp 網格之外。
+<p class="annotation">文字顯示為垂直置中對齊於列表清單的中心，儘管該排版位於 4dp 網格之外。</p>
+
+---
 
 ## 間距
 
@@ -52,21 +54,26 @@ description: 間距方法使用基線網格、關鍵設計線（keylines）、�
 
 間距方法比響應式佈局網格更精細。它是一組關於如何放置元素在佈局與元件上的規則。
 
-![內距](https://lh3.googleusercontent.com/7oz4_mqkzr-lmSZciE3t7-ypIohWtD9k5cgVBNgt_SlCSRgSZV3NP6y8-HFLzOapEwJNJ5tcenFYtne2DeSdLrwa9TRWl6Wbxnv4=w1064-v0)
+<div class="img-grid">
+    <div class="grid-item-triple">
+        <img src="https://lh3.googleusercontent.com/7oz4_mqkzr-lmSZciE3t7-ypIohWtD9k5cgVBNgt_SlCSRgSZV3NP6y8-HFLzOapEwJNJ5tcenFYtne2DeSdLrwa9TRWl6Wbxnv4=w1064-v0" alt="">
+        <h4>內距</h4>
+        <p>內距是元件中元素之間的空間。</p>
+    </div>
+    <div class="grid-item-triple">
+        <img src="https://lh3.googleusercontent.com/fpL1dTOlSo2gc1ajP2msg1goP9LYCVEQ5Ikv5xaUkSnKAm_9tDy6AqXdjHZUHEuLjn4nnSBllpoBhRtasY26q8lgAtgFOPYmEtPAwg=w1064-v0" alt="">
+        <h4>尺寸</h4>
+        <p>尺寸指的是元件中元素的寬度和高度。</p>
+    </div>
+    <div class="grid-item-triple">
+        <img src="https://lh3.googleusercontent.com/PHRyk0W-Eb00cZ0AtrxXMvQczskDEIZzUDBHZHem3JU-ct6bGmt4rT5PWeP5JuNjl1KBDoZ4achUDCCDkoH7gQtCGb35X2jritte=w1064-v0" alt="">
+        <p>帶有加號圖示與內距的按鈕</p>
+        <h4>對齊</h4>
+        <p>對齊與元件中元素的放置位置有關。</p>
+    </div>
+</div>
 
-> 內距
-> 內距是元件中元素之間的空間。
-
-![尺寸](https://lh3.googleusercontent.com/fpL1dTOlSo2gc1ajP2msg1goP9LYCVEQ5Ikv5xaUkSnKAm_9tDy6AqXdjHZUHEuLjn4nnSBllpoBhRtasY26q8lgAtgFOPYmEtPAwg=w1064-v0)
-
-> 尺寸
-> 尺寸指的是元件中元素的寬度和高度。
-
-![對齊](https://lh3.googleusercontent.com/PHRyk0W-Eb00cZ0AtrxXMvQczskDEIZzUDBHZHem3JU-ct6bGmt4rT5PWeP5JuNjl1KBDoZ4achUDCCDkoH7gQtCGb35X2jritte=w1064-v0)
-
-> 帶有加號圖示與內距的按鈕
-> 對齊
-> 對齊與元件中元素的放置位置有關。
+---
 
 ### Padding
 
@@ -76,7 +83,7 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![image alt](https://lh3.googleusercontent.com/uLOWkiGXp0rKOvpk1GY6p1ogxbCp31lmeDa23c_HIjsc4OBI_6cKNgXtOWBJJ6awV7QokMcXAKNuJLr1IOlc39DKv65MvV_s-zoNwNw=w1064-v0)
 
-> 元件之間有 24dp 內距的佈局。
+<p class="annotation">元件之間有 24dp 內距的佈局。</p>
 
 ### 尺寸
 
@@ -86,9 +93,11 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![尺寸](https://lh3.googleusercontent.com/aI-9g5bMKLQVPquLTGARrO5UBuUeSbOUN8wA2spP7C86xGA-eIDhm_sMmwddVapYfV422RWJzg1ULUHdppKcX1hd-qg1axw0ahh7jw=w1064-v0)
 
-> 1. 狀態欄高度：24 dp
-> 2. 功能列高度：56 dp
-> 3. 清單項目高度：88 dp
+<ol class="annotation">
+    <li>狀態欄高度：24 dp</li>
+    <li>功能列高度：56 dp</li>
+    <li>清單項目高度：88 dp</li>
+</ol>
 
 ---
 
@@ -98,8 +107,10 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![對齊](https://lh3.googleusercontent.com/mQ64ispggPXYuhYJlWNMlpvtGXt4IfoqZ4Ns2BbfVKMRnOYz_InNGSL4uMLWQGqfrLv_8qVppUhrBxNLqS3Vujs7axZrmkibajWH=w1064-v0)
 
-> 1. 網格佈局
-> 2. 對齊
+<ol class="annotation">
+    <li>網格佈局</li>
+    <li>對齊</li>
+</ol>
 
 #### 關鍵線（keylines）
 
@@ -108,14 +119,16 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![關鍵線](https://lh3.googleusercontent.com/SrezdvoaTp-k9fPW-trPeBrnXWR3FNdQxrQWN6E0YKQlcQqQ6d6H4VNFt5r9Qzc7_3XXEdnVqQm25BX7dt9G7VqYCNZ43v6cO8JihA=w1064-v0)
 
-> 1. 網格佈局
-> 2. 關鍵線（keylines）
+<ol class="annotation">
+    <li>網格佈局</li>
+    <li>關鍵線（keylines）</li>
+</ol>
 
 關鍵線（keylines）可以在排版中的元素之間建立更多或更少的空間。它們可在每個斷點範圍內調整。
 
 ![關鍵線](https://lh3.googleusercontent.com/Z4ViFg5sBrSdePmPokknAZWzG3-NKHnSf5EpbIP4JCj9wkvF2B6JwQ2ZKa3QFcpWjWmI1Sh0pEUNK8FfW_eDJVz_JWYmyPQVGC1t5Q=w1064-v0)
 
-> 關鍵線（keylines）可以擴大或縮小元素之間的空間。
+<p class="annotation">關鍵線（keylines）可以擴大或縮小元素之間的空間。</p>
 
 ## 容器和比例
 
@@ -125,18 +138,21 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![容器](https://lh3.googleusercontent.com/_jkgGGDxbyGkDUREedXaaW4gUTKAqNPvEW6whJGW3I1Rsk9qbexseRBAnktFl8qGgfG-W6sJGoOIX5ZWsocDZ-FXk8tN4rOv7spo=w1064-v0)
 
-> 200%
->
-> 1. 圖片容器
-> 2. 圖示容器
-> 3. 平面容器
+<p class="annotation">200%</p>
+<ol class="annotation">
+    <li>圖片容器</li>
+    <li>圖示容器</li>
+    <li>平面容器</li>
+</ol>
 
 容器的大小可以是固定的，並限制其中的元素大小或裁剪元素。或者，容器的大小也可以很靈活且隨著內容物大小而改變。
 
 ![容器大小](https://lh3.googleusercontent.com/1XH1o0noP4x_eITdlm-rfXxDFNhiCDrZXxmFU4zTIkFOmcFx2NKSswAHg4RY1a_bT4uEw7H-rv2Csr5O4vVALFh0xBroCvet5r7QhN4=w1064-v0)
 
-> 1. 裁剪原始圖片的固定容器。
-> 2. 靈活的圖片容器，可以縮放以容納原始圖片大小。
+<ol class="annotation">
+    <li>裁剪原始圖片的固定容器。</li>
+    <li>靈活的圖片容器，可以縮放以容納原始圖片大小。</li>
+</ol>
 
 ### 長寬比
 
@@ -148,9 +164,11 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![長寬比](https://lh3.googleusercontent.com/VoBz_lg0Fh9t9YeWa4v1EvMfBqXtnXkgOKA5Wc51sU6pFDHhKkWPfrfFHPeMwtd4G4LQ5B9eSZKQNjXOsQH0gV02HpQYADd4eSK5og=w1064-v0)
 
+---
+
 ### 彈性比例
 
-彈性的比例大小由[排版網格](https://material.io/design/layout/responsive-layout-grid.html#columns-gutters-and-margins)決定：
+彈性的比例大小由[排版網格]()決定：
 
 - 容器的寬度由螢幕解析度決定，並逐漸填滿可用的最大空間
 - 容器高度取決於容器中的圖片高度
@@ -159,7 +177,9 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![彈性比](https://lh3.googleusercontent.com/uwxkWXpdEpoIPz4dUWTu3Slb17UjbDiIW2soKPiTY7JKDu0l38H1Y4JsMuIVgv7BQrz4C_HyeFQi4EdHfcTDDDMYSG9cmS6sBn-FpQ=w1064-v0)
 
-> 容器寬度由排版網格中的欄寬確定。
+<p class="annotation">容器寬度由排版網格中的欄寬確定。</p>
+
+---
 
 ### 響應式剪裁
 
@@ -175,8 +195,7 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![保持比例](https://lh3.googleusercontent.com/kFP94SNxZnEdxq_IgGzVHMVEpob2wuzycwbm69Wgm1fHoPcFA19i0Cmc2votk2w9RwSYqKKVmANdvRDHfgIqaOaZfiefE3yCoEOc-wA=w1064-v0)
 
-> 50％
-> UI 中的圖片在斷點之間保持 3：2 的比例。
+<p class="annotation">50％<br>UI 中的圖片在斷點之間保持 3：2 的比例。</p>
 
 #### 適應不同的比例
 
@@ -184,8 +203,7 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![適應不同比例](https://lh3.googleusercontent.com/4qaK79Dr80-eHWPxi93Y2iDEby21ETywNNPPtgThZcSz5yBIw_gxUR3dz6EEZypWQeQK13l8nmnqHXRVe0-RLOjF4MSWb4Z4OEE3=w1064-v0)
 
-> 50％
-> 斷點之間的圖片比例從 1：1 變為 16：9。
+<p class="annotation">50％<br>斷點之間的圖片比例從 1：1 變為 16：9。</p>
 
 #### 固定圖片高度
 
@@ -193,8 +211,9 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![固定圖片高度](https://lh3.googleusercontent.com/lQteTxA5pZzhyyvJexW86V7XXIEK_rL3xWkS_9fKmUsZxJFDfgiDQPbFb5lDu9ATCnbMwkBWPt_XvEImxDrO8eJ4qfqFp3xNa8Ss=w1064-v0)
 
-> 50％
-> 當斷點間的寬度是可變時，圖片保持固定的高度。
+<p class="annotation">50％<br>當斷點間的寬度是可變時，圖片保持固定的高度。</p>
+
+---
 
 ## 觸控目標
 
@@ -203,4 +222,10 @@ Padding 可以在垂直和水平方向上進行測量，不需要跨越佈局的
 
 ![觸控目標](https://lh3.googleusercontent.com/zZyeNTZN0HzV8sSnlM8LA6HFDT6qtYdhOCyBzMg2t01SQZB7Vhz4ElPgWxxvHer_5l82Rz7fcq90jlzXHiTPynq8o6QAvqDNVAGYMg=w1064-v0)
 
-> 觸控目標最少為 48 x 48 dp
+<p class="annotation">觸控目標最少為 48 x 48 dp</p>
+
+---
+
+> 譯者：王郁雯
+>
+> 校稿：Joanne Chen

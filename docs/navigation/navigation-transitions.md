@@ -37,11 +37,11 @@ description: 導航過渡會在使用者於網頁畫面切換時發生，例如�
 
 <video src="https://kstatic.googleusercontent.com/files/e6e81c766478c82c3ad1964aecb635f28d7e9b10480a0621ff65d6a1b696b0434fdf7f4ec705fc7f08f8672fb800005025dc931e9042f3e1432047e8630ce8d2" width="100%" controls=""></video>
 
-> 一組父層到子層的過渡變化
+<p class="annotation">一組父層到子層的過渡變化</p>
 
 <video src="https://kstatic.googleusercontent.com/files/27a0896c56d86fabacabac2303d109ba46d0cae9903821c450983e5f6dd205e2bc2e6353d76086a40cb9eba8bd6e653a40f1500bd42653ad630ad93e2fa9aff0" width="100%" controls=""></video>
 
-> 在這個電子郵件程式中，信件預覽被提起，並且擴展到適當位置，顯示出完整的信件內容。
+<p class="annotation">在這個電子郵件程式中，信件預覽被提起，並且擴展到適當位置，顯示出完整的信件內容。</p>
 
 ---
 
@@ -49,7 +49,7 @@ description: 導航過渡會在使用者於網頁畫面切換時發生，例如�
 
 **對等過渡**發生在相同層次結構的畫面之間。
 
-**同級過渡**發生在共享父元素的對等元素，而頂層對等過渡僅用於主要目標間的切換。
+**同級過渡**發生在共享父元素的對等元素，而**頂層對等過渡**僅用於主要目標間的切換。
 
 ### 同級過渡
 
@@ -57,11 +57,11 @@ description: 導航過渡會在使用者於網頁畫面切換時發生，例如�
 
 <video src="https://kstatic.googleusercontent.com/files/cb5657e0e6b2610f8a5696cca7ec4c93e143a2035afbd1014b36bc73fce5d1c11a97165f878682d92e69ab4ccbf4ad29ac4aa014638413b68958acb326fdd111" width="100%" controls=""></video>
 
-> 頁籤指出這些元素透過處在相同的高度位置一起移動來暗示他們的關聯性。
+<p class="annotation">頁籤指出這些元素透過處在相同的高度位置一起移動來暗示他們的關聯性。</p>
 
 <video src="https://kstatic.googleusercontent.com/files/e5415f1b1ae0f6fc13a45c9b3a5da95d8fdb00ec8fab957fd85f0924ab2d299ea99bc0f3b647893727600506c386e304d8f623ddcc041ed66dc85ae6ec257361" width="100%" controls=""></video>
 
-> 這個旅遊程式使用頁籤讓使用者在不同的旅遊類別中移動。
+<p class="annotation">這個旅遊程式使用頁籤讓使用者在不同的旅遊類別中移動。</p>
 
 ---
 
@@ -71,13 +71,14 @@ description: 導航過渡會在使用者於網頁畫面切換時發生，例如�
 
 <video src="https://kstatic.googleusercontent.com/files/2d74ac1b7010c89dc42de0c3c324ae97a16090530db362475ac1f3e9645c790904854ec8a34b5763cfdf8e16a070108721e300157c4f1c82f90fe18ae9f98a6e" width="100%" controls=""></video>
 
-> 底部導覽列的目的地已原地轉換。
+<p class="annotation">底部導覽列的目的地已原地轉換。</p>
 
 <video src="https://kstatic.googleusercontent.com/files/19960869acb4a0b755ccffdd00e379e5d32586cb9dbef79942398902734f60437d654ec81fe55c58a688b8bc2e6fabae37584b4f877b5760b144d11ddd88db57" width="100%" controls=""></video>
 
-> 鑑於目的地之間的關係並不密切，因此此照片的頂層目的地會有適當的過渡。
+<p class="annotation">鑑於目的地之間的關係並不密切，因此此照片的頂層目的地會有適當的過渡。</p>
 
 ---
 
 > 譯者：Miya Jian
+>
 > 校稿：Joanne Chen

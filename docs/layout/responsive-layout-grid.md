@@ -16,9 +16,11 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ![欄、欄間距、邊距](https://lh3.googleusercontent.com/_rKc6ogXgmiQWxZQ7u3XvV_PSGUr4FmQvqBapHhuNyyWTGeQ68tWB8xZJC9FS1duQGSEPl6Q6TNK23OeWFy6qKFiLtboumotsZMQng=w1064-v0)
 
-> 1. 欄
-> 2. 欄間距
-> 3. 外間距
+<ol class="annotation">
+    <li>欄</li>
+    <li>欄間距</li>
+    <li>外間距</li>
+</ol>
 
 ### 欄（Columns）
 
@@ -28,11 +30,11 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ![欄，360 dp](https://lh3.googleusercontent.com/D6pd4WU4-5xxx08GxsMY-v-g8Di9n1vHCYdmnKw8R-4xIbPm-HSjnXXOI2hgyEn_S8uRzR9c2KNowRdQRJuyAAcoQ5xmoPhIKKh-=w1064-v0)
 
-> 在斷點 360dp 的行動裝置上，此佈局網格使用 4 欄。
+<p class="annotation">在斷點 360dp 的行動裝置上，此佈局網格使用 4 欄。</p>
 
 ![欄，600 dp](https://lh3.googleusercontent.com/82njrJBKzXerg8zX_V8GPhLEH1QkHyzCXj3f7-330MTurhxvvrEsHofEgsMuLVW2_Ts5ctJ-OSM2zSfdKN0SnL84R64T9upojLxK=w1064-v0)
 
-> 在斷點 600dp 的平板螢幕上，此佈局網格使用 8 欄。
+<p class="annotation">在斷點 600dp 的平板螢幕上，此佈局網格使用 8 欄。</p>
 
 ---
 
@@ -44,11 +46,11 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ![欄間距，360dp](https://lh3.googleusercontent.com/lDP0K31FpCQxQsctqnCE9kfoEZEHA-y0-agvkZxgVuwp0j6hXoV1VZp8CmnhK_RaFYoo1wvW93Fs-q4yWg-8eYsSKb2gLLfFeFSKGw=w1064-v0)
 
-> 在斷點 360 dp 的行動裝置中，此佈局網格使用 16dp 的欄間距。
+<p class="annotation">在斷點 360 dp 的行動裝置中，此佈局網格使用 16dp 的欄間距。</p>
 
 ![欄間距，600dp](https://lh3.googleusercontent.com/CZEGEUX6NSCLGHrlN0W3KGJ3SvG4HTgE_Z1OXgrLaxYE3Zku2MuO7mfby1m-6wrzIKD1kp25H1iXhjO4te2AbHRJf2bripFdnrkx=w1064-v0)
 
-> 在斷點為 600dp 的平板螢幕中，此佈局網格使用 24dp 的欄間距。
+<p class="annotation">在斷點為 600dp 的平板螢幕中，此佈局網格使用 24dp 的欄間距。</p>
 
 ---
 
@@ -60,11 +62,11 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ![邊距，360dp](https://lh3.googleusercontent.com/zs_TXfpOmkPDHRzVllD9ddlI4gVfLRGTV7qS4sBW0sE0Wer3RUgT6dClsKcVlRyNBY2cCDfd65OzPI7FqjsUzFvtxO8NmivYjFOOrg=w1064-v0)
 
-> 斷點為 360dp 的行動裝置中，此佈局網格使用 16dp 的邊距。
+<p class="annotation">斷點為 360dp 的行動裝置中，此佈局網格使用 16dp 的邊距。</p>
 
 ![邊距，600dp](https://lh3.googleusercontent.com/7EV1c2B2UqqkjDmRK4eNN6mTd9Yy3-ajxmVbxtS_gXzMRxuFPK2PKMWPwh6Vh1nb2ApsIYFg042BbKnvAsCM0fPDxNDnLJWvqBWl-Ic=w1064-v0)
 
-> 斷點為 600dp 的平板螢幕中，此佈局網格使用 24dp 的邊距。
+<p class="annotation">斷點為 600dp 的平板螢幕中，此佈局網格使用 24dp 的邊距。</p>
 
 ---
 
@@ -78,16 +80,18 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ![欄間距，8dp](https://lh3.googleusercontent.com/SI9km7Xdr6NTQ49Z1jndfwcfqM4L3gjGaj6QsZCSDWJURMbLQ8ISTH2f-jvQJmYQQ7q3R6QIIR43z6TYIESj7M2gf_yUs6g0gBD2=w1064-v0)
 
-> 此佈局網格使用 8dp 的欄間距。較緊密的空間可能表明圖像間彼此相關，因此被視為群組的一部分。
+<p class="annotation">此佈局網格使用 8dp 的欄間距。較緊密的空間可能表明圖像間彼此相關，因此被視為群組的一部分。</p>
 
 ![欄間距，32dp](https://lh3.googleusercontent.com/_fcvmq-Xnz2Keq8zN-GZkGfAj5fqwLyakzbkix0cbRnQ56eOgbZyy782NLxx3sAKkZZ4FQXmd2WwTtZZZHD4K0TCEB6hVOvgfQ59z8E=w1064-v0)
 
-> 此佈局網格使用較大的欄間距，32dp，使欄間有更多空白。這些額外的空間使得各相簿能作為獨立物件存在於群組中。
+<p class="annotation">此佈局網格使用較大的欄間距，32dp，使欄間有更多空白。這些額外的空間使得各相簿能作為獨立物件存在於群組中。</p>
 
-![不可行，欄間距](https://lh3.googleusercontent.com/OP2cnGTbmQn6P_xtZFogX7ZYFn2fYS54oRg8hrwZG1b2jVNABdGG-MiMCa_9UcABhjF5KlnY6d95690fTetHr_pfXBi_-fs-igrS9Q=w1064-v0)
-
-> 不可行
-不可使用過大的欄間距，例如與欄同寬。過多的留白並不會為內容保留足夠的空間，反而使頁面內容看起來不統一。
+<div class="grid-all">
+    <video src="https://lh3.googleusercontent.com/OP2cnGTbmQn6P_xtZFogX7ZYFn2fYS54oRg8hrwZG1b2jVNABdGG-MiMCa_9UcABhjF5KlnY6d95690fTetHr_pfXBi_-fs-igrS9Q=w1064-v0" width="100%" controls=""></video>
+    <div class="item-divide divide-rd"></div>
+    <div class="item-title title-rd">別這樣做</div>
+    <p>不可使用過大的欄間距，例如與欄同寬。過多的留白並不會為內容保留足夠的空間，反而使頁面內容看起來不統一。</p>
+</div>
 
 ---
 
@@ -99,16 +103,18 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ![邊距，8dp](https://lh3.googleusercontent.com/1eGo_TUok0xpivYyCRUkPovd-3go8h3qU2iuAf2rTfSEYN1B-NnwHKtKst59NKvTXxmWY-Oa-hYh4LKyY8pk3rmnyW3jjjNjlPRSzg=w1064-v0)
 
-> 此佈局網格僅使用 8dp 的邊距，因此圖片在佈局中能佔用較多空間。
+<p class="annotation">此佈局網格僅使用 8dp 的邊距，因此圖片在佈局中能佔用較多空間。</p>
 
 ![邊距，64dp](https://lh3.googleusercontent.com/9czTot8tP36Qb_08YpfM55P7LT3Mf82B-UMbxGckNYJJzRFPD9NJqon8FHr28svSRrfDgkWU0rkBrG7Lm5ba_X4rzOy4yKrF4Aql=w1064-v0)
 
-> 此佈局網格使用較大的邊距：64dp，因而限制了頁面內容的寬度。
+<p class="annotation">此佈局網格使用較大的邊距：64dp，因而限制了頁面內容的寬度。</p>
 
-![不可行，邊距](https://lh3.googleusercontent.com/X0hIPvMUPFdDTIinNo3dYHzSRqqj7pb2FxJCAO0tXAvI9IhRR9MY7xtUHCH1oPi2s_SUlsPkEBSwAGcpySkNExxiqKaoSxzMfJTuUe0=w1064-v0)
-
-> 不可行
-不可使用過大的邊距，導致頁面內容的空間不足。
+<div class="grid-all">
+    <video src="https://lh3.googleusercontent.com/X0hIPvMUPFdDTIinNo3dYHzSRqqj7pb2FxJCAO0tXAvI9IhRR9MY7xtUHCH1oPi2s_SUlsPkEBSwAGcpySkNExxiqKaoSxzMfJTuUe0=w1064-v0" width="100%" controls=""></video>
+    <div class="item-divide divide-rd"></div>
+    <div class="item-title title-rd">別這樣做</div>
+    <p>不可使用過大的邊距，導致頁面內容的空間不足。</p>
+</div>
 
 ---
 
@@ -118,8 +124,10 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ![欄間距與邊距](https://lh3.googleusercontent.com/2OaQEul6DYo_-f3IYCQmYnnoy2RewaXXZW5TBEbcFrUl_2DYN2AACzuHvQDf_xIuqENOAeWVhoBsOrBw6oXs8nsZeB0uaQcIt0XgYA=w1064-v0)
 
-> 1. 32dp margins
-> 2. 8dp gutters
+<ol class="annotation">
+    <li>32dp margins</li>
+    <li>8dp gutters</li>
+</ol>
 
 ---
 
@@ -131,16 +139,17 @@ Material Design 佈局網格由三個元素組成：欄、欄間距、邊距。
 
 ![水平網格](https://lh3.googleusercontent.com/an7CsqA8lI6R6mInXCzSXob3cL9Rmd6ENFCxntf1OLbC0bogUdiBkMG25C1XWvPv3jsNo9HauazP1wBxn2DuALhk_74nzXG2JVbj=w1064-v0)
 
-> 此水平佈局網格有 4 欄，佈局總高度是 400dp。
-> 1. 欄
-> 2. 欄間距
-> 3. 邊距
+<ol class="annotation">此水平佈局網格有 4 欄，佈局總高度是 400dp。
+    <li>欄</li>
+    <li>欄間距</li>
+    <li>邊距</li>
+</ol>
 
 為讓出介面頂部空間給應用欄（App bars）或其他使用者介面區域，水平網格的位置可順應不同高度調整。
 
 ![水平網格位置](https://lh3.googleusercontent.com/NE-ljCSL7jEQcCdWXl9WX7FcdPyroyv742poBja1NR3MKErS-Uf_UPppO_vVbl_oG0oBW8vo-PIGslKLTCmIkkSts_XE2ZjcWoqgig=w1064-v0)
 
-> 此水平佈局網格起始於頂部應用欄（Top App Bar）下方，在 316dp 內使用了 4 個水平欄。
+<p class="annotation">此水平佈局網格起始於頂部應用欄（Top App Bar）下方，在 316dp 內使用了 4 個水平欄。</p>
 
 ---
 
@@ -209,7 +218,7 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 ![流動網格](https://lh3.googleusercontent.com/89QHuMEXHqYWZmf4sUHiJA9kL5Tp5pPIjhWKke-XH4U42SATrzsYiKQTDFYwh1pbyl75qMV5ivbS1STpGZg6diZiNLRef-Vnv33hyEQ=w1064-v0)
 
-> 欄在全幅網格中擴展。
+<p class="annotation">欄在全幅網格中擴展。</p>
 
 ---
 
@@ -219,7 +228,7 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 ![恆定網格](https://lh3.googleusercontent.com/HYQsQ63mhCGNAAhAq-x2GmAsZtNrCr0PgKXNfxWpoqYBhf2XsDWW8GpXY3NWxpgDxTQXXNvZpYLRcz7L7RadqgXEIPMkpona9txjkQ=w1064-v0)
 
-> 邊距在固定網格中擴展。
+<p class="annotation">邊距在固定網格中擴展。</p>
 
 ---
 
@@ -231,7 +240,7 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 ![使用者介面區域](https://lh3.googleusercontent.com/TXdz-Np_AD31xni8mn1uT36xuwpaoH37nzwV32GrFSukXXVQDfpMAa8GAg7V5cxtsJktlPKR0rM1hvTE7pyXqZB83XWitNQkriOp7g=w1064-v0)
 
-> 不同螢幕尺寸間切換佈局。
+<p class="annotation">不同螢幕尺寸間切換佈局。</p>
 
 ### 常駐使用者介面區域
 
@@ -239,7 +248,7 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 ![常駐使用者介面區域](https://lh3.googleusercontent.com/ABpRjNf6Hvl7MtekCmimmXqnFncQxC4udsUfhD4Hu53EgU-Xe7JmrGLQYiTYYAGf-kPsA5TOxdSbu_sY0LUMV7XP5wBecta-Y4pMkw=w1064-v0)
 
-> 如螢幕空間允許，可使用常駐使用者介面區域呈現內容。
+<p class="annotation">如螢幕空間允許，可使用常駐使用者介面區域呈現內容。</p>
 
 ---
 
@@ -251,7 +260,7 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 ![永久性使用者介面區域](https://lh3.googleusercontent.com/aepyD62S5ymwEZPo_yWiDkdeQDkbXfvXyxuL0f3ldMVdrhCywcuN3_J0hlIc5dqZap8vtG05oaztns7G2wZBLVJsA0OLfRpZ4At2jw=w1064-v0)
 
-> 永久性側邊選單開啟時，壓縮了網格與其內容。
+<p class="annotation">永久性側邊選單開啟時，壓縮了網格與其內容。</p>
 
 ---
 
@@ -263,7 +272,7 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 ![暫時性使用者介面區域](https://lh3.googleusercontent.com/MM8SXq2tpuM7GlcdvR9jvdMIVaAXg1sGY-nmtv0x7iehZTKIvGVXgY-YHn5jBOSbKiyFWYmmwsQHfBUJ8bnAYGphmGPUob963wfWDg=w1064-v0)
 
-> 暫時性側邊選單開啟時，響應式網格與內容不受影響。
+<p class="annotation">暫時性側邊選單開啟時，響應式網格與內容不受影響。</p>
 
 ---
 
@@ -273,15 +282,20 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 ![線框圖1](https://lh3.googleusercontent.com/rkDO41HmaOhChpMSVpCRnUXToArTTjigeDrdrJHUVMzlEZACvlQBDcAbmbme7TMPqdkwLHINTvRyUhAvyt-P-jE1wcpVhIEh6rkdqg=w1064-v0)
 
-> 1. 行動版
-> 2. 桌機版
+<ol class="annotation">
+    <li>行動版</li>
+     <li>桌機版</li>
+</ol>
 
 ![線框圖2](https://lh3.googleusercontent.com/x1hxZpWhlYtvx1PqKuw2oEbdEreYHEGN3ZL8nxIHoa0moR-rr_w5evcohdDC9oEcfC3Epqi2_scBzUd1ifsHOvCUueG8_FIU4IyliA=w1064-v0)
 
-> 1. 行動版
-> 2. 桌機版
+<ol class="annotation">
+    <li>行動版</li>
+     <li>桌機版</li>
+</ol>
 
 ---
 
 > 譯者：任遠忠
+>
 > 校稿：Joanne Chen
