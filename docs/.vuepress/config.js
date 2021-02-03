@@ -1,5 +1,5 @@
 module.exports = {
-  title: '六角學院', // 整個網站的標題
+  title: 'Material Design - 六角學院譯', // 整個網站的標題
   description: 'Material Design', // 網站的標題
   head: [ // icon 包含 PWA
     ['meta', { content:'Material Design', itemprop:'name', name:'twitter:title', property:'og:title'}],
@@ -18,6 +18,10 @@ module.exports = {
       {
         text: '首頁',
         link: '/',
+      },
+      {
+        text: '六角學院',
+        link: 'https://www.hexschool.com/',
       },
     ],
     // 側邊導覽
