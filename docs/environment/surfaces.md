@@ -388,11 +388,11 @@ Material 的表面可以依照某些形式活動：
 
 <div class="img-grid">
     <div class="grid-item">
-         <img src="https://lh3.googleusercontent.com/WqGEB4bHD_n7uE8Pt4ZW9FlR0DDgAr9iym3NLBzkrAwMDLYHGlgLVP69cr9qYG8nFlX23RKkByfgPOcpGGxe1723k67atp4yaDs-mj4=w1064-v0" alt="">
+        <img src="https://lh3.googleusercontent.com/WqGEB4bHD_n7uE8Pt4ZW9FlR0DDgAr9iym3NLBzkrAwMDLYHGlgLVP69cr9qYG8nFlX23RKkByfgPOcpGGxe1723k67atp4yaDs-mj4=w1064-v0" alt="">
         <p>當背景內容顯示紗幕內容時，前景內容將引起更多關注。</p>
     </div>
     <div class="grid-item">
-         <img src="https://lh3.googleusercontent.com/REP3S1xGOfskFZ3sw8yXYtTfh3sHVMS_-9DAOtle1srzZZ5a-crcf8oi0deYO_FhcHpe7rSeDpF37VHDCjPg0laiE8wm2fT-gnh47g=w1064-v0" alt="">
+        <img src="https://lh3.googleusercontent.com/REP3S1xGOfskFZ3sw8yXYtTfh3sHVMS_-9DAOtle1srzZZ5a-crcf8oi0deYO_FhcHpe7rSeDpF37VHDCjPg0laiE8wm2fT-gnh47g=w1064-v0" alt="">
         <p>紗幕減輕了正面顯示的內容，並將注意力吸引到其後面的表面。</p>
     </div>
 </div>
