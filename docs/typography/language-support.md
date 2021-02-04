@@ -20,9 +20,9 @@ description: 語言的字體大小和顯示樣式是根據其字符的英語字�
 
 如果您的 UI 使用多種語言，則版型佈局應根據語言而有所不同。每種語言具有不同的平均字體長度和高度，從而影響其在 UI 中的顯示方式。
 
-![字型](https://i.imgur.com/0mIq3NG.png)
+![字型](https://lh3.googleusercontent.com/-bjjyMgS4qUzArgOhqT_PzaU8yPhrzFJOci2HvVZ0bXSc_KzPb1QR1nKeG3ypGtKQCR5iwGepl8rRDpcCcJHvu5ev7BK5F7FZTQsdg=w1064-v0)
 
-> 字型排版
+<p class="annotation">字型排版</p>
 
 ---
 
@@ -30,9 +30,9 @@ description: 語言的字體大小和顯示樣式是根據其字符的英語字�
 
  字長會因語言而異，即使使用類似字形的語言（如英語和德語）也是如此。
 
-![字長](https://i.imgur.com/ZObKQxy.png)
+![字長](https://lh3.googleusercontent.com/uOlL6-RE3gWQ8t2GOuFhvOhYMnc37NUpqANrd7CXlR_n5QVi2-pCHdedYczGV0OwowuRz7Syg9vFGS5oZJwVH8qKR9kvNf12LgKsyw=w1064-v0)
 
-> 英語通常比其他歐洲語言短。例如，德語有許多複合詞，它們較長，需要更多的行或行間距。
+<p class="annotation">英語通常比其他歐洲語言短。例如，德語有許多複合詞，它們較長，需要更多的行或行間距。</p>
 
 ---
 
@@ -40,17 +40,17 @@ description: 語言的字體大小和顯示樣式是根據其字符的英語字�
 
 某些書寫系統（如阿拉伯語和希伯來語）書寫方式是從右至左。 在相同的字體大小下，這些字體可能看起來比拉丁字體小，因此需要調整行距和對齊方式，以使字體能在 UI 中能跟其他語言能搭配。
 
-![對齊](https://i.imgur.com/6ieUdP3.png)
+![對齊](https://lh3.googleusercontent.com/iqXWflOao50waPm_UruSYImQtmjSehrg6-R7jLrGoCYe2BBSo6i4kPm7zlv4YKKDwC77QlIX4sHrlk9btbZ7ZzVB1u5-jos1l3-zxgA=w1064-v0)
 
-> 希伯來語對齊方式是從右至左
+<p class="annotation">希伯來語對齊方式是從右至左</p>
 
 ### 高度
 
 許多書寫系統比英語需要更多的垂直空間，因此您的 UI 應該為這些不同的系統提供足夠的垂直空間。
 
-![字高](https://i.imgur.com/eRZnYvA.png)
+![字高](https://lh3.googleusercontent.com/eRJixkMOyODb1OUkz7CIXo093QUWnLpBf8D3sXOQj-vaeqcBVOLQ2Iza3iPM7JDyuz0f3UBv7QCIv-P0fGBst8zR7YKAD3Wj5K5n7g=w1064-v0)
 
-> 越南語是用拉丁語書寫的，但其口音會增加某些字母的高度，例如ớ。
+<p class="annotation">越南語是用拉丁語書寫的，但其口音會增加某些字母的高度，例如ớ。</p>
 
 ### 垂直排版
 
@@ -58,9 +58,9 @@ description: 語言的字體大小和顯示樣式是根據其字符的英語字�
 
 中國、日本和韓國的版式通常是等距字型，這意味著每個字母所佔的空間與其他字母所佔的空間相同。 它通常設置為從左到右，從上到下。 也可以垂直設置：從上到下和從右到左。
 
-![垂直排版](https://i.imgur.com/lRYa0Jd.png)
+![垂直排版](https://lh3.googleusercontent.com/fAyrqSlZjbWw2HYC7uoZUzW2a1xkRgqf7K0ZU7gHKTlYzFzkMZkNjwsoEsrrK2aknQo2_J3iIkkEJD-TS_LwmYcizogoVEJ0JYGuGA=w1064-v0)
 
-> 水平排版和垂直排版
+<p class="annotation">水平排版和垂直排版</p>
 
 ---
 
@@ -70,9 +70,9 @@ description: 語言的字體大小和顯示樣式是根據其字符的英語字�
 
 書寫系統可以分為三類：
 
-* 英文字體
-* 高字體
-* 粗字體
+- 英文字體
+- 高字體
+- 粗字體
 
 ### 英文字體
 
@@ -92,7 +92,7 @@ description: 語言的字體大小和顯示樣式是根據其字符的英語字�
 
 Noto 是所有 Roboto 字型未包含的語言的預設字型。源自於 Droid，它的設計主旨是在高度和筆觸粗細兼容的情況下，實現語言和字體視覺上的和諧。
 
-在版本6.0中，該字型家族已定義93種字體。
+在版本 6.0 中，該字型家族已定義93種字體。
 
 ### 粗體字體注意事項
 
@@ -100,14 +100,14 @@ Noto 中文、日文和韓文（CJK中，日韓統一表意文字）有七種字
 
 小於標題樣式的字體應調整拉丁字體的比例。
 
-![中文和日文](https://i.imgur.com/EpOChE6.png)
+![中文和日文](https://lh3.googleusercontent.com/pVIYjxOncKBIh_vYAej52QNWKXC9FnOwJN13FRJjp-iFPlKpae2LUyPGeT679lWw8reuOVVzosU4OyuBujRtzta9dzTjcXY-4XmY=w1064-v0)
 
-> 中文和日文
+<p class="annotation">中文和日文</p>
 
 行高略大於拉丁字符。
-![中文和日文的行高對比](https://i.imgur.com/utIOlyB.png)
+![中文和日文的行高對比](https://lh3.googleusercontent.com/z2wUG0PY2QI-7Dqoa70UudeT-pX5l2B4TlpiB_NfCPxwnrEC10v7u7JcVV75cpNlQRDiz5r7065JZSPqDUXC0PmwhjaICziKiJhykQ=w1064-v0)
 
-> 中文和日文的行高對比
+<p class="annotation">中文和日文的行高對比</p>
 
 ### 高字體注意事項
 
@@ -117,13 +117,13 @@ Noto 支援南亞，東南亞和中東語言（包括阿拉伯語，北印度語
 
 ![泰文和梵文](https://i.imgur.com/tEvMtBB.png)
 
-> 泰文和梵文
+<p class="annotation">泰文和梵文</p>
 
 高字體的行高略大於拉丁字符。
 
-![泰文和梵文的行高對比](https://i.imgur.com/VRFp4B3.png)
+![泰文和梵文的行高對比](https://lh3.googleusercontent.com/E90qjqt_nCzfIDqjn9ZU-nee2iKgBJ8QtjizsgMTtjBSWjT0TF2dL83RuijR9D4RwXVdacH9XRXNz99Gj5kfUotZ_64N5OtZeKOCMw=w1064-v0)
 
-泰文和梵文的行高對比
+<p class="annotation">泰文和梵文的行高對比</p>
 
 ---
 
@@ -219,5 +219,8 @@ Noto 支援南亞，東南亞和中東語言（包括阿拉伯語，北印度語
 |zh-Hant|中文 (繁體)|粗字體|
 |zu|祖魯語|英語字體|
 
+---
+
 > 譯者：何羅賓
+>
 > 校稿：Joanne Chen

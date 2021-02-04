@@ -23,9 +23,21 @@ module.exports = {
         text: '六角學院',
         link: 'https://www.hexschool.com/',
       },
+      {
+        text: 'Material Design',
+        link: 'https://material.io/design',
+      },
     ],
     // 側邊導覽
     sidebar: [
+      {
+        title: '基礎概述',
+        path: '/foundation-overview/', 
+        collapsable: true,
+        children: [
+          ['/foundation-overview/foundation-overview', '基礎概述'],
+        ]
+      },
       {
         title: '環境',
         path: '/environment/', 
