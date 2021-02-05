@@ -9,12 +9,6 @@ description: 幫助內容提供了使用者問題和問題的答案。
 
 幫助內容提供了使用者問題和問題的答案。
 
-內容
-
-> 使用與位置
-> 圖標
-> 寫作
-
 ## 使用與位置
 
 ### 使用幫助內容
@@ -41,46 +35,29 @@ description: 幫助內容提供了使用者問題和問題的答案。
 
 ### 側邊選單
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-「幫助」應該是在側邊選單的最後一個項目，且「提供回饋」會在它的上方。
-
-當「登入」出現在側邊選單時，它應該是選單中的最後一個項目。
-
+<div class="img-grid">
+    <div class="grid-item">
+        <br>
+        <p>「幫助」應該是在側邊選單的最後一個項目，且「提供回饋」會在它的上方。</p>
+        <p>當「登入」出現在側邊選單時，它應該是選單中的最後一個項目。</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/Bj4p8tAJj9W-jkuNcCTkESA3_r2-9-tH-ACBp0HVYw8shtvjAAQzvNVbaBdaVQTwmgIxpfvAPZWWLI5oYlHR1wcHvAtZbuTcrEPmgg=w1064-v0" alt="">
+        <p>含有「幫助」和「提供回饋」的側邊選單</p>
+    </div>
 </div>
 
-<div style="width:100%">
-
-![含有幫助和提供回饋的側邊選單](https://lh3.googleusercontent.com/Bj4p8tAJj9W-jkuNcCTkESA3_r2-9-tH-ACBp0HVYw8shtvjAAQzvNVbaBdaVQTwmgIxpfvAPZWWLI5oYlHR1wcHvAtZbuTcrEPmgg=w1064-v0)
-
-> 含有「幫助」和「提供回饋」的側邊選單
-
-</div>
-
-</div>
-
-#### Overflow menu
-
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-沒有側邊選單時，應該在 overflow menu 中放置「幫助」和「回饋」（或「提供回饋」）項目。
-
-</div>
-
-<div style="width:100%">
-
-![含有幫助和發送回饋的 overflow menu](https://lh3.googleusercontent.com/48zfESSdjuNTjFkbAMln1XUXWDxB5whBfwkvckzUtcJSmS1mEY38TZI6caQYRaZC5IGbW4EWHIASYvt784jOkEsVRZRxPYKLtzt8EZw=w1064-v0)
-
-<figcaption style="border-top:15px solid #4caf50">
-<div style="color: #4caf50">建議</div>
-顯示「幫助」和「發送回饋」的 overflow menu</figcaption>
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item">
+        <h4>Overflow menu</h4>
+        <p>「沒有側邊選單時，應該在 overflow menu 中放置「幫助」和「回饋」（或「提供回饋」）項目。</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/48zfESSdjuNTjFkbAMln1XUXWDxB5whBfwkvckzUtcJSmS1mEY38TZI6caQYRaZC5IGbW4EWHIASYvt784jOkEsVRZRxPYKLtzt8EZw=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>顯示「幫助」和「發送回饋」的 overflow menu</p>
+    </div>
 </div>
 
 ---
@@ -90,28 +67,23 @@ description: 幫助內容提供了使用者問題和問題的答案。
 要為付款和退款等緊急問題提供幫助，請在 app bar 裡放置一個幫助圖標。電腦版也可以在 app bar 裡放置一個幫助圖標，因為電腦版可呈現 UI 的空間更大。
 
 ![幫助圖標](https://lh3.googleusercontent.com/1cc46ZzLW3DTKGTfOOsRPiORm156qL4BvBEuvC_mlPqrnsrPy4smzsnIiYaOOgyNml3YQWVM-5WcSBCfoEZq6nnavoix_fpnwhUE=w1064-v0)
-> 在 App bar 裡加強幫助圖標的呈現
+
+<p class="annotation">在 App bar 裡加強幫助圖標的呈現</p>
 
 ---
 
 ### 幫助畫面
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-幫助畫面可以包含一個「提供回饋」的按鈕，讓用戶報告問題或發送評論。
-較少被瀏覽的內容（如「關於」、「隱私」和「服務條款」，可以放在 overflow menu 裡
-
-</div>
-
-<div style="width:100%">
-
-![幫助畫面](https://lh3.googleusercontent.com/tZZseu3fwNDwB_Ypcv9NbLnXI0d1Vjr1wgZDT_qNPR78Y1f0gy9nKINKleM7Bt_MfUul5S19HkKYILlP_AMEqjKFPbiejvhasg-W2Q=w1064-v0)
->包含常見問題和解答的幫助畫面以及提供回饋的按鈕
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item">
+        <br>
+        <p>幫助畫面可以包含一個「提供回饋」的按鈕，讓用戶報告問題或發送評論。</p>
+        <p>較少被瀏覽的內容（如「關於」、「隱私」和「服務條款」，可以放在 overflow menu 裡</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/tZZseu3fwNDwB_Ypcv9NbLnXI0d1Vjr1wgZDT_qNPR78Y1f0gy9nKINKleM7Bt_MfUul5S19HkKYILlP_AMEqjKFPbiejvhasg-W2Q=w1064-v0" alt="">
+        <p>包含常見問題和解答的幫助畫面以及提供回饋的按鈕</p>
+    </div>
 </div>
 
 ---
@@ -120,59 +92,42 @@ description: 幫助內容提供了使用者問題和問題的答案。
 
 ### 幫助
 
-<div style="width:100%;display:flex">
+<br>
 
-<div style="width:100%;margin-right:20px">
-
-![幫助圖標](https://lh3.googleusercontent.com/Kcz7wHMmkkCdc3_tY0wdGRTpzocF-u2td2PBNIH27B1UVXbFk4WFijVimBfgWhXaYJh38Eua9mkqtkPY5t3tH4WAbFez17p-m9_M=w1064-v0)
-<figcaption style="border-top:15px solid #4caf50">
-<div style="color: #4caf50">建議</div>
-要顯示幫助內容，請使用 <a href="https://material.io/icons/#ic_help" target="_blank">幫助圖標</a>。
-
-</figcaption>
-
-</div>
-
-<div style="width:100%">
-
-![變體圖標](https://lh3.googleusercontent.com/fIXv755u_BHXpa4G3MdQS5Oj6nnZJqEHAWJNgaXkQ7s8clRCk4-4mBKZ0mfpd_pQMletf0Q10qRo2_GH5NGvvf1dJzJ8a0r0vgCViQ=w1064-v0)
-<figcaption style="border-top:15px solid #d32f2f;">
-<div style="color: #d32f2f">不建議</div>
-不要使用變體的圖標，如帶有語音氣泡或輪廓的圖標。
-</figcaption>
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/Kcz7wHMmkkCdc3_tY0wdGRTpzocF-u2td2PBNIH27B1UVXbFk4WFijVimBfgWhXaYJh38Eua9mkqtkPY5t3tH4WAbFez17p-m9_M=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>要顯示幫助內容，請使用 <a href="https://material.io/icons/#ic_help" target="_blank">幫助圖標</a>。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/fIXv755u_BHXpa4G3MdQS5Oj6nnZJqEHAWJNgaXkQ7s8clRCk4-4mBKZ0mfpd_pQMletf0Q10qRo2_GH5NGvvf1dJzJ8a0r0vgCViQ=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>不要使用變體的圖標，如帶有語音氣泡或輪廓的圖標。</p>
+    </div>
 </div>
 
 ---
 
 ### 提供回饋
 
-<div style="width:100%;display:flex">
+<br>
 
-<div style="width:100%;margin-right:20px">
-
-![回饋圖標](https://lh3.googleusercontent.com/FLrW8LFh5cIrIaaM3amibAHbIwcdquTpXjRCh853HyUHvziERKs7vLPcMfUtZ3IDp2EhzbGnBGWLauZVHWGuoVFZjFaQb-N05z6ODg=w1064-v0)
-
-<figcaption style="border-top:15px solid #4caf50">
-<div style="color: #4caf50">建議</div>
-要表示使用者可以「提供回饋」，請使用 Material Design 的
-<a href="https://material.io/icons/#ic_feedback" target="_blank">回饋圖標</a>。</figcaption>
-
-</div>
-
-<div style="width:100%">
-
-![圖標變體](https://lh3.googleusercontent.com/CkisU1REpRrXMAZWfdltCw-vj3gv_AzdK5NVcKg-1DMXMUTeePqo__nNyS63cg4zuf9UwGyECabwsvOgGZ8dK69TwgBUSZ2HUkVgWNo=w1064-v0)
-
-<figcaption style="border-top:15px solid #d32f2f;">
-<div style="color: #d32f2f">不建議</div>
-請勿使用圖標變體，例如聊天或錯誤圖標。
-</figcaption>
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/FLrW8LFh5cIrIaaM3amibAHbIwcdquTpXjRCh853HyUHvziERKs7vLPcMfUtZ3IDp2EhzbGnBGWLauZVHWGuoVFZjFaQb-N05z6ODg=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>要表示使用者可以「提供回饋」，請使用 Material Design 的 <a href="https://material.io/icons/#ic_feedback" target="_blank">回饋圖標</a>。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/CkisU1REpRrXMAZWfdltCw-vj3gv_AzdK5NVcKg-1DMXMUTeePqo__nNyS63cg4zuf9UwGyECabwsvOgGZ8dK69TwgBUSZ2HUkVgWNo=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>請勿使用圖標變體，例如聊天或錯誤圖標。</p>
+    </div>
 </div>
 
 ---
@@ -181,43 +136,34 @@ description: 幫助內容提供了使用者問題和問題的答案。
 
 當一個簡短的描述可以幫助提供上下文時，你可以顯示幫助提示。幫助圖標在懸停、點擊或點擊時提供幫助說明。
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-![幫助圖標](https://lh3.googleusercontent.com/noPfVf5y_grxLO2NOLbMNhCs9eqP3-JIDIcWZmGGpwMen811zsp47XffqYiMumZ6rl_o7a5ZLFvCH41EM1aMCmDrEj-ISQgAn20mLg=w1064-v0)
-
-<figcaption style="border-top:15px solid #4caf50">
-<div style="color: #4caf50">建議</div>
-要表示「幫助」提示是可用的，請使用 Material Design 的<a href="https://material.io/icons/#ic_help_outline" target="_blank">幫助圖標</a>。</figcaption>
-
-</div>
-
-<div style="width:100%">
-
-![圖標變體](https://lh3.googleusercontent.com/QdYKPfExVQD0Gz1YNM2Zyz3_3J1LQCEBJZiMp21nC6R8cUmtjLW6ZO9NQk6DQ7uaMrWQWlqiNphlyVtJcm8k6jMOl5z7XoUD4RA8xvE=w1064-v0)
-
-<figcaption style="border-top:15px solid #d32f2f;">
-<div style="color: #d32f2f">不建議</div>
-請勿使用圖標變體，例如帶有氣泡或輪廓的圖標。
-</figcaption>
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/noPfVf5y_grxLO2NOLbMNhCs9eqP3-JIDIcWZmGGpwMen811zsp47XffqYiMumZ6rl_o7a5ZLFvCH41EM1aMCmDrEj-ISQgAn20mLg=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>要表示「幫助」提示是可用的，請使用 Material Design 的 <a href="https://material.io/icons/#ic_help_outline" target="_blank">幫助圖標</a>。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/QdYKPfExVQD0Gz1YNM2Zyz3_3J1LQCEBJZiMp21nC6R8cUmtjLW6ZO9NQk6DQ7uaMrWQWlqiNphlyVtJcm8k6jMOl5z7XoUD4RA8xvE=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>請勿使用圖標變體，例如帶有氣泡或輪廓的圖標。</p>
+    </div>
 </div>
 
 ---
 
 ## Writing 寫作
 
-易於閱讀
+### 易於閱讀
 
 透過粗體標題、列表、表格和段落之間的空格，來格式化文字，使內容清晰易讀。
 
 引用使用者需要選擇的元素（例如按鈕或超連結）時，可以在引用它們時加粗其名稱。
 
 ![標題](https://lh3.googleusercontent.com/eTzcn0sLNdDxjMtqgP-OhnyYJHeeaIpfEopoMwc8bwnUSxSyOK-nCpMqV-oNwwZmJ97EJWp6Psz1cKRIfIklLQlCVUY5nBfplQ3-MQ=w1064-v0)
-標題有助於組織文章內容。它們協助讀者掃描頁面，快速找到需要的資訊。
+
+<p class="annotation">標題有助於組織文章內容。它們協助讀者掃描頁面，快速找到需要的資訊。</p>
 
 #### 提供關鍵訊息
 
@@ -231,5 +177,8 @@ description: 幫助內容提供了使用者問題和問題的答案。
 
 當提供步驟說明時，請顯示相關圖像或圖標以說明使用者需要做什麼。
 
+---
+
 > 譯者：W.H. Lin(Asher)
+>
 > 校稿：CH.Yu
