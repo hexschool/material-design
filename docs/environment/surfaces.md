@@ -36,7 +36,7 @@ Material 的 x 和 y 尺寸（以 dp 為單位）變化，有均勻的厚度（1
 
 <div class="img-grid">
     <div class="grid-item">
-         <img src="https://gblobscdn.gitbook.com/assets%2F-MLCYr9ilZP2Zl74Yozc%2F-MLS0RqC3vYT3BQj_myD%2F-MLgDEEEeQMDL7Kf0hoo%2F4.png?alt=media&token=b5f2f870-5213-4c0b-ae2a-40959caf3857" alt="">
+        <img src="https://gblobscdn.gitbook.com/assets%2F-MLCYr9ilZP2Zl74Yozc%2F-MLS0RqC3vYT3BQj_myD%2F-MLgDEEEeQMDL7Kf0hoo%2F4.png?alt=media&token=b5f2f870-5213-4c0b-ae2a-40959caf3857" alt="">
         <div class="item-divide divide-gn"></div>
         <div class="item-title title-gn">該這樣做</div>
         <p>高度和寬度可以變化。</p>
