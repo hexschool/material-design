@@ -19,10 +19,14 @@ Material Theming 是指對 Material Design 應用程式進行客製化，以更�
 Material Theming 為對 Material Design 進行系統性客製化，以更佳反應出產品品牌之能力。
 改動使用者介面（像是色彩與字型）時，Material Theming 工具會應用您的設計觀點並貫穿整個使用者體驗。這些工具提供可客製化的屬性值以易於設計與程式之間的工作流程切換。客製化這些屬性值可為您的產品創建出其 Material Theme。
 
+---
+
 ### 使用 Material Theming
 
 Material Theming 由三個主要操作組成：客製化您的主題、將其應用至您的設計模型、以程式實踐。
 Material Design 提供一個可原樣套用的內建基線主題，您可以依據喜好進行客製化，以讓 Material 應用至您的產品。
+
+---
 
 ## 使用 Material Theming
 
@@ -41,11 +45,17 @@ Material Theming 會影響整體使用者介面，包括個別元件（像是按
 您可以藉由調整實心按鈕預設的色彩、字型與形狀，以符合您的應用程式風格。
 
 左圖為預設樣式的實心按鈕。右圖為調整過預設值之全客製化按鈕。
-![基線 Material button](https://lh3.googleusercontent.com/YmlQESIV4AHbo2NXNlaUOiu0fxgtCvWCPgESZBLuVUeDDZUHz2vBxhvxyfCcMSiuL_12nGTNiO557jwLWqq15w_Duj5xef8_25RHtw=w1064-v0)
-基線 Material button
 
-![相同但經客製化的 Material button](https://lh3.googleusercontent.com/ea6oS5IifBZQHXzh0BCKo4J-0PRbms5za3YPu6sshF4VYvHJgbU52skHL8oUSuRbwY4_OAkRZ-s9dQhtiPeBszw_RJAZeuHgkwYTnSU=w1064-v0)
-相同但經客製化的 Material button
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/YmlQESIV4AHbo2NXNlaUOiu0fxgtCvWCPgESZBLuVUeDDZUHz2vBxhvxyfCcMSiuL_12nGTNiO557jwLWqq15w_Duj5xef8_25RHtw=w1064-v0" alt="">
+        <p>基線 Material button</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/ea6oS5IifBZQHXzh0BCKo4J-0PRbms5za3YPu6sshF4VYvHJgbU52skHL8oUSuRbwY4_OAkRZ-s9dQhtiPeBszw_RJAZeuHgkwYTnSU=w1064-v0" alt="">
+        <p>相同但經客製化的 Material button</p>
+    </div>
+</div>
 
 #### 預設值與客製化值
 
@@ -85,13 +95,8 @@ Material Theming 會影響整體使用者介面，包括個別元件（像是按
 
 粗體表示自預設值修改後的客製化值。
 
-[將顏色應用到 UI](https://hackmd.io/@8woaIZfRTNCpizQDzc-Cug/SJax1M-qD/https%3A%2F%2Fhackmd.io%2Fi7n6DNL6RguddY0RqHpwlg?fbclid=IwAR3yYvqjf64tL50FBIf6FAxEBbbbxFYkWmvfYmjRtpxbY3Vpj51b67rExTM)
-[了解排版](https://hackmd.io/@8woaIZfRTNCpizQDzc-Cug/SJax1M-qD/https%3A%2F%2Fhackmd.io%2FTlSoxk64Sqa9gVLEtevE0Q?fbclid=IwAR3yYvqjf64tL50FBIf6FAxEBbbbxFYkWmvfYmjRtpxbY3Vpj51b67rExTM)
-[按鈕](https://material.io/components/buttons)
-[系統圖標](https://hackmd.io/@8woaIZfRTNCpizQDzc-Cug/SJax1M-qD/https%3A%2F%2Fhackmd.io%2Fz5l_fMKpQaGx-UlM3wdQRQ?fbclid=IwAR3yYvqjf64tL50FBIf6FAxEBbbbxFYkWmvfYmjRtpxbY3Vpj51b67rExTM)
-[以形狀表達](https://hackmd.io/@8woaIZfRTNCpizQDzc-Cug/SJax1M-qD/https%3A%2F%2Fhackmd.io%2F9IvipY6fQmmuNCrcnmnqUg?fbclid=IwAR3yYvqjf64tL50FBIf6FAxEBbbbxFYkWmvfYmjRtpxbY3Vpj51b67rExTM)
-
 ---
 
 > 譯者：Roy Wang
+>
 > 校稿：CH.Yu
