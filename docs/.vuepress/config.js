@@ -13,6 +13,12 @@ module.exports = {
   themeConfig: {
     sidebarDepth: 2, // 側邊欄顯示到 H3
     smoothScroll: true,
+    repo: 'https://github.com/hexschool/material-design',
+    repoLabel: '查看專案',
+    docsBranch: 'master',
+    docsDir: 'docs',
+    editLinks: true,
+    editLinkText: '幫助我們改善該頁面！',
     // 上方導覽
     nav: [
       {
