@@ -328,7 +328,6 @@ Material Shape System 能讓您系統化地將特殊形狀應用在不同的元�
 
 改變形狀的樣式可能影響元件的內容。舉例來說，在相同尺寸下，大切角的卡片比起圓角會更靠近內容區域，可能會影響佈局或剪裁圖片。為避免不可預期的結果，請將形狀家族與尺寸之選擇連同元件布局與內容一同考量。
 
-
 <div class="grid-all">
     <video src="https://lh3.googleusercontent.com/BtQSnfb2GXBYRXno-_q3qqe4phVnKZCPeMhzmb6uuyemuB3yyRUCRY_OVrfM2dNPkRdxyANuvOcoCF-iOekQ63r-ba1Lp4l_CbIQ50M=w1064-v0" width="100%" controls=""></video>
     <div class="item-divide divide-og"></div>

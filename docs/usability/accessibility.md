@@ -118,7 +118,7 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 > Do
 > HTML 通過左上（步驟 1）到右上（步驟 2）到右上（步驟 3），左下（步驟 4）到右下（）讀取內容來反映視覺層次。
 
-```
+```html
 <section class="container">
    <img class="step-1" />
    <img class="step-2" />
@@ -134,7 +134,7 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 >警告
 >雖然某些使用者可能會依照螢幕的視覺順序從左上角（步驟 1）到右上角（步驟 2），左下角（步驟 3）到右下角（步驟 4）來查看圖片，但預設狀態下，螢幕閱讀器會依照 HTML 從上至下的順序，對內容進行口頭表達（步驟 1、步驟 3、步驟 2、步驟 4）。
 
-```
+```html
 <section class="container">
   <div class="col-left">
     <img class="step-1" />

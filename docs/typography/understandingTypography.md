@@ -253,7 +253,7 @@ X 字高（x-height）指的是在字體中，小寫字母 x 的高度。X 字�
 
 <p class="annotation">對於英文正文來說，理想的行寬是每行 40 到 60 個字元。</p>
 
-![英文短句理想的行寬是每行 20 到 40 個字元](https://lh3.googleusercontent.com/hI8BRTwICe9A5UFV3E4bcA5VsDkY8mNRjf1S9tBw6F8sNjIuzrDYfuRE3YsdaX0ORltSY1fJ9FAClHaotbk5MJX0sPnDud0JH_xF=w1064-v0
+![英文短句理想的行寬是每行 20 到 40 個字元](https://lh3.googleusercontent.com/hI8BRTwICe9A5UFV3E4bcA5VsDkY8mNRjf1S9tBw6F8sNjIuzrDYfuRE3YsdaX0ORltSY1fJ9FAClHaotbk5MJX0sPnDud0JH_xF=w1064-v0)
 
 <p class="annotation">英文短句理想的行寬是每行 20 到 40 個字元</p>
 
