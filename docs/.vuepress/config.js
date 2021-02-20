@@ -9,7 +9,6 @@ module.exports = {
     ['meta', { content:'Material Design', property:'og:site_name'}],
     ['meta', { content:'article', property:'og:type'}]
   ],
-  base: '/material-design/',
   // serviceWorker: true, // 開啟 PWA
   themeConfig: {
     sidebarDepth: 2, // 側邊欄顯示到 H3
