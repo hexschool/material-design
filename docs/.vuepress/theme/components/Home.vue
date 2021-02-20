@@ -44,8 +44,14 @@
         :key="index"
         class="feature"
       >
-        <h2>{{ feature.title }}</h2>
+        <template v-if="feature.link">
+          <a :href="feature.link"  target="_blank">
+            <h2 class="home--link">{{ feature.title }}</h2>
+          </a>
+        </template>
+        <h2 v-else>{{ feature.title }}</h2>
         <p>{{ feature.details }}</p>
+        
       </div>
     </div>
 
