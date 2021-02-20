@@ -79,7 +79,7 @@ module.exports = {
           ['/color/the-color-system', '色彩系統'],
           ['/color/applying-color-to-ui', '將顏色應用到 UI'],
           ['/color/color-usage', '顏色使用'],
-          ['/color/text-legibility', '色彩易讀性'],
+          ['/color/text-legibility', '文字易讀性'],
           ['/color/dark-theme', '深色主題'],
         ]
       },

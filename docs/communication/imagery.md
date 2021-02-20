@@ -18,38 +18,22 @@ description: 圖像透過視覺傳達和區分產品。
 
 圖像既可以增強使用者體驗，又可以表達品牌的視覺語言。圖片有助於講述一個故事，闡述難以用文字表達的複雜訊息，並向使用者展示如何進行操作。
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-![提供資訊的](https://lh3.googleusercontent.com/Eow-3iDCmdk2QiSz9K02C3EuousiKG2OK9eEDrwoSkGPivLVwC1H1Yhjp9ZU5mJXLneWOi-xceqZbOjPdYsX7fZo4JuLu_TtGKfcUQ=w1064-v0)
-
-### 提供資訊的
-
-圖像有助於理解以及傳達明確的訊息。
-
-</div>
-
-<div style="width:100%;margin-right:20px">
-
-![愉悅感](https://i.imgur.com/hW8Evjx.png)
-
-### 愉悅感
-
-圖像描述情境的方式，可以增加使用者愉悅感。
-
-</div>
-
-<div style="width:100%;margin-right:20px">
-
-![有意的](https://i.imgur.com/t0P8WYB.png)
-
-### 有意的
-
-有意的使用圖像，才能創造一個清晰的故事。
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item-triple">
+        <img src="https://lh3.googleusercontent.com/Eow-3iDCmdk2QiSz9K02C3EuousiKG2OK9eEDrwoSkGPivLVwC1H1Yhjp9ZU5mJXLneWOi-xceqZbOjPdYsX7fZo4JuLu_TtGKfcUQ=w1064-v0" alt="">
+        <h4>提供資訊的</h4>
+        <p>圖像有助於理解以及傳達明確的訊息。</p>
+    </div>
+    <div class="grid-item-triple">
+        <img src="https://lh3.googleusercontent.com/87Adt2XjzJZpjkUG3ElodMs2UvEEulCE6kpW4WPvFq-Ogy4bFARpsQ1RKrv4iQMPw5BPMZ4uz1CPop0bEwbWl3myPNfrxo2WVlHXmg=w1064-v0" alt="">
+        <h4>愉悅感</h4>
+        <p>圖像描述情境的方式，可以增加使用者愉悅感。</p>
+    </div>
+    <div class="grid-item-triple">
+        <img src="https://lh3.googleusercontent.com/xpLPR6O2VQEiUAxkjsa-pMd6HFls1BxKg-hfPYlBGB7GIJ9KPHEOGNsSiQq21-BKKFLr5Z9eH1E-JMMDhpfErozGIKXuLhnFi3fn0xY=w1064-v0" alt="">
+        <h4>有意的</h4>
+        <p>有意的使用圖像，才能創造一個清晰的故事。</p>
+    </div>
 </div>
 
 ---
@@ -62,24 +46,15 @@ description: 圖像透過視覺傳達和區分產品。
 
 插圖和照片可以包含在同一個產品當中。
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-![插圖](https://lh3.googleusercontent.com/DFeP19xV6Dp78VcnjpE0TRVl2AtWyo6no0bY8CKh1rJkxFrRVkbcw1gRFCm_JSpwwp2wQUu_Hx0gyqNq3i9nZ6t34o2n_mtYTcb2=w1064-v0)
-
-> 插圖有助於描述抽象概念。
-
-</div>
-
-<div style="width:100%">
-
-![照片](https://lh3.googleusercontent.com/vryWz1rPU3krXMb6VPxNd8xwZk4BzpZHhDbLUUs2Py_51cMZWl2Wt4umBT9lRXHhUXtMn4ku3kma7aCOGc1ins7J30O4H0mUFCnZB5Q=w1064-v0)
-
-> 照片可以更好表現特定的概念。
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/DFeP19xV6Dp78VcnjpE0TRVl2AtWyo6no0bY8CKh1rJkxFrRVkbcw1gRFCm_JSpwwp2wQUu_Hx0gyqNq3i9nZ6t34o2n_mtYTcb2=w1064-v0" alt="">
+        <p>插圖有助於描述抽象概念。</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/vryWz1rPU3krXMb6VPxNd8xwZk4BzpZHhDbLUUs2Py_51cMZWl2Wt4umBT9lRXHhUXtMn4ku3kma7aCOGc1ins7J30O4H0mUFCnZB5Q=w1064-v0" alt="">
+        <p>照片可以更好表現特定的概念。</p>
+    </div>
 </div>
 
 ---
@@ -90,30 +65,19 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![不同比例的裁剪圖像](https://lh3.googleusercontent.com/5mgnMPr-t0xWG_Yhszji1Bem5kNbOOEEYELS9_XDLxgWSIBqj2fa_FU-Kci0Q0bXEjNP1TBQb8C0csVsB1O_RvlKN6sxqgTAeKHh=w1064-v0)
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-![建議的裁剪](https://lh3.googleusercontent.com/YK0gXBlQqTctdwo49kFtPu4yy5e_k_5eI-L_NGgNeeK9IHAJYT3QS7OOi8T-s1gKSiUzGcf1ezi2zm4yWIov2VuftqY6luBOIcZF0A=w1064-v0)
-
-<figcaption style="border-top:15px solid #4caf50">
-<div style="color: #4caf50">建議</div>
-在裁剪圖片時，要有明確的視覺焦點。
-</figcaption>
-
-</div>
-
-<div style="width:100%">
-
-![不建議的裁剪](https://lh3.googleusercontent.com/icfuDY_ixAauaYC24vIMzPYkgE1q3Pubyy11KpeBwZXJvJTrOP6NOzUHKnC8MROGeHEmxkN6J-sV92nS0wdOR4ds-rrrj_Sz24ES=w1064-v0)
-
-<figcaption style="border-top:15px solid #d32f2f;">
-<div style="color: #d32f2f">不建議</div>
-請勿以沒有視覺焦點的方式裁剪圖片。
-</figcaption>
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/YK0gXBlQqTctdwo49kFtPu4yy5e_k_5eI-L_NGgNeeK9IHAJYT3QS7OOi8T-s1gKSiUzGcf1ezi2zm4yWIov2VuftqY6luBOIcZF0A=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>在裁剪圖片時，要有明確的視覺焦點。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/icfuDY_ixAauaYC24vIMzPYkgE1q3Pubyy11KpeBwZXJvJTrOP6NOzUHKnC8MROGeHEmxkN6J-sV92nS0wdOR4ds-rrrj_Sz24ES=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>請勿以沒有視覺焦點的方式裁剪圖片。</p>
+    </div>
 </div>
 
 ---
@@ -124,49 +88,36 @@ description: 圖像透過視覺傳達和區分產品。
 
 針對特定比例和設備測試適當的解析度大小，以確保圖片不會出現像素化現象。
 
-<div style="width:100%;display:flex;">
-
-<div style="width:100%;margin-right:20px;">
-
-![沒有失真的圖片](https://lh3.googleusercontent.com/LL2KgSHuWGc--7bmKzqWOmm3zD974DoOxoNkeaJCS3BokXMify042COF-we9bB3Vr2IrbSkycLLl0OnuzYGvfsbqmxAaiT2fcJwJaPk=w1064-v0)
-<figcaption style="border-top:15px solid #4caf50;">
-<div style="color: #4caf50">建議</div>
-在不影響品質的前提下，以盡可能小的檔案大小匯出圖片。
-</figcaption>
-
-</div>
-
-<div style="width:100%">
-
-![失真的圖片](https://lh3.googleusercontent.com/dayNQybe6wxrwX_fQL3o7nIGXFct6R8mzd5c3ZtWgrxHji2U_xy2AXFbrO4gHwbFD63iOZWvGXJXdezhFpKuEaTna8s4C5YYoRfC=w1064-v0)
-<figcaption style="border-top:15px solid #d32f2f;">
-<div style="color: #d32f2f">不建議</div>
-避免使用過小尺寸的檔案，這可能導致圖片像素化。
-</figcaption>
-</div>
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/LL2KgSHuWGc--7bmKzqWOmm3zD974DoOxoNkeaJCS3BokXMify042COF-we9bB3Vr2IrbSkycLLl0OnuzYGvfsbqmxAaiT2fcJwJaPk=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>在不影響品質的前提下，以盡可能小的檔案大小匯出圖片。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/dayNQybe6wxrwX_fQL3o7nIGXFct6R8mzd5c3ZtWgrxHji2U_xy2AXFbrO4gHwbFD63iOZWvGXJXdezhFpKuEaTna8s4C5YYoRfC=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>避免使用過小尺寸的檔案，這可能導致圖片像素化。</p>
+    </div>
 </div>
 
 ---
 
 ### 無障礙
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%; margin-right:20px">
-
-#### 替代文字
-
-為了確保無障礙功能，圖片應包括可供螢幕閱讀器為視障用戶閱讀的替代文字（或標題）。 如果沒有其他文字，螢幕閱讀器用戶只會聽到「圖片」一詞，而沒有任何該圖案的視覺描述。
-</div>
-
-<div style="width:100%">
-
-![沒有標題或替代文字的圖案](https://lh3.googleusercontent.com/wZZnyV0-sKMeEYrKd6qqQyUWmHbEM_zS3Wk81M76UFbi4SEFXTMeZ090lX58bhqJ-vF--h4LFuzMhp9zBlrcWJcrQaSe2vvyCDRe=w1064-v0)
-<figcaption style="border-top:15px solid #d32f2f;">
-<div style="color: #d32f2f">不建議</div>
-這張圖片沒有標題或替代文字。螢幕閱讀器只會讀出「圖片」，而不會解釋該圖片的含義。
-</figcaption>
-</div>
+<div class="img-grid">
+    <div class="grid-item">
+        <h4>替代文字</h4>
+        <p>為了確保無障礙功能，圖片應包括可供螢幕閱讀器為視障用戶閱讀的替代文字（或標題）。 如果沒有其他文字，螢幕閱讀器用戶只會聽到「圖片」一詞，而沒有任何該圖案的視覺描述。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/wZZnyV0-sKMeEYrKd6qqQyUWmHbEM_zS3Wk81M76UFbi4SEFXTMeZ090lX58bhqJ-vF--h4LFuzMhp9zBlrcWJcrQaSe2vvyCDRe=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>這張圖片沒有標題或替代文字。螢幕閱讀器只會讀出「圖片」，而不會解釋該圖片的含義。</p>
+    </div>
 </div>
 
 ---
@@ -177,7 +128,7 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![縮小到 62.5%](https://lh3.googleusercontent.com/_CS57qUZ-62nnfPZETPu42ndq1BPeKN9l1Tx931RfmQ8zIXhsK6f-bIwoF-43WVmM4aDIRsE6hQFDNs3c-FBGhUdLEpEZ6xsPrZBfA=w1064-v0)
 
-> 縮小到 62.5%
+<p class="annotation">縮小到 62.5%</p>
 
 #### 教導使用者
 
@@ -185,13 +136,13 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![逐步照片](https://lh3.googleusercontent.com/ngvbZluhNC9NoOPX9KdmOCV9n8oFTSOd4t6-h5IqwDMv8_vFl9huY8LtBHcYMNM7PznR-LnZLr6Dp0xei82OpQj7CwaCCa_P4HPRnA=w1064-v0)
 
-> 這個烹飪的 APP 透過逐步的照片來顯示烹飪方法。
+<p class="annotation">這個烹飪的 APP 透過逐步的照片來顯示烹飪方法。</p>
 
 當使用者第一次使用 APP 時，圖像可以幫助他們識別內容。
 
 ![意象類別](https://lh3.googleusercontent.com/Gnmf0-RicV7cYyw_LYXb-eIPXSoVSC7s83QWIowoIM5YmJ3Qb8vQ-5x52upur_A1sCBCScrCjWt3ShFPNqz8N3WQvsstYla0tuXm=w1064-v0)
 
-> 圖像可幫助使用者選擇感興趣的類別或主題，以更個人化的提供他們在 APP 中體驗的內容。
+<p class="annotation">圖像可幫助使用者選擇感興趣的類別或主題，以更個人化的提供他們在 APP 中體驗的內容。</p>
 
 #### 讓使用者比較相似的項目
 
@@ -199,7 +150,7 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![靜態攝影](https://lh3.googleusercontent.com/-oQ22Hv0F62o73HQjd--lniQ8OU8mTnWbfeBIarLxWDi6eK-sm-MsyAPKra4qEAsnscU2LjPYw_xTwwR2Nid7ZTioorxdgHIXSeYZ_0=w1064-v0)
 
-> 在使用 App 的過程中，靜態攝影可以表現出統一的風格，讓使用者可以輕鬆地比較產品。
+<p class="annotation">在使用 App 的過程中，靜態攝影可以表現出統一的風格，讓使用者可以輕鬆地比較產品。</p>
 
 #### 愉悅感
 
@@ -207,7 +158,7 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![使用插圖](https://lh3.googleusercontent.com/u0VJN5pHU9axp_Li5xXMSIaRoR5DBhqQxICZ9cZL4d30f503SUmtIYyOM_jCXyr3iqME98I5LahzNLGzzAHh2X5uAkiMw0C_Q8-D=w1064-v0)
 
-> 這個 APP 使用插圖來幫助使用者開始使用它。
+<p class="annotation">這個 APP 使用插圖來幫助使用者開始使用它。</p>
 
 #### 提供脈絡
 
@@ -215,7 +166,7 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![縮小圖像](https://lh3.googleusercontent.com/IhQ39vtGPAU4m8dF7OTP1RyUlKaGqIz12oDisbzfB52NbCZeG-LS3hX24PKGsFUEAIroyXkW86bh9lfbtQaq_woRkvJrcTs-eDxvKQ=w1064-v0)
 
-> 這個 APP 使用縮小了 62.5% 的圖像來傳達文章內容。
+<p class="annotation">這個 APP 使用縮小了 62.5% 的圖像來傳達文章內容。</p>
 
 ---
 
@@ -233,26 +184,19 @@ description: 圖像透過視覺傳達和區分產品。
 
 主要圖像固定在最顯眼的位置，如螢幕頂部。
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-![主要圖像代表文字內容](https://lh3.googleusercontent.com/XbyLU9JapKq2Kt66XTDMP-8SMAQvgxiL2Do00JP4e2WsUIo-jFB07YmoSfSrXUd6o7sRV9ME3WdZcOijHVP_NeYgq-Hq73Ce6F6hmg=w1064-v0)
-<figcaption style="border-top:15px solid #4caf50;">
-<div style="color: #4caf50">建議</div>
-使用單一個主要圖像呈現文字內容。
-</figcaption>
-</div>
-
-<div style="width:100%">
-
-![輪播中的主要圖像](https://lh3.googleusercontent.com/XSCtRI_j-RjZglqQtQl4J4GJizmfnseBkVGWd5UfNrW2R7M1DNADNuuXXz-o7KaD_XaLdZrs6GBPC4bWfzxRC_gnCUsNoaqUheqgfw=w1064-v0)
-<figcaption style="border-top:15px solid #4caf50;">
-<div style="color: #4caf50">建議</div>
-在輪播中顯示主要圖像。
-</figcaption>
-
-</div>
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/XbyLU9JapKq2Kt66XTDMP-8SMAQvgxiL2Do00JP4e2WsUIo-jFB07YmoSfSrXUd6o7sRV9ME3WdZcOijHVP_NeYgq-Hq73Ce6F6hmg=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>使用單一個主要圖像呈現文字內容。</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/XSCtRI_j-RjZglqQtQl4J4GJizmfnseBkVGWd5UfNrW2R7M1DNADNuuXXz-o7KaD_XaLdZrs6GBPC4bWfzxRC_gnCUsNoaqUheqgfw=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>在輪播中顯示主要圖像。</p>
+    </div>
 </div>
 
 ---
@@ -275,7 +219,7 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![代表類別的圓形縮圖](https://lh3.googleusercontent.com/aUV6pBc9gFXM0l3V1q7LPkRP12-b35IaW21VjKBYBypSkyE8OqQivvMF3mKnexnZF_EQNm4DuywoiaBGVbnPr01oeUJzpun_xCDEmQ=w1064-v0)
 
-> 這些圓形縮圖代表了 APP 中的類別。
+<p class="annotation">這些圓形縮圖代表了 APP 中的類別。</p>
 
 ---
 
@@ -285,13 +229,13 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![在列表項目內的一排縮圖](https://lh3.googleusercontent.com/S6fuozbJvVVrAaU2njT1WtxbqhHTLzo-quHHm6kuZufKfDNeDUudYaGNOA9rn2Xcc8u_vgp4yxv-C5YFMmx31UIDXwBAJsX2Cb6-Ow=w1064-v0)
 
-> 在列表項目內的一排縮圖。
+<p class="annotation">在列表項目內的一排縮圖。</p>
 
 用多種不同比例顯示縮圖，以表達不同程度的視覺重要性。
 
 ![一張卡片上有多種不同比例的縮圖](https://lh3.googleusercontent.com/KaV-q7Qxp_9Li3Zoml-zZWU6kA_UQMAdCA1G51FWKiIoBztUIybM7Mn7xoRKSR5BVUGOu-Y4c7jpCV96uRx-R5toPHdWLDmQsoPJ460=w1064-v0)
 
-> 一張卡片上有多種不同比例的縮圖。
+<p class="annotation">一張卡片上有多種不同比例的縮圖。</p>
 
 ---
 
@@ -307,31 +251,22 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![頭像](https://lh3.googleusercontent.com/tzNO6M3j9y5Rn7oPSzfU5Iv6zDboG2UbPMy9Z1hCKf5dTjA9T2QVhy2NrbInxzaxeVRIZuHk22rlDHkh1bDedezpYJNqmZ4MVxDttg=w1064-v0)
 
-<div style="width:100%;display:flex">
-
-<div style="width:100%;margin-right:20px">
-
-![頭像能夠代表使用者](https://lh3.googleusercontent.com/hOlvuc8igdJb4GHU0gi4NfNgHqL7TJVhJ6fuqlQkp2N_faIea72LwhPL8GBXrx3ynuYVnPWS-MwJQLmhzLezEswMgMnfjF6Qu6-ONA=w1064-v0)
-
-> 頭像能夠代表使用者。
-
-</div>
-
-<div style="width:100%">
-
-![頭像能夠代表品牌](https://lh3.googleusercontent.com/FoRHNlLq6wA3bqcNtDw_p6tLjGldTx0KJRdxpyxEoTlrVAetPdabsObGyT7VSsd_9-pPfbQwFyZtR-ksaSsOW3QJ2G9OYqEKWf2JKzQ=w1064-v0)
-
-> 頭像能夠代表品牌。
-
-</div>
-
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/hOlvuc8igdJb4GHU0gi4NfNgHqL7TJVhJ6fuqlQkp2N_faIea72LwhPL8GBXrx3ynuYVnPWS-MwJQLmhzLezEswMgMnfjF6Qu6-ONA=w1064-v" alt="">
+        <p>頭像能夠代表使用者。</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/FoRHNlLq6wA3bqcNtDw_p6tLjGldTx0KJRdxpyxEoTlrVAetPdabsObGyT7VSsd_9-pPfbQwFyZtR-ksaSsOW3QJ2G9OYqEKWf2JKzQ=w1064-v0" alt="">
+        <p>頭像能夠代表品牌。</p>
+    </div>
 </div>
 
 頭像可以放在任何形狀的多個元件當中。
 
 ![一個正方形的頭像](https://lh3.googleusercontent.com/BFQLdeTN8gg90S6xPiL0QDzLCSMFmu16al1RP0mR2CYj_RB0bC_83l2LV9lXRwbe7ySsPzwzQgCSOC1_kvoi8VAnzXsbmyeuXxVf=w1064-v0)
 
-> 一個正方形的頭像。
+<p class="annotation">一個正方形的頭像。</p>
 
 ### 圖表
 
@@ -339,7 +274,7 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![圖表](https://lh3.googleusercontent.com/42XfBlnpxw2460uirsj5HDkIMlJR5vdNacRZqgw1OMimUc3n69JNnSrszXvRefp02jfQQjhCZ0EGGt60RCVvzC3-ZD1MXSQ7S0jeYA=w1064-v0)
 
-> 圓餅圖說明了單一數值與總數值之間的關係。
+<p class="annotation">圓餅圖說明了單一數值與總數值之間的關係。</p>
 
 ## 圖標
 
@@ -347,9 +282,10 @@ description: 圖像透過視覺傳達和區分產品。
 
 ![圖標](https://lh3.googleusercontent.com/8P-Z02QefQvcU1lVRdDSlJqmkZNz-6mU99JCPFE1LvK0qrX4e-K7EqIXW56xyBiDJJPa-UgGWbslKyryOYqkeeoKZbSCw5gUW7Ig=w1064-v0)
 
-> 綠色的圓形打勾圖標讓使用者知道動作已經成功完成。
+<p class="annotation">綠色的圓形打勾圖標讓使用者知道動作已經成功完成。</p>
 
 ---
 
 > 譯者：W.H. Lin (Asher)
+>
 > 校稿：Joanne Chen
