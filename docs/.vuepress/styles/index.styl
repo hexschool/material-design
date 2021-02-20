@@ -4,6 +4,8 @@
 
 .home .feature a h2 {
   border-bottom: 2px solid transparent;
+  display: inline-block;
+  margin-bottom: 0;
 }
 .home--link {
   display: block;
@@ -26,11 +28,11 @@
   width: 100%;
 }
 
-.grid-item p{
-font-size: 15px;
-color: #616161;
-margin-top: 0px;
-margin-bottom: 30px;
+.grid-item p {
+  font-size: 15px;
+  color: #616161;
+  margin-top: 0px;
+  margin-bottom: 30px;
 }
 
 .item-divide {
@@ -232,17 +234,14 @@ margin-bottom: 30px;
 
 .userList {
   padding:0px;
+  li {
+    margin-right 5px;
+    &:last-child{
+      margin-right 0px;
+    }
+  }
 }
 
-.userList li{
-  margin-right 5px;
-}
-
-.userList li img{
+.userList li img {
   border: 0.5px solid #b2dfdb;
 }
-
-.userList li:last-child{
-  margin-right 0px;
-}
- 
