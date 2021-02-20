@@ -51,7 +51,6 @@
         </template>
         <h2 v-else>{{ feature.title }}</h2>
         <p>{{ feature.details }}</p>
-        
       </div>
     </div>
 
