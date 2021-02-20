@@ -46,7 +46,7 @@
       >
         <template v-if="feature.link">
           <a :href="feature.link"  target="_blank">
-            <h2 class="home--link">{{ feature.title }}</h2>
+            <h2 class="home--link">{{ feature.title }} <OutboundLink /></h2>
           </a>
         </template>
         <h2 v-else>{{ feature.title }}</h2>

@@ -93,6 +93,13 @@ cd docs/.vuepress/dist
 
 echo
 echo ${osStatus} "${yellow}=============================================================="
+echo ${osStatus} " 生成 CNAME "
+echo ${osStatus} "==============================================================${norm}"
+
+echo 'material-design.hexschool.io' > CNAME
+
+echo
+echo ${osStatus} "${yellow}=============================================================="
 echo ${osStatus} " 初始化 Git 與加入 Commit "
 echo ${osStatus} "==============================================================${norm}"
 
