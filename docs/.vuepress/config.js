@@ -16,7 +16,7 @@ module.exports = {
       gtag('config', 'G-XMV3WRFEQ1');
       `],
   ],
-  plugins: ['@vuepress/back-to-top', '@vuepress/active-header-links', '@vuepress/medium-zoom'],
+  plugins: ['@vuepress/back-to-top', '@vuepress/medium-zoom'],
   // serviceWorker: true, // 開啟 PWA
   themeConfig: {
     sidebarDepth: 2, // 側邊欄顯示到 H3
