@@ -110,17 +110,14 @@ module.exports = {
           ['/typography/languageSupport', '語言支援'],
         ]
       },
-      // {
-      //   title: '聲音',
-      //   collapsable: true,
-      //   children: [
-      //     ['/sound/about-sound', '關於聲音'],
-      //     ['/sound/applying-sound-to-ui', '將聲音運用到 UI'],
-      //     ['/sound/sound-attributes', '聲音屬性'],
-      //     ['/sound/sound-choreography', '聲音編排'],
-      //     ['/sound/sound-resources', '聲音資源'],
-      //   ]
-      // },
+      {
+        title: '聲音',
+        collapsable: true,
+        children: [
+          ['/sound/aboutSound', '關於聲音'],
+          ['/sound/applyingSoundToUi', '將聲音運用到 UI'],
+         ]
+      },
       {
         title: '圖示',
         collapsable: true,
