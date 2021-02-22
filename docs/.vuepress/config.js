@@ -7,8 +7,16 @@ module.exports = {
     ['meta', { content:'/static/spec/images/share.png', itemprop:'image', name:'twitter:image', property:'og:image' }],
     ['meta', { content:'https://material.io', itemprop:'url', name:'twitter:url', property:'og:url'}],
     ['meta', { content:'Material Design', property:'og:site_name'}],
-    ['meta', { content:'article', property:'og:type'}]
+    ['meta', { content:'article', property:'og:type'}],
+    ['script', { src:'https://www.googletagmanager.com/gtag/js?id=G-XMV3WRFEQ1', async: true }],
+    ['script', {},`
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-XMV3WRFEQ1');
+      `],
   ],
+  plugins: ['@vuepress/back-to-top', '@vuepress/active-header-links', '@vuepress/medium-zoom'],
   // serviceWorker: true, // 開啟 PWA
   themeConfig: {
     sidebarDepth: 2, // 側邊欄顯示到 H3
@@ -161,4 +169,5 @@ module.exports = {
       },
     ]
   },
+ 
 }
