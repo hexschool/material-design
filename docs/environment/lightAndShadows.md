@@ -126,6 +126,6 @@ Material Design 對15位視力低下的參與者進行了36次採訪，以更好
 
 ---
 
-> 譯者：黃竣鼎
+> 譯者：[黃竣鼎](https://www.facebook.com/profile.php?id=100002335381333)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

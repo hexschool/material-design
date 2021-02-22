@@ -154,6 +154,6 @@ description: 形狀可以傳達元素的狀態或輔助品牌的表達。
 
 ---
 
-> 譯者：Minrey Peng
+> 譯者：[Minrey Peng](https://www.monkhaus.uk/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

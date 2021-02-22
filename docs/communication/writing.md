@@ -426,6 +426,6 @@ description: 文字內容應該要不論文化或語言，在任何地方的任�
 
 ---
 
-> 譯者：蔡芯瑜 Gabrielle
+> 譯者：[蔡芯瑜 Gabrielle](https://www.facebook.com/axin0814)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

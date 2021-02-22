@@ -417,6 +417,6 @@ Material Design 中的層高是指圖層之間所測量出的距離。沿著Z軸
 
 ---
 
-> 譯者：Jia-Yu, Lin (Sally)
+> 譯者：[Jia-Yu, Lin (Sally)](https://www.facebook.com/profile.php?id=100001823224077)
 >
-> 校稿：CYC
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

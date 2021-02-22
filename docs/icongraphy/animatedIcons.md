@@ -118,6 +118,6 @@ title: 動畫圖標
 
 ---
 
-> 譯者：鵬聖
+> 譯者：[鵬聖](https://www.facebook.com/100001596804652/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

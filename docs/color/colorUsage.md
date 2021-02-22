@@ -261,6 +261,6 @@ description: 顏色有助於表達層次結構、建立品牌形象、賦予含�
 
 ---
 
-> 譯者：funnymay
+> 譯者：[funnymay](https://www.facebook.com/1664437279/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

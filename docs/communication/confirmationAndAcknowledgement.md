@@ -149,6 +149,6 @@ description: 確認與確認通知要求在執行操作前進行確認，以及�
 
 ---
 
-> 譯者：ChiaHui Lee
+> 譯者：[ChiaHui Lee](https://www.monkhaus.uk/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

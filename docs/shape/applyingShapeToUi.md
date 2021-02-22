@@ -601,6 +601,6 @@ Material Shape System 能讓您系統化地將特殊形狀應用在不同的元�
 
 ---
 
-> 譯者：許文修（Kevin Hsu）
+> 譯者：[許文修（Kevin Hsu）](https://github.com/kevinshu1995)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

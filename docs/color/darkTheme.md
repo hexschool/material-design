@@ -653,6 +653,6 @@ Material Design 提供用於深色主題的標準色版調色板。
 
 ---
 
-> 譯者：Ash.h
+> 譯者：[Ash.h](https://www.facebook.com/100010078381700/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

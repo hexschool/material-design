@@ -661,6 +661,6 @@ Android</br>
 
 ---
 
-> 譯者：謝佩芸
+> 譯者：[謝佩芸](https://www.facebook.com/100000062646726/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

@@ -79,6 +79,6 @@ description: 導航過渡會在使用者於網頁畫面切換時發生，例如�
 
 ---
 
-> 譯者：Miya Jian
+> 譯者：[Miya Jian](https://averyj.cc)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

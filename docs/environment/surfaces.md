@@ -399,6 +399,6 @@ Material 的表面可以依照某些形式活動：
 
 ---
 
-> 譯者：Joanne Chen
+> 譯者：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

@@ -160,6 +160,6 @@ Material 形狀客製化工具（Material shape customization tool）可用於�
 
 ---
 
-> 譯者：(Jason) Chia-Sheng Wang
+> 譯者：[(Jason) Chia-Sheng Wang](https://www.facebook.com/100000113448332/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

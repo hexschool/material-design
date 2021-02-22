@@ -147,6 +147,6 @@ description: 資料格式描述了不同類型的數字資料與語言資料。
 
 ---
 
-> 譯者：Siling Wang
+> 譯者：[Siling Wang](https://www.facebook.com/1219761971/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

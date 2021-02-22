@@ -130,6 +130,6 @@ Material Design 受到自然世界及其材質的啟發，包括他們如何反�
 
 ---
 
-> 譯者：Joanne Chen
+> 譯者：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

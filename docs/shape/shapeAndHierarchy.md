@@ -88,6 +88,6 @@ description: 形狀可以把注意力引導至重要元素，且顯示與表面�
 
 ---
 
-> 譯者：Yujin Chne
+> 譯者：[Yujin Chne](https://www.facebook.com/100006710929127/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

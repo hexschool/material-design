@@ -286,6 +286,6 @@ description: 圖像透過視覺傳達和區分產品。
 
 ---
 
-> 譯者：W.H. Lin (Asher)
+> 譯者：[W.H. Lin (Asher)](https://github.com/AsherLin)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

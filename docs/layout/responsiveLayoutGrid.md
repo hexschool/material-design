@@ -296,6 +296,6 @@ Material Design 基於以下欄數架構提供響應式佈局。
 
 ---
 
-> 譯者：任遠忠
+> 譯者：[任遠忠](https://www.facebook.com/dong.you.7/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

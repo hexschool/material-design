@@ -97,6 +97,6 @@ Material Theming 會影響整體使用者介面，包括個別元件（像是按
 
 ---
 
-> 譯者：Roy Wang
+> 譯者：[Roy Wang](https://www.facebook.com/100001004032980/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

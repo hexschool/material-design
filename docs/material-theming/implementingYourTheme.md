@@ -323,6 +323,6 @@ Material Design除了原有的實心圖標，還有4種圖標集可以使用。�
 
 ---
 
-> 譯者：張雅媛
+> 譯者：[張雅媛](https://hackmd.io/@Qk3UZVIbSuinDvDjK57egA)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

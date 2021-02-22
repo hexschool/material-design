@@ -99,6 +99,6 @@ description: 當該項目內容無法顯示時，即為空狀態。
 
 ---
 
-> 譯者：張雅雯(Ruby)
+> 譯者：[張雅雯(Ruby)](https://www.facebook.com/rubychang20/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

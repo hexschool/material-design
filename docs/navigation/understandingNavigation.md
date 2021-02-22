@@ -164,6 +164,6 @@ description: 使用者可以根據導覽瀏覽整個應用程式。
 
 ---
 
-> 譯者：Blake Hung
+> 譯者：[Blake Hung](https://www.linkedin.com/in/blakehung/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

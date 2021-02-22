@@ -351,6 +351,6 @@ Roboto 是 Android 系統的預設系統字體。對於不是 Android 或 Web �
 
 ---
 
-> 譯者：邱繼緯
+> 譯者：[邱繼緯](https://www.facebook.com/100000332370903/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

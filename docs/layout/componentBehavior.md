@@ -202,6 +202,6 @@ description: 以下指南描述了元件在網格系統與斷點之間的行為�
 
 ---
 
-> 譯者：CH.Yu
+> 譯者：[CH.Yu](https://github.com/yuu-chien)
 >
-> 校稿：Joanne
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

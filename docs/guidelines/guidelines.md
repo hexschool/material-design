@@ -13,6 +13,6 @@ description: 創建客製化 Material 主題以讓您的產品與眾不同。透
 
 ---
 
-> 譯者：陳凱銘
+> 譯者：[陳凱銘](https://www.facebook.com/100003267382320/)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

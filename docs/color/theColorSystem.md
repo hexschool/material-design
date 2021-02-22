@@ -287,6 +287,6 @@ Apps 可以使用其他顏色來傳達主色外的類別。其仍是您調色板
 
 ---
 
-> 譯者：鄭宇峯
+> 譯者：[鄭宇峯](https://www.facebook.com/joseph.jeng/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

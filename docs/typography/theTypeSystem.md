@@ -272,6 +272,6 @@ Meterial Design 文字量表包含一系列的對照樣式，可以滿足產品�
 
 ---
 
-> 譯者：Guy Chien
+> 譯者：[Guy Chien](https://medium.com/guy-chien)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

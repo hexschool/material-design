@@ -179,6 +179,6 @@ description: 幫助內容提供了使用者問題和問題的答案。
 
 ---
 
-> 譯者：W.H. Lin(Asher)
+> 譯者：[W.H. Lin(Asher)](https://github.com/AsherLin)
 >
-> 校稿：CH.Yu
+> 校稿：[CH.Yu](https://github.com/yuu-chien)

@@ -341,6 +341,6 @@ Material Design 觸碰目標指南，可以幫助無法查看螢幕或使用小�
 
 ---
 
-> 譯者：Joanne Chen
+> 譯者：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

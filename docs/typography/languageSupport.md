@@ -221,6 +221,6 @@ Noto 支援南亞，東南亞和中東語言（包括阿拉伯語，北印度語
 
 ---
 
-> 譯者：何羅賓
+> 譯者：[何羅賓](https://www.linkedin.com/in/chen-wei-he-910806b7/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

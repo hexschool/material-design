@@ -176,6 +176,6 @@ description: 顏色在文字易讀性扮演著重要的角色。
 
 ---
 
-> 譯者：Hans Ling
+> 譯者：[Hans Ling](https://www.facebook.com/1590444611/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

@@ -158,6 +158,6 @@ description: 離線狀態允許用戶無需透過網際網路即可與應用程�
 
 ---
 
-> 譯者：何羅賓
+> 譯者：[何羅賓](https://www.linkedin.com/in/chen-wei-he-910806b7/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

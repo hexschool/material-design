@@ -279,6 +279,6 @@ APP 上頂部底部欄位色彩的配置，可以幫助使用者辨識並了解�
 
 ---
 
-> 譯者：Anne Peng
+> 譯者：[Anne Peng](http://hsinyinpeng.com/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

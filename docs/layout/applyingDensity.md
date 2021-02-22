@@ -235,6 +235,6 @@ Material 密度準則是了解何時以及為什麼，應用密度可以改善�
 
 ---
 
-> 譯者：李昕
+> 譯者：[李昕](https://www.facebook.com/hileeshin/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)

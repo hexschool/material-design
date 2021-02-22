@@ -57,6 +57,6 @@ Material Design 響應式佈局網格是元件和元素定位的總體指南。�
 
 ---
 
-> 譯者：郭育伶
+> 譯者：[郭育伶](https://www.facebook.com/100000561945095/)
 >
-> 校稿：Joanne Chen
+> 校稿：[Joanne Chen](https://www.facebook.com/profile.php?id=100000314569800)
