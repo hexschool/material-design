@@ -18,19 +18,23 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 
 ### 原則
 
-![image alt](https://lh3.googleusercontent.com/OzM9A1jPFKTBQgebqf1tIphThe8l6woYVqnlwapuiuSszmHiz4El0eXGhFVkkN-1FocI8dqzi6acmMbXTKMfQckVIePwHQ7lkb447Q=w1064-v0)
-
-#### 明確
-
-通過設計清晰的排版以及不同的號召性用語來幫助使用者進行導航。
-
-#### 強大的
-
-設計您的 app 以適應各種使用者。
-
-#### 具體的
-
-支持特定於平台的輔助技術，就像您支持觸碰、鍵盤和滑鼠的輸入法一樣。
+<div class="img-grid">
+    <div class="grid-item-triple">
+        <img src="https://lh3.googleusercontent.com/OzM9A1jPFKTBQgebqf1tIphThe8l6woYVqnlwapuiuSszmHiz4El0eXGhFVkkN-1FocI8dqzi6acmMbXTKMfQckVIePwHQ7lkb447Q=w1064-v0" alt="">
+        <h4>明確</h4>
+        <p>通過設計清晰的排版以及不同的號召性用語來幫助使用者進行導航。</p>
+    </div>
+    <div class="grid-item-triple">
+         <img src="https://lh3.googleusercontent.com/bftwWY8u2hMgT9jFJCGW26oyCvbsv8VsVf2GWHTUPBZPIvysoOa75yp7JWOG7cXAgFkHJiGmXidwk-NH41LO3e9Y3AoffEOgl2Fo5XE=w1064-v0" alt="">
+        <h4>強大的</h4>
+        <p>設計您的 app 以適應各種使用者。</p>
+    </div>
+    <div class="grid-item-triple">
+         <img src="https://lh3.googleusercontent.com/BssOncrJ3wn0W9VB828QPUIlF-utNQN0vXPjMclUyV9A6Eub3Ve_fXgdB-a43KK0GXLVS9kpGhx5W5sN8RUGQ4pR5RnQdMcghMxy4g=w1064-v0" alt="">
+        <h4>具體的</h4>
+        <p>支持特定於平台的輔助技術，就像您支持觸碰、鍵盤和滑鼠的輸入法一樣。</p>
+    </div>
+</div>
 
 #### 行動嚮導
 
@@ -77,11 +81,11 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 
 ### 回饋類型
 
-視覺回饋（例如：標籤、顏色和圖標）與觸碰回饋向使用者顯示了 UI 中可用的內容。
+**視覺回饋**（例如：標籤、顏色和圖標）與**觸碰回饋**向使用者顯示了 UI 中可用的內容。
 
 ### 導航
 
-導航可以以最少的步驟獲得清晰的任務線引導，並且易於定位控制物件與清晰標籤。焦點控制或控制鍵盤以及讀取焦點的功能可用於經常使用的任務線。
+導航可以以最少的步驟獲得清晰的任務線引導，並且易於定位控制物件與清晰標籤。**焦點控制**或控制鍵盤以及讀取焦點的功能可用於經常使用的任務線。
 
 ### 層次結構
 
@@ -97,15 +101,18 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 - 將重要操作放在螢幕頂部或底部
 - 將相似層次結構的項目彼此相鄰放置
 
-![image alt](https://lh3.googleusercontent.com/_qfp3TXnbn8PnTWYpEqLHNeegOx99NsslB_7D2Fr0oH489cYi3KbbmPzNmjtZiZsOAT8zcsq7GvXrhvqOE6Vgk_mpNWsfmSXGn7kig=w1064-v0)
-
-> DO
-> 通過將重要操作放在螢幕頂部，他們在層次結構中將變得更加重要。
-
-![image alt](https://lh3.googleusercontent.com/aO_AV2ToqHngrB1fqayHt7MZZMVbNqH-0jXC71y0fE9OYa05sI7FSoz8u3hKcefw7zv7qweHT1KTXJsjmOIXgWq29bT_zBPPcsfg=w1064-v0)
-
-> 警告
-> 當重要動作嵌入到其他內容中時，可能導致使用者不清楚頁面上最重要的元素是什麼。
+<div class="grid-all">
+    <img src="https://lh3.googleusercontent.com/_qfp3TXnbn8PnTWYpEqLHNeegOx99NsslB_7D2Fr0oH489cYi3KbbmPzNmjtZiZsOAT8zcsq7GvXrhvqOE6Vgk_mpNWsfmSXGn7kig=w1064-v0" alt="">
+    <div class="item-divide divide-gn"></div>
+    <div class="item-title title-gn">請這樣做</div>
+    <p class="annotation">通過將重要操作放在螢幕頂部，他們在層次結構中將變得更加重要。</p>
+</div>
+<div class="grid-all">
+    <img src="https://lh3.googleusercontent.com/aO_AV2ToqHngrB1fqayHt7MZZMVbNqH-0jXC71y0fE9OYa05sI7FSoz8u3hKcefw7zv7qweHT1KTXJsjmOIXgWq29bT_zBPPcsfg=w1064-v0" alt="">
+    <div class="item-divide divide-og"></div>
+    <div class="item-title title-og">警告</div>
+    <p class="annotation">當重要動作嵌入到其他內容中時，可能導致使用者不清楚頁面上最重要的元素是什麼。</p>
+</div>
 
 ### 視覺層次
 
@@ -113,41 +120,44 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 
 當 CSS 確定頁面的排版與外觀時，螢幕閱讀器依賴任何平台（行動或網頁）上 HTML 從上至下的結構。此結構為螢幕閱讀器創建了一個地圖，供其在閱讀內容時遵循。
 
-![image alt](https://lh3.googleusercontent.com/uu_kZoeVIDCVjPc7IzoLXdmwzZbV0OdR9GrVRbSwMIuRV_QcQOr1kjpHXf41rUjgbIXcdK0_TgdzFNCUFVJXZQd1AyZPQr_KGw_X9A=w1064-v0)
-
-> Do
-> HTML 通過左上（步驟 1）到右上（步驟 2）到右上（步驟 3），左下（步驟 4）到右下（）讀取內容來反映視覺層次。
-
-```html
-<section class="container">
-   <img class="step-1" />
-   <img class="step-2" />
-   <img class="step-3" />
-   <img class="step-4" />
-</section>
-```
-
-提供對螢幕閱讀器友好層次結構以顯示圖像的範例程式碼
-
-![image alt](https://lh3.googleusercontent.com/8SPFS1EWuZtS9o3DHTaek7uuIlf-N7WJvY_lwNVZqPy7qTuZkkZMCuATNTs-fQ310CpolFGeF0CpaYaPEzzZGRFGhfiE2RkK1gPgUQ=w1064-v0)
-
->警告
->雖然某些使用者可能會依照螢幕的視覺順序從左上角（步驟 1）到右上角（步驟 2），左下角（步驟 3）到右下角（步驟 4）來查看圖片，但預設狀態下，螢幕閱讀器會依照 HTML 從上至下的順序，對內容進行口頭表達（步驟 1、步驟 3、步驟 2、步驟 4）。
-
-```html
-<section class="container">
-  <div class="col-left">
-    <img class="step-1" />
-    <img class="step-3" />
-  </div>
-  <div class="col-right">
-    <img class="step-2" />
-    <img class="step-4" />
-  </div>
-</section>
-```
-
-用以顯示圖片的範例程式碼，其中螢幕閱讀器在讀取右列的項目前會先讀取左邊的項目。
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/uu_kZoeVIDCVjPc7IzoLXdmwzZbV0OdR9GrVRbSwMIuRV_QcQOr1kjpHXf41rUjgbIXcdK0_TgdzFNCUFVJXZQd1AyZPQr_KGw_X9A=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">請這樣做</div>
+        <p>HTML 通過左上（步驟 1）到右上（步驟 2）到右上（步驟 3），左下（步驟 4）到右下（）讀取內容來反映視覺層次。</p>
+    </div>
+    <div class="grid-item">
+      &lt;section class="container"&gt;<br>
+        &lt;img class="step-1" /&gt;<br>
+        &lt;img class="step-2" /&gt;<br>
+        &lt;img class="step-3" /&gt;<br>
+        &lt;img class="step-4" /&gt;<br>
+        &lt;/section&gt;
+      <p>提供對螢幕閱讀器友好層次結構以顯示圖像的範例程式碼</p>
+    </div>
+</div>
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/8SPFS1EWuZtS9o3DHTaek7uuIlf-N7WJvY_lwNVZqPy7qTuZkkZMCuATNTs-fQ310CpolFGeF0CpaYaPEzzZGRFGhfiE2RkK1gPgUQ=w1064-v0" alt="">
+        <div class="item-divide divide-og"></div>
+        <div class="item-title title-og">警告</div>
+        <p>雖然某些使用者可能會依照螢幕的視覺順序從左上角（步驟 1）到右上角（步驟 2），左下角（步驟 3）到右下角（步驟 4）來查看圖片，但預設狀態下，螢幕閱讀器會依照 HTML 從上至下的順序，對內容進行口頭表達（步驟 1、步驟 3、步驟 2、步驟 4）。</p>
+    </div>
+    <div class="grid-item">
+      &lt;section class="container"&gt;<br>
+      &lt;div class="col-left"&gt;<br>
+      &lt;img class="step-1" /&gt;<br>
+      &lt;img class="step-3" /&gt;<br>
+      &lt;/div&gt;<br>
+      &lt;div class="col-right"&gt;<br>
+      &lt;img class="step-2" /&gt;<br>
+      &lt;img class="step-4" /&gt;<br>
+      &lt;/div&gt;<br>
+      &lt;/section&gt;
+      <p>用以顯示圖片的範例程式碼，其中螢幕閱讀器在讀取右列的項目前會先讀取左邊的項目。</p>
+    </div>
+</div>
 
 ---
 
@@ -165,7 +175,7 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 
 ![image alt](https://lh3.googleusercontent.com/OiPvO34KulSlvXkriUO2HvZEjq949LoAqdUIBIh5FX3KYY_7w2T1nEkspHfwgHu0KSgTC8vgkgAnpgB3F2hXkhU_cqCl4GLh1aJ67w=w1064-v0)
 
-> 黑色圓圈表示螢幕元素接收焦點的順序。
+<p class="annotation">黑色圓圈表示螢幕元素接收焦點的順序。</p>
 
 ---
 
@@ -203,27 +213,37 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 | **大尺寸文字（14 pt 粗體／18 pt 常規字體及以上）和圖形** | 與背景對比度 3:1 |
 | 小尺寸文字 | 與背景對比度 4.5:1 |
 
-![image alt](https://lh3.googleusercontent.com/-qSny7vR0px4njFWG80wdN_Bdk-hOcbvhPaB2wvTM2jjfaIufUCOVv7Absl5j2K0VJbk67j40q9zE3OcKXsl-uny0RLfCWh9V3C8=w1064-v0)
-
-> Do
-> 這些文字遵循色彩對比度建議，並且在其背景色下文字保持清晰可見。
-
-![image alt](https://lh3.googleusercontent.com/c1s4wGhwsCN_VjRxR0ZRxd8qngWVwvob9e3dQZWsFnHWyyYxC_7Hx2II-DxBkMkccQ2MrUeYuPpvqfs-eSaRkCKeLYzrQ9rmbGoXN4E=w1064-v0)
-
-> 警告
-> 這些文字不符合色彩對比度建議，在背景色之上較難閱讀。
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/-qSny7vR0px4njFWG80wdN_Bdk-hOcbvhPaB2wvTM2jjfaIufUCOVv7Absl5j2K0VJbk67j40q9zE3OcKXsl-uny0RLfCWh9V3C8=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>這些文字遵循色彩對比度建議，並且在其背景色下文字保持清晰可見。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/c1s4wGhwsCN_VjRxR0ZRxd8qngWVwvob9e3dQZWsFnHWyyYxC_7Hx2II-DxBkMkccQ2MrUeYuPpvqfs-eSaRkCKeLYzrQ9rmbGoXN4E=w1064-v0" alt="">
+        <div class="item-divide divide-og"></div>
+        <div class="item-title title-og">警告</div>
+        <p>這些文字不符合色彩對比度建議，在背景色之上較難閱讀。</p>
+    </div>
+</div>
 
 圖標或其他關鍵元素也應考慮使用上述推薦的對比度。
 
-![image alt](https://lh3.googleusercontent.com/r6d1yfA5NN2VtYs3znmMNTuCY_VVFZgPrG2bTbDojFfRDeu2L9vNhnhzYkxYJyD7CFXV8qjO1vhlxsLYauOf4gTdV9H3R48RvYczLA=w1064-v0)
-
-> Do
-> 這些圖標遵循色彩對比度建議，並且在其背景色下圖標保持清晰可見。
-
-![image alt](https://lh3.googleusercontent.com/ORAKFUe73L8jmoQJdx93schCUFVYF-zbcY_sNfziEU0BpbevEbeZb4srLE6njuW9OKSMxtsP0974lvQ6rRolvum75TysCPnWYLh_=w1064-v0)
-
-> 警告
-> 這些圖標不符合色彩對比度建議，在背景色之上較難閱讀。
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/r6d1yfA5NN2VtYs3znmMNTuCY_VVFZgPrG2bTbDojFfRDeu2L9vNhnhzYkxYJyD7CFXV8qjO1vhlxsLYauOf4gTdV9H3R48RvYczLA=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>這些圖標遵循色彩對比度建議，並且在其背景色下圖標保持清晰可見。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/ORAKFUe73L8jmoQJdx93schCUFVYF-zbcY_sNfziEU0BpbevEbeZb4srLE6njuW9OKSMxtsP0974lvQ6rRolvum75TysCPnWYLh_=w1064-v0" alt="">
+        <div class="item-divide divide-og"></div>
+        <div class="item-title title-og">警告</div>
+        <p>這些圖標不符合色彩對比度建議，在背景色之上較難閱讀。</p>
+    </div>
+</div>
 
 ---
 
@@ -231,15 +251,20 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 
 裝飾元素（例如商標與插圖）可能不符合對比度，但是如果裝飾元素起重要作用（例如連接到網站），則有助於使其與眾不同。
 
-![image alt](https://lh3.googleusercontent.com/EE0_e_2FOnkGpZJE8PQxhL8hc4T4wZOfsLoRirf5X-pRknHfCLfUsjXkIn2fFpfFDPjvEwXfan78otfTgn8NOWMYRB1Vq6B9HS6mxA=w1064-v0)
-
-> Do
-> 明顯的裝飾性商標可能不符合對比度。
-
-![image alt](https://lh3.googleusercontent.com/kIQ1DzhTeKBJw6mcCMdCQYCbThPKOXE9ON_HzJwAqbi2AdgAqEu-yQIOkMtd_hhoyUQN-fsrdCcbhCv43eisDDv3-HAm4rWbSA6kig=w1064-v0)
-
-> Don't
-> 請勿為了符合對比度更改你的商標。
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/EE0_e_2FOnkGpZJE8PQxhL8hc4T4wZOfsLoRirf5X-pRknHfCLfUsjXkIn2fFpfFDPjvEwXfan78otfTgn8NOWMYRB1Vq6B9HS6mxA=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>明顯的裝飾性商標可能不符合對比度。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/kIQ1DzhTeKBJw6mcCMdCQYCbThPKOXE9ON_HzJwAqbi2AdgAqEu-yQIOkMtd_hhoyUQN-fsrdCcbhCv43eisDDv3-HAm4rWbSA6kig=w1064-v0" alt="">
+        <div class="item-divide divide-rd"></div>
+        <div class="item-title title-rd">別這樣做</div>
+        <p>請勿為了符合對比度更改你的商標。</p>
+    </div>
+</div>
 
 ---
 
@@ -249,15 +274,20 @@ description: 設計中的輔助功能中允許各式各樣的使用者導航、�
 
 因為色盲有多種類型（包括紅綠色盲、藍黃色盲與全部色盲），所以多種視覺提示有助於傳達重要狀態。例如筆觸、指示器、圖案、紋理或文字之類的元素可以描述動作和內容。
 
-![image alt](https://lh3.googleusercontent.com/y_1_dH3meRe7lct6c12vsocWBEdOtqpAYoU-s19n4DMLzWb-YlzlN2otggoz-c4m7iy8lhRgohn_kWjXrmrHIvJYUN0WtnaqH9HP-uU=w1064-v0)
-
-> Do
-> 文字區塊錯誤狀態透過多種提示傳達：標題顏色、文字筆畫以及該區塊下方的錯誤訊息。
-
-![image alt](https://lh3.googleusercontent.com/HukIJ1gw1qiPbJt64UcV3Rnse91IWPLsJZ2YTW0QgjqbH_Rgf3GB-Nvzgpzcwdof9lGBtOxuCy7LRYF4e6Frhy6yI84Khsr-5POMWQ=w1064-v0)
-
-> 警告
-> 文字區塊錯誤狀態僅使用彩色筆畫傳達，無法感知顏色的使用者可能會錯過此訊息。
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/y_1_dH3meRe7lct6c12vsocWBEdOtqpAYoU-s19n4DMLzWb-YlzlN2otggoz-c4m7iy8lhRgohn_kWjXrmrHIvJYUN0WtnaqH9HP-uU=w1064-v0" alt="">
+        <div class="item-divide divide-gn"></div>
+        <div class="item-title title-gn">該這樣做</div>
+        <p>文字區塊錯誤狀態透過多種提示傳達：標題顏色、文字筆畫以及該區塊下方的錯誤訊息。</p>
+    </div>
+    <div class="grid-item">
+         <img src="https://lh3.googleusercontent.com/HukIJ1gw1qiPbJt64UcV3Rnse91IWPLsJZ2YTW0QgjqbH_Rgf3GB-Nvzgpzcwdof9lGBtOxuCy7LRYF4e6Frhy6yI84Khsr-5POMWQ=w1064-v0" alt="">
+        <div class="item-divide divide-og"></div>
+        <div class="item-title title-og">警告</div>
+        <p>文字區塊錯誤狀態僅使用彩色筆畫傳達，無法感知顏色的使用者可能會錯過此訊息。</p>
+    </div>
+</div>
 
 ---
 
@@ -279,13 +309,38 @@ Material Design 觸碰目標指南，可以幫助無法查看螢幕或使用小�
 
 指向目標與觸碰目標相似，但是適用於使用運動跟蹤指針設備（例如鼠標或手寫筆）。考慮使指向目標至少為 44X44dp。
 
-![image alt](https://lh3.googleusercontent.com/7k-iIXbajrd7AG_85NF-GFk84sLQCuRwA3jwvttDOTwn8Q6NvwJ35TafZwYujU_vA-ILprIALf-nZ01ZOA65C6bu8NIi6UiljuPQXw=w1064-v0)
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/7k-iIXbajrd7AG_85NF-GFk84sLQCuRwA3jwvttDOTwn8Q6NvwJ35TafZwYujU_vA-ILprIALf-nZ01ZOA65C6bu8NIi6UiljuPQXw=w1064-v0" alt="">
+        <p>當背景內容顯示紗幕內容時，前景內容將引起更多關注。</p>
+        <p>Android 目標此寸為 48X48dp。<br>
+        頭像：40dp<br>
+        Icon ：24dp</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/HRaHWJMyJLrWh9zf43dM_lDL59jcQ_ClsfrRlLJsnFRMjwoMP5uVKZe23UT_DrokN-enC0Qwexp475mXa_DMXpZa8_cLNxa7lXPaFw=w1064-v0" alt="">
+        <p>觸碰目標</p>
+    </div>
+</div>
 
-> Android 目標此寸為 48X48dp。
-> 頭像：40dp
-> Icon ：24dp
+#### 觸碰目標間距
+
+在大多數情況下，相隔 8 dp 或更多空間的觸摸目標可促進平衡的訊息密度和可用性。
+
+<div class="img-grid">
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/mvLTeqqAlcXnE2nm6rDoYg7nVFrzb3SVNhtA9rcF4yISlCCJ-Y_aesslFBsUokXe0-3VeCbrKWW9Vzw8quiyHIDZW2IVz0HFdPQ9=w1064-v0" alt="">
+        <p>觸碰目標高度：48dp<br>
+        按鈕高度：36dp</p>
+    </div>
+    <div class="grid-item">
+        <img src="https://lh3.googleusercontent.com/o87h2bsvjrw70tI1XRd8BqaWF111qgflKVieKpiCaAjZMhXMiBk7qemj8GfvCigVPBp1yVsvDOBpCZcQg5HrCNzcbYuQswKOjT9s=w1064-v0" alt="">
+        <p>觸碰目標及按鈕</p>
+    </div>
+</div>
+
+---
+
+> 譯者：Joanne Chen
 >
-
-![image alt](https://lh3.googleusercontent.com/HRaHWJMyJLrWh9zf43dM_lDL59jcQ_ClsfrRlLJsnFRMjwoMP5uVKZe23UT_DrokN-enC0Qwexp475mXa_DMXpZa8_cLNxa7lXPaFw=w1064-v0)
-
-> 觸碰目標
+> 校稿：Joanne Chen
