@@ -30,12 +30,19 @@ module.exports = {
         link: 'https://www.hexschool.com/',
       },
       {
-        text: 'Material Design',
+        text: 'Material Design 原文件',
         link: 'https://material.io/design',
       },
     ],
     // 側邊導覽
     sidebar: [
+      {
+        title: '介紹',
+        collapsable: true,
+        children: [
+          ['/introduction/introduction', '引言'],
+        ]
+      },
       {
         title: '基礎概述',
         collapsable: true,
@@ -62,6 +69,7 @@ module.exports = {
           ['/layout/responsiveLayoutGrid', '響應式佈局網格'],
           ['/layout/spacingMethods', '間距方法'],
           ['/layout/componentBehavior', '元件行為'],
+          ['/layout/applyingDensity', '適用密度'],
         ]
       },
       {
