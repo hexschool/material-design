@@ -279,7 +279,7 @@ Apps 可以使用其他顏色來傳達主色外的類別。其仍是您調色板
 
 這些色板提供了使用主色和次要色的其他方法。除了使用淺色與深色的選項來區分不同介面，也提供了能符合親和性標準的色彩。
 
-<iframe _ngcontent-gxw-c64="" src="https://material.io/inline-tools/color" title="Color tool" style="height: 773px; width: 100%"></iframe>
+<iframe src="https://material.io/inline-tools/color" title="Color tool" style="height: 773px; width: 100%"></iframe>
 
 ### 2014 Material Design 調色板
 
