@@ -7,9 +7,12 @@
       <a
         :href="editLink"
         target="_blank"
+        class="page--link"
         rel="noopener noreferrer"
-      >{{ editLinkText }}</a>
-      <OutboundLink />
+      >
+        {{ editLinkText }}
+        <OutboundLink />
+      </a>
     </div>
 
     <div
