@@ -91,8 +91,8 @@ description: 深色主題是一種用於弱光環境且主要顯示深色外觀�
 
 可使用以下切換開關，開啟或關閉深色主題：
 
-- 突出顯示，用一個圖標打開或關閉深色主題
-- 突出顯示，並在選單或設定中放置一個切換開關
+- 讓打開或關閉深色主題的圖示明顯可見
+- 在選單或設定中放置一個明顯的切換開關
 
 ![image alt](https://lh3.googleusercontent.com/pgTa3nA1suThryEsoRszChgrhhEFisnZ8HWA8RYC0LQUzCPXKHq-lO00N0vUNnSxklor7fNBOzAuNqPnN4jRAy4QPcTDI2gjBAC96w=w1064-v0)
 
@@ -132,7 +132,7 @@ description: 深色主題是一種用於弱光環境且主要顯示深色外觀�
 
 ![image alt](https://lh3.googleusercontent.com/QdsRbbmvyqvIxojK4GehdCTrzkWaIBTvTRL1fufWGNz0J1T63V-4dV22YYSHXRPFkDX5zl6hV4pgCFxPJvTPusBaXMYTR-60ER8rNw=w1064-v0)
 
-<ol class="annotation">透過使用半透明的白色覆蓋層，表面變得更輕。
+<ol class="annotation">透過使用半透明的白色覆蓋層，表面變得更亮。
     <li>表面</li>
     <li>疊加</li>
 </ol>
