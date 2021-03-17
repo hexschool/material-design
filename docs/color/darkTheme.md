@@ -328,20 +328,20 @@ C. 高度為 8dp 的底部主導覽欄，覆蓋層為 12％
 
 ### 強調色
 
-在深色主題中，深色表面色大範圍的用於介面。強調色通常是淺色（去飽和的粉色）或明亮色（飽和且鮮艷的色彩），以突出強調的元素。
+在深色主題中，深色表面色大範圍的用於介面。強調色通常是淺色（去飽和的粉彩色）或明亮色（飽和且鮮艷的色彩），以突出強調的元素。
 
 應該謹慎使用來強調關鍵元素，例如文字內容或按鈕。
 
 #### 尋找強調色
 
-[色板生成器](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)可用於創建（或查看）色彩主題。用於生成色調調色板，色調是從原色與輔助色創建的而成，範圍從淺色到深色，可以選擇不同的變化用於您的深色主題。
+[色板生成器](https://material.io/design/color/the-color-system.html#tools-for-picking-colors)可用於創建（或查看）色彩主題。用於生成色調調色板，色調是從主色與輔助色創建的而成，範圍從淺色到深色，可以選擇不同的變化用於您的深色主題。
 
 ![image alt](https://lh3.googleusercontent.com/373oRj1q6ZEVlP8W7eLz2Q7aSnLRQUn93cLh0YCnj_asRwULEZC2rCJ6OqDLlDtgt_L1lCZgHsSbU5l_R6p_sHSDVTPzjLPZl5RaYto=w1064-v0)
 
 <p class="annotation">為了在深色主題中提供更大的靈活性與可用性，建議在主題中使用較淺的色調範圍如：200-50，不要使用默認的色彩主題，飽和色調範圍如 900-500。</p>
 <ol class="annotation">
-    <li>預設主題首要色指示器</li>
-    <li>深色主題首要色指示器</li>
+    <li>預設主題主色指標</li>
+    <li>深色主題主色指標</li>
 </ol>
 
 <div class="img-grid">
@@ -366,7 +366,7 @@ C. 高度為 8dp 的底部主導覽欄，覆蓋層為 12％
     </div>
     <div class="grid-item">
         <img src="https://lh3.googleusercontent.com/gik3olr0xOAMAikksLCeGUOHvBkCkERKyS8GwFRWXbRXneQW0-1iJS1btLSPZAmOfnh1QMR1AdueG5jT60Iz-J_qTkyCMRdcafZP-Kg=w1064-v0" alt="">
-        <p>深色主題中，頂部導覽列的表面色使用深色而不是原色或第二色。</p>
+        <p>深色主題中，頂部導覽列的表面色使用深色而不是主色或次要色。</p>
     </div>
 </div>
 
@@ -374,7 +374,7 @@ C. 高度為 8dp 的底部主導覽欄，覆蓋層為 12％
 
 ### 品牌色
 
-為了保留品牌標識，可以在深色主題中完全飽和使用品牌顏色，儘管應將應用程序限制為一個或兩個品牌元素，例如商標或品牌按鈕。 通過少量使用品牌顏色，能使元件在層次結構中保持突出。
+為了保留品牌標識，可以在深色主題中完全飽和使用品牌顏色，儘管應將應用程序限制為一個或兩個品牌元素，例如商標或品牌按鈕。 藉由謹慎地使用品牌顏色，能使元件在層次結構中保持明顯。
 
 在深色主題介面的其餘部分中仍應使用去飽和色。
 
