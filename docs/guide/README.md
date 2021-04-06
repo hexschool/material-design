@@ -198,7 +198,7 @@
 <ul class="unlist-style d-flex no-wrap userList">
   <li>
     <a href="https://www.facebook.com/HsiangFengWeb" target="_blank">
-      <img src="~@users/raynotarray.jpg" width="50" class="border-radius">
+      <img src="~@users/raynotarray.jpg" width="50" class="border-radius" alt="Ray">
     </a>
   </li>
 </ul>
