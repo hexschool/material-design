@@ -198,9 +198,7 @@
 <ul class="unlist-style d-flex no-wrap userList">
   <li>
     <a href="https://www.facebook.com/HsiangFengWeb" target="_blank">
-      <img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/94194842_111363790545891_7524861420752601088_o.jpg?_nc_cat=102&ccb=3&_nc_sid=09cbfe&_nc_ohc=3X9PqDB3F7QAX9zxAez&_nc_ht=scontent.fkhh1-1.fna&oh=b6bdfa0daa561f81592d1dc73b095c25&oe=60548011" width="50" class="border-radius">
+      <img src="~@users/raynotarray.jpg" width="50" class="border-radius">
     </a>
   </li>
 </ul>
-
-

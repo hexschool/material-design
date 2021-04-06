@@ -1,3 +1,5 @@
+const path = require('path');
+
 module.exports = {
   title: 'Material Design - 六角學院譯', // 整個網站的標題
   description: 'Material Design', // 網站的標題
@@ -16,6 +18,13 @@ module.exports = {
       gtag('config', 'G-XMV3WRFEQ1');
       `],
   ],
+  configureWebpack: {
+    resolve: {
+      alias: {
+        '@users': path.resolve(__dirname, 'public/images/users'),
+      }
+    }
+  },
   plugins: ['@vuepress/back-to-top', '@vuepress/medium-zoom'],
   // serviceWorker: true, // 開啟 PWA
   themeConfig: {
