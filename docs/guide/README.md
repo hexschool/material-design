@@ -23,7 +23,7 @@
   </li>
   <li>
     <a href="https://averyj.cc" target="_blank">
-      <img src="https://scontent.fkhh1-1.fna.fbcdn.net/v/t1.0-9/93655263_10217387013295438_265222283591680000_o.jpg?_nc_cat=100&ccb=3&_nc_sid=174925&_nc_ohc=yo8hIA4826kAX_8Qtbz&_nc_ht=scontent.fkhh1-1.fna&oh=e79d1d7ae7a3e430c383b92c2ca19b91&oe=60554867" width="50" class="border-radius">
+      <img src="~@users/Miyajian.jpg" width="50" class="border-radius" alt="Miyajian">
     </a>
   </li>
   <li>
@@ -108,7 +108,7 @@
   </li>
   <li>
     <a href="http://hsinyinpeng.com/" target="_blank">
-      <img src="https://scontent.fkhh1-2.fna.fbcdn.net/v/t1.0-1/p100x100/134769362_10221488730801926_1911791779711140669_o.jpg?_nc_cat=111&ccb=3&_nc_sid=7206a8&_nc_ohc=V-5GnupqOJAAX_o0ZfQ&_nc_ad=z-m&_nc_cid=0&_nc_ht=scontent.fkhh1-2.fna&tp=6&oh=8c3af22d0e79e7e73ed1fffc1e4fd8f0&oe=6055BAC1" width="50" class="border-radius">
+      <img src="~@users/Annepeng.jpg" width="50" class="border-radius" alt="Annepeng">
     </a>
   </li>
   <li>
