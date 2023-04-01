@@ -249,18 +249,18 @@ description: 文字內容應該要不論文化或語言，在任何地方的任�
         <p>使用阿拉伯數字。</p>
     </div>
     <div class="grid-item">
-        <h3>輸入兩個 3</h3>
+        <h3>您有三（three）封訊息</h3>
         <div class="item-divide divide-rd"></div>
         <div class="item-title title-rd">別這樣做</div>
-        <p>當用兩種不同的方法使用數字時，一個使用數字表達、另一個使用文字。</p>
+        <p>別把數字單字拼出來。</p>
     </div>
 </div>
 <div class="img-grid">
     <div class="grid-item">
-        <h3>您有三（three）封訊息</h3>
+        <h3>輸入兩個 3</h3>
         <div class="item-divide divide-gn"></div>
         <div class="item-title title-gn">該這樣做</div>
-        <p>別把數字單字拼出來。</p>
+        <p>當用兩種不同的方法使用數字時，一個使用數字表達、另一個使用文字。</p>
     </div>
 </div>
 
